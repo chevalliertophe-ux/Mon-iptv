@@ -15,7 +15,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
 
     steps:
       - uses: actions/checkout@v4
@@ -30,6 +30,12 @@ jobs:
       - name: Update VOD candidates
         run: python scripts/update_vod_candidates.py
 
+      - name: Enrich direct VOD media links
+        run: python scripts/refresh_vod_media.py
+
+      - name: Update EPG XMLTV
+        run: python scripts/update_epg.py
+
       - name: Generate playlists
         run: python scripts/build.py
 
@@ -38,5 +44,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add sources/ public/
-          git diff --cached --quiet || git commit -m "Daily MON IPTV catalogue refresh"
+          git diff --cached --quiet || git commit -m "Daily MON IPTV catalogue and EPG refresh"
           git push
