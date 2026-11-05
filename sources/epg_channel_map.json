@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "channels": [
+    {
+      "name": "ARTE",
+      "country": "fr",
+      "tvg_id": "Arte.fr"
+    },
+    {
+      "name": "France 24 Français",
+      "country": "fr",
+      "tvg_id": "France24.fr"
+    },
+    {
+      "name": "TV5MONDE Info",
+      "country": "fr",
+      "tvg_id": "TV5Monde.fr"
+    }
+  ]
+}
