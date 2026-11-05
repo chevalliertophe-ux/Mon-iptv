@@ -1,24 +1,42 @@
-name: MON IPTV - Automatic update
+name: MON IPTV - Daily catalogue update
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 5,17 * * *"
+    - cron: "17 6 * * *"
 
 permissions:
   contents: write
 
+concurrency:
+  group: mon-iptv-daily
+  cancel-in-progress: false
+
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+
     steps:
       - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update TV candidates
+        run: python scripts/update_tv_candidates.py
+
+      - name: Update VOD candidates
+        run: python scripts/update_vod_candidates.py
+
       - name: Generate playlists
-        run: python3 scripts/build.py
-      - name: Publish updated files
+        run: python scripts/build.py
+
+      - name: Publish updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/
-          git diff --cached --quiet || git commit -m "Update IPTV playlists"
+          git add sources/ public/
+          git diff --cached --quiet || git commit -m "Daily MON IPTV catalogue refresh"
           git push

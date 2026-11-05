@@ -1,0 +1,8 @@
+{
+  "countries": {
+    "France": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+    "Suisse": "https://iptv-org.github.io/iptv/countries/ch.m3u",
+    "Italie": "https://iptv-org.github.io/iptv/countries/it.m3u",
+    "Espagne": "https://iptv-org.github.io/iptv/countries/es.m3u"
+  }
+}

@@ -1,5 +1,22 @@
 {
-  "version": 1,
+  "version": 2,
   "movies": [],
-  "series": []
+  "series": [],
+  "sources": [
+    {
+      "name": "Internet Archive",
+      "type": "movies",
+      "rights_check": "required"
+    },
+    {
+      "name": "WikiFlix",
+      "type": "public_domain_movies",
+      "rights_check": "required"
+    },
+    {
+      "name": "Wikimedia Commons",
+      "type": "freely_licensed_video",
+      "rights_check": "required"
+    }
+  ]
 }
