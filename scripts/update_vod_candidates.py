@@ -16,6 +16,7 @@ COLLECTIONS = [
     ("animationandcartoons", "Dessins animés")
 ]
 
+
 def search(collection):
     query = (
         f'mediatype:movies AND collection:{collection} '
@@ -42,6 +43,7 @@ def search(collection):
     with urllib.request.urlopen(req, timeout=45) as response:
         return json.load(response)["response"]["docs"]
 
+
 def main():
     existing = {}
 
@@ -54,10 +56,12 @@ def main():
         }
 
     discovered = 0
+    successful_collections = 0
 
     for collection, category in COLLECTIONS:
         try:
             docs = search(collection)
+            successful_collections += 1
             print(category, ":", len(docs), "résultats")
 
             for doc in docs:
@@ -69,7 +73,9 @@ def main():
                 if doc.get("licenseurl") != LICENSE:
                     continue
 
-                existing[identifier] = {
+                previous = existing.get(identifier, {})
+
+                fresh = {
                     "identifier": identifier,
                     "title": title,
                     "year": doc.get("year"),
@@ -77,11 +83,17 @@ def main():
                     "category": category,
                     "license_declared": LICENSE,
                     "source": "Internet Archive",
-                    "review_status": "rights_and_playback_review_required",
                     "metadata_url": f"https://archive.org/metadata/{identifier}",
                     "item_url": f"https://archive.org/details/{identifier}",
-                    "playback_url": None
                 }
+
+                # Ne jamais effacer une validation ou une URL déjà renseignée.
+                item = {**previous, **fresh}
+                item["review_status"] = previous.get(
+                    "review_status", "rights_and_playback_review_required"
+                )
+
+                existing[identifier] = item
                 discovered += 1
 
         except Exception as error:
@@ -92,8 +104,9 @@ def main():
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "total_candidates": len(existing),
         "new_or_refreshed": discovered,
+        "successful_collections": successful_collections,
         "items": list(existing.values()),
-        "notice": "Candidats uniquement : aucune licence ni lecture n'est certifiée."
+        "notice": "Candidats uniquement : licence déclarée et lecture à vérifier."
     }
 
     OUT.write_text(
@@ -102,7 +115,9 @@ def main():
     )
 
     print("TOTAL CANDIDATS :", len(existing))
+    print("Collections récupérées :", successful_collections, "/", len(COLLECTIONS))
     print("FICHIER :", OUT)
+
 
 if __name__ == "__main__":
     main()

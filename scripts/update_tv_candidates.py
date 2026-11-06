@@ -16,28 +16,38 @@ COUNTRIES = {
 }
 
 
+def load_old():
+    if not OUTPUT.exists():
+        return {}
+
+    data = json.loads(OUTPUT.read_text(encoding="utf-8"))
+    result = {}
+
+    for item in data.get("channels", []):
+        url = str(item.get("url", "")).strip().split("|", 1)[0].lower()
+        if url and item.get("name"):
+            result[url] = item
+
+    return result
+
+
 def parse_attr(line, key):
-    match = re.search(
-        rf'(?:^|\s){re.escape(key)}="([^"]*)"',
-        line
-    )
+    match = re.search(rf'(?:^|\s){re.escape(key)}="([^"]*)"', line)
     return match.group(1).strip() if match else ""
 
 
 def extract_name(line):
     quoted = False
-
     for index, char in enumerate(line):
         if char == '"':
             quoted = not quoted
         elif char == "," and not quoted:
             return line[index + 1:].strip()
-
     return ""
 
 
-def download(country_code):
-    url = f"https://iptv-org.github.io/iptv/countries/{country_code}.m3u"
+def download(code):
+    url = f"https://iptv-org.github.io/iptv/countries/{code}.m3u"
     request = urllib.request.Request(
         url, headers={"User-Agent": "MON-IPTV/1.0"}
     )
@@ -46,23 +56,10 @@ def download(country_code):
 
 
 def main():
-    old = {}
-
-    if OUTPUT.exists():
-        data = json.loads(OUTPUT.read_text(encoding="utf-8"))
-        old = {}
-        for item in data.get("channels", []):
-            original_url = str(item.get("url", "")).strip()
-            name = str(item.get("name", "")).strip()
-
-            if not original_url or not name or "like Gecko)" in name:
-                continue
-
-            key = original_url.split("|", 1)[0].strip().lower()
-            if key:
-                old[key] = item
-
+    IMPORTS.mkdir(parents=True, exist_ok=True)
+    old = load_old()
     updated = {}
+    successful_countries = 0
 
     for code, country in COUNTRIES.items():
         try:
@@ -88,50 +85,49 @@ def main():
 
                     if url.startswith(("http://", "https://")) and name:
                         key = url.lower()
+                        previous = old.get(key, {})
 
-                        updated[key] = {
+                        fresh = {
                             "name": name,
                             "url": original_url,
                             "country": country,
-                            "group": parse_attr(
-                                metadata, "group-title"
-                            ) or country,
+                            "group": parse_attr(metadata, "group-title") or country,
                             "logo": parse_attr(metadata, "tvg-logo"),
-                            "status": "candidate_to_verify",
-                            "rights_status": "not_verified"
                         }
+
+                        # Préserver les décisions et contrôles déjà enregistrés.
+                        item = {**previous, **fresh}
+                        item["status"] = previous.get(
+                            "status", "candidate_to_verify"
+                        )
+                        item["rights_status"] = previous.get(
+                            "rights_status", "not_verified"
+                        )
+
+                        updated[key] = item
                         count += 1
 
                     metadata = None
 
-            print(country, ":", count, "chaînes candidates")
+            successful_countries += 1
+            print(country, ":", count, "chaînes récupérées")
 
         except Exception as error:
             print(country, "ERREUR :", error)
 
-    # Conserver les anciennes entrées uniquement si leur nom est propre.
+    # Conserver les anciennes entrées absentes des nouvelles sources.
     preserved = 0
-    rejected = 0
-
-    for url, item in old.items():
-        name = str(item.get("name", "")).strip()
-
-        if not name or "like Gecko)" in name:
-            rejected += 1
-            continue
-
-        if url not in updated:
-            updated[url] = item
+    for key, item in old.items():
+        if key not in updated:
+            updated[key] = item
             preserved += 1
-
-    print("ANCIENNES ENTREES CONSERVEES :", preserved)
-    print("ANCIENNES ENTREES ECARTEES :", rejected)
 
     result = {
         "version": 1,
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "total_candidates": len(updated),
         "channels": list(updated.values()),
+        "successful_country_sources": successful_countries,
         "notice": "Flux candidats : droits et lecture à vérifier."
     }
 
@@ -140,8 +136,9 @@ def main():
         encoding="utf-8"
     )
 
+    print("Anciennes entrées conservées :", preserved)
+    print("Sources pays récupérées :", successful_countries, "/", len(COUNTRIES))
     print("TOTAL :", len(updated))
-    print("FICHIER :", OUTPUT)
 
 
 if __name__ == "__main__":
