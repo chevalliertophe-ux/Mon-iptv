@@ -15,23 +15,6 @@
     <icon src="https://iptv-epg.org/images/EH4yfv--GxHolAyD_8U4OpMiulW70weftcHJU4iVqiIiuGh7oQwtPu79eDYDFnHgfU7Wb4D0t1ElbAspYwk_-EhxZllm0cIEexVTsTYbyaa4" />
   </channel>
   
-<programme start="20261106102500 +0000" stop="20261106120000 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire culturel</category>
-    <desc lang="fr">E2 — Sainte-Sophie dévoilée
-Basilique chrétienne devenue mosquée musulmane, Sainte-Sophie, située à Istanbul, en Turquie, est encore loin d'avoir livré tous ses trésors.</desc>
-    <episode-num>E2</episode-num>
-    <icon src="https://iptv-epg.org/images/KMPigkT5aduTOQj5hc5Gux6yLRv69v1CNPkoP6NfV0gYxTq5xHZtNh4DOp-I495gXYUPhTydtkQIzkK63LyHXSPqzF0-iP47vCIm3gJnSILgEB_oSjnu" />
-    <title lang="fr">Monuments éternels</title>
-  </programme>
-  
-<programme start="20261106120000 +0000" stop="20261106123500 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire de société</category>
-    <desc lang="fr">Nie zu alt fürs Leben
-Gros plan sur un centre pour seniors hors du commun de Rome qui accueille plus de 2 000 retraités dans un esprit de solidarité.</desc>
-    <icon src="https://iptv-epg.org/images/YdpPonciM8FvHwwLFj_gSY5TJKkVhP-8V6SKfckz2-Wk9taAHWKRK-HDATKq-x4GJjhGVC__HefEjSHvBbdl8kRdBlNAhCCB1BT2mcWlxBXxfxq1-FnX" />
-    <title lang="fr">Rome : retraités, mais toujours actifs</title>
-  </programme>
-  
 <programme start="20261106123500 +0000" stop="20261106150500 +0000" channel="Arte.fr">
     <category lang="fr">Drame</category>
     <desc lang="fr">Une plongée dans l'univers carcéral américain à travers le personnage étonnant d'un prisonnier condamné à perpétuité pour un double meurtre.</desc>
@@ -804,123 +787,6 @@ En quatre minutes, le décryptage géopolitique d'un événement qui secoue le m
 Une lycéenne sud-coréenne effectue son stage de fin d'études dans une entreprise vite frappée par une série d'événements qui alerte les autorités.</desc>
     <icon src="https://iptv-epg.org/images/SyM93PYNsfpEXOTfloM6SUv8p7d3UjTAoWvznHJyuMg6P81yVkZ1b0YGjRaPL8cINVEYIVZUhegqyeQl_UQ4mPEDko6-J3PVKhbEhfrlzrPWQkFq63uV" />
     <title lang="fr">About Kim Sohee</title>
-  </programme>
-  
-<programme start="20261106115000 +0000" stop="20261106120000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine sportif</category>
-    <desc lang="fr">E8
-Sports.</desc>
-    <episode-num>E8</episode-num>
-    <icon src="https://iptv-epg.org/images/4t61UFNyuNeb3s-_9oqYJfnOmddLHIuZ3bt1RDNkBFXvY3OmhUzkvWEZ7t4P2OIU2uLwanPuiIIqTFyP-2gEgkmAjzT9A0LMApHtZq_NLhKfPmFksph3" />
-    <title lang="fr">Sports</title>
-  </programme>
-  
-<programme start="20261106120000 +0000" stop="20261106123000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E68
-L'info du jour.</desc>
-    <episode-num>E68</episode-num>
-    <icon src="https://iptv-epg.org/images/Hd1ryeTu4K5XVhlZK6nfhUXUk5EHSM5K_P3LOGiSCNLyhFg78Ev9f140QZlXSfg2TUkCWFt4C-SHvFQ-idpdpnM_eLc687tAnJF4O6XZNJLMD66-mvhp" />
-    <title lang="fr">L'info du jour</title>
-    <new />
-  </programme>
-  
-<programme start="20261106123000 +0000" stop="20261106125000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E15
-Le club Paris direct.</desc>
-    <episode-num>E15</episode-num>
-    <icon src="https://iptv-epg.org/images/GZK2KTsv8ScrrjhcLLo__rnJ7z40Hy6OMfKWeSxwaYGh-ofkTzSp-qU8x29K1pBHpe-7KzKrhipwsvwLQWPDFCNLLmKqAN51JRNPixDg-gH3t3XA4tKI" />
-    <title lang="fr">Le club Paris direct</title>
-    <new />
-  </programme>
-  
-<programme start="20261106125000 +0000" stop="20261106130000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E3
-ActuElles.</desc>
-    <episode-num>E3</episode-num>
-    <icon src="https://iptv-epg.org/images/M5SygDyzxF3JzudWjJkdkNzIazg8E2Tcdxhrvv21Q0C8w6pEGPGvt9SIBoz30WeYV8uOaw2CjU6sYKIe9sX4n13qq1sCtdPMzf4llRkDaw-N2tSujgMu" />
-    <title lang="fr">ActuElles</title>
-    <new />
-  </programme>
-  
-<programme start="20261106130000 +0000" stop="20261106132000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E3
-Le club autour du monde.</desc>
-    <episode-num>E3</episode-num>
-    <icon src="https://iptv-epg.org/images/C2JlUSzdLkERNy1ACogGZ5Io3Bcy6v9l9nPec5v-WW_ZnIUB6pEoLvzZKlSuteD78OGmGPkpeEAlT4klJsvx6gFzfQLM6lrJXfm6jwbILKe7FYUFIxnu" />
-    <title lang="fr">Le club autour du monde</title>
-    <new />
-  </programme>
-  
-<programme start="20261106132000 +0000" stop="20261106133000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine</category>
-    <desc lang="fr">E10
-Tech 24.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/d9OabqgIIFwLma006pg_n0F3BF9gUIpKAaOHLGlQsRypWShwd4vsFgCtl9pQlvDAqOKbgXNgz0QFUegXdoFwe_qZSwg2hdRGLV42kr4vnA9fjG2L4Kxu" />
-    <title lang="fr">Tech 24</title>
-    <new />
-  </programme>
-  
-<programme start="20261106133000 +0000" stop="20261106134500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E75
-Autour du monde : le journal.</desc>
-    <episode-num>E75</episode-num>
-    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
-    <title lang="fr">Autour du monde : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261106134500 +0000" stop="20261106135100 +0000" channel="France24.fr">
-    <category lang="fr">Magazine culturel</category>
-    <desc lang="fr">E3
-Chronique culture.</desc>
-    <episode-num>E3</episode-num>
-    <icon src="https://iptv-epg.org/images/v2z6zFq8C2zD3wApek2SWRugMHXHRMQUeSv_eGh0CiOhOeFNwOodxo96EtG70iesQBIxxgrplv8QZL4KZXcpVHsz4SBz_gHXzXF1PHX2yXd3_HP5jcXF" />
-    <title lang="fr">Chronique culture</title>
-    <new />
-  </programme>
-  
-<programme start="20261106135100 +0000" stop="20261106140000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de découvertes</category>
-    <desc lang="fr">E29
-Elément Terre.</desc>
-    <episode-num>E29</episode-num>
-    <icon src="https://iptv-epg.org/images/KOHm-15_bQrSdVgJkvsC-EH6piwi5C-qhRdlYzeCRkNmtP4n3h2819x0Vvxm2ywiyYrcWBdbBvDT9frv4iI6dBGgnxpFxROy1CH0DX8tbdb7zBL_Ma35" />
-    <title lang="fr">Elément Terre</title>
-    <new />
-  </programme>
-  
-<programme start="20261106140000 +0000" stop="20261106141500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E76
-Autour du monde : le journal.</desc>
-    <episode-num>E76</episode-num>
-    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
-    <title lang="fr">Autour du monde : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261106141500 +0000" stop="20261106142200 +0000" channel="France24.fr">
-    <category lang="fr">Magazine</category>
-    <desc lang="fr">E10
-Dans les hebdos.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/YPwkRV77iDikechWw7BXqvfk9PdEWOicQ5AHi48zLiib4qjHfAbLkkNCFtcpCTplzuYuuOdYvHWowQaUHUdpw0Z14Iq0HwLbDfda9A-Zvja5gf6nv5Wa" />
-    <title lang="fr">Dans les hebdos</title>
-  </programme>
-  
-<programme start="20261106142200 +0000" stop="20261106143000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E10
-Les observateurs.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/ZttxCBwz6rXKa20mZAUAT6OSk0c7cXpweG8A0ob-ZK2BS6g_4pUEUzzfGYZBfRegEg7XS6OZbsh100yqnZiJU91JPBpruw-GdKsMz8m9Kj2cZWJhLV7f" />
-    <title lang="fr">Les observateurs</title>
   </programme>
   
 <programme start="20261106143000 +0000" stop="20261106144500 +0000" channel="France24.fr">
@@ -4067,38 +3933,6 @@ Le débat de France 24.</desc>
     <episode-num>E13</episode-num>
     <icon src="https://iptv-epg.org/images/qZ1mG2cIjIHjMOpvxhdl3Fi8ffAOIY0_lSgoURVd1jqHZwCWJwzqsI_OLKhDOsX5ys8FqqjiXJiZhJQzV5a3jqtloBfNEQnXjq1QRtnAHnDVaQi9bXh4" />
     <title lang="fr">Le débat de France 24</title>
-  </programme>
-  
-<programme start="20261106114900 +0000" stop="20261106120200 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">Outremer.l'info.</desc>
-    <icon src="https://iptv-epg.org/images/1ZIaMr6aFJfoC8ZpLskzRUviAYwdcF-XQHWn7hzBBzIGMNqMGBD_arACuEYmxcxpwIIrg57LzJZxEBYehAX6L_aPufV-1_aWrdbohvr32bNAQ5uzNVVb" />
-    <title lang="fr">Outremer.l'info</title>
-  </programme>
-  
-<programme start="20261106120200 +0000" stop="20261106122500 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Série</category>
-    <desc lang="fr">S8 E1914
-Alors que Nathalie espère encore trouver des réponses à ses questions, Janet est prête à faire un pas en direction de Jérémy.</desc>
-    <episode-num>S8 E1914</episode-num>
-    <icon src="https://iptv-epg.org/images/G1cPbi4WlN_TbPPOo-OSIzWNHCjflGgOwWVBRKvHpbMCkF-A4ycoN0Hd3ZDvk8tGgjnWsgAsDzSDUZXc999zfxm1V8b6dpBmml5KVam7jF95L5HsFRiY" />
-    <title lang="fr">Un si grand soleil</title>
-  </programme>
-  
-<programme start="20261106122500 +0000" stop="20261106123000 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E15 — Slush et gadoue
-Slush et gadoue L'arrivée du printemps au Québec est marquée par l'apparition de la gadoue, aussi appelée slush. Si cette bouillie neigeuse n'a rien d'attrayant, l'histoire de ses noms est plutôt absorbante. Narration : Charles Beauchesne.</desc>
-    <episode-num>E15</episode-num>
-    <icon src="https://iptv-epg.org/images/vQq_QJmQS8Y8azEKNtJv5FhJL4MK7M5HZI17BV6SPzWJnaab6BS54c0uNxeOf9GlF27clT9mfWNFR4Nnn0BSuNZGUTy8rCeS_aW1AYT5p1shUGCuIC_7" />
-    <title lang="fr">Dis-moi pas!? La petite histoire des mots d'ici</title>
-  </programme>
-  
-<programme start="20261106123000 +0000" stop="20261106130100 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">JT 13h (La Une).</desc>
-    <icon src="https://iptv-epg.org/images/vOvlFuy95abxMRqDW5oyr6wS0eKqn3E82ZAazl6edb24f4RCkgkUuDrRQ_q2gUJ9jg8HuzFyWp7RXLnzewSozIx4j9d1iiMppAoAC9tJeyCtG7Xwe_IA" />
-    <title lang="fr">JT 13h (La Une)</title>
   </programme>
   
 <programme start="20261106130100 +0000" stop="20261106143500 +0000" channel="TV5Monde.fr">
