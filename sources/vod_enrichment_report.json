@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-05T20:10:52.436790+00:00",
-  "total": 309,
-  "metadata_ok": 309,
-  "direct_mp4_found": 224,
-  "declared_pd_or_cc0": 309,
-  "errors": 0,
+  "updated_at": "2026-11-06T10:25:08.668405+00:00",
+  "total": 381,
+  "metadata_ok": 380,
+  "direct_mp4_found": 274,
+  "declared_pd_or_cc0": 380,
+  "errors": 1,
   "approved_with_direct_link": 0
 }
