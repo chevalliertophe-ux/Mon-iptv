@@ -806,64 +806,6 @@ Une lycéenne sud-coréenne effectue son stage de fin d'études dans une entrepr
     <title lang="fr">About Kim Sohee</title>
   </programme>
   
-<programme start="20261106103000 +0000" stop="20261106104500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E105
-Paris direct : le journal.</desc>
-    <episode-num>E105</episode-num>
-    <icon src="https://iptv-epg.org/images/zegVt4wO7ByBnJMedlZbnh0p4whYZtNwn323XR3c4hpKFuaT640MAygZfV3Q5pcWVOjeKcgcG5TxDVXaI3bS8ML39NKsIie6tiJgvYQvO-N0oqK2zg7f" />
-    <title lang="fr">Paris direct : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261106104500 +0000" stop="20261106110000 +0000" channel="France24.fr">
-    <category lang="fr">Débat</category>
-    <desc lang="fr">E10
-En tête à tête.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/Aq5Ueq2FuEH-izoRBFfJQoYTKttkYOZhVWfYabhbJUM-NVz3n0IxHHEAEZP1vvtHJeeChjPwP5tdYfep3NtkmMs1ja5nRwlOMq1gXY2XxX5IUDKAYkK9" />
-    <title lang="fr">En tête à tête</title>
-  </programme>
-  
-<programme start="20261106110000 +0000" stop="20261106111600 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E182
-Paris direct : le journal.</desc>
-    <episode-num>E182</episode-num>
-    <icon src="https://iptv-epg.org/images/zegVt4wO7ByBnJMedlZbnh0p4whYZtNwn323XR3c4hpKFuaT640MAygZfV3Q5pcWVOjeKcgcG5TxDVXaI3bS8ML39NKsIie6tiJgvYQvO-N0oqK2zg7f" />
-    <title lang="fr">Paris direct : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261106111600 +0000" stop="20261106113000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine culturel</category>
-    <desc lang="fr">E50
-A l'affiche.</desc>
-    <episode-num>E50</episode-num>
-    <icon src="https://iptv-epg.org/images/ZrX6rgE656yOAhIwTmNErfYAgHhEPjsWjR0Uxafbs8iB3W1pToWEFBqIs5eCIyQODa1G3JzLZSbbktp5JG4pxfKx9ZXPmI1IH6OhIW1JpY5lq7Hsis0u" />
-    <title lang="fr">A l'affiche</title>
-    <new />
-  </programme>
-  
-<programme start="20261106113000 +0000" stop="20261106114500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E106
-Paris direct : le journal.</desc>
-    <episode-num>E106</episode-num>
-    <icon src="https://iptv-epg.org/images/zegVt4wO7ByBnJMedlZbnh0p4whYZtNwn323XR3c4hpKFuaT640MAygZfV3Q5pcWVOjeKcgcG5TxDVXaI3bS8ML39NKsIie6tiJgvYQvO-N0oqK2zg7f" />
-    <title lang="fr">Paris direct : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261106114500 +0000" stop="20261106115000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E7
-Focus.</desc>
-    <episode-num>E7</episode-num>
-    <icon src="https://iptv-epg.org/images/B4eSPT6dlEtyNQ9_U8ZroBmiZPpwkX1JOTlIMToYFBUAdMZzl2TXaWmjacdv_7mQJ7Ua5KZrwUYFo0Q7vJclooHplXJI1s1UmHfdz3jvXXgIuN2M6A8E" />
-    <title lang="fr">Focus</title>
-  </programme>
-  
 <programme start="20261106115000 +0000" stop="20261106120000 +0000" channel="France24.fr">
     <category lang="fr">Magazine sportif</category>
     <desc lang="fr">E8
@@ -4125,22 +4067,6 @@ Le débat de France 24.</desc>
     <episode-num>E13</episode-num>
     <icon src="https://iptv-epg.org/images/qZ1mG2cIjIHjMOpvxhdl3Fi8ffAOIY0_lSgoURVd1jqHZwCWJwzqsI_OLKhDOsX5ys8FqqjiXJiZhJQzV5a3jqtloBfNEQnXjq1QRtnAHnDVaQi9bXh4" />
     <title lang="fr">Le débat de France 24</title>
-  </programme>
-  
-<programme start="20261106101600 +0000" stop="20261106104900 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Jeu</category>
-    <desc lang="fr">Slam.</desc>
-    <icon src="https://iptv-epg.org/images/yvVOnNi6udEVaMpx2IuNUL0Io2-JNL5XbwYld-AZYGWAyKW5Zoq5OHxdQS-1YQ0dIQSK7EEZmXQbF38kmHq6dvTLG0bRp-EFZKMad1e8N61L-mIkrk4W" />
-    <title lang="fr">Slam</title>
-  </programme>
-  
-<programme start="20261106104900 +0000" stop="20261106114900 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">S10 E27 — Intoxications alimentaires : tous concernés !
-Faustine Bollaert et ses invités alertent sur les dangers des intoxications alimentaires.</desc>
-    <episode-num>S10 E27</episode-num>
-    <icon src="https://iptv-epg.org/images/hsd0ZTYGxAYjY5e3Hafx8zfin-QffRxnhgWPjxk7_N0WFPbUmMSoQVJ95dPXcMlJfF3bmQepxfYkTnYA4iO4qs4xWPSERhtVpsyWyvyAOd99ala3-OTu" />
-    <title lang="fr">Ça commence aujourd'hui</title>
   </programme>
   
 <programme start="20261106114900 +0000" stop="20261106120200 +0000" channel="TV5Monde.fr">
