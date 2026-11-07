@@ -1,0 +1,19 @@
+{
+  "tv": 113,
+  "movies": 806,
+  "series_episodes": 0,
+  "vod": 806,
+  "total": 919,
+  "sources": [
+    "MON-IPTV",
+    "FreeCastHub",
+    "LegalFreeIPTV"
+  ],
+  "movie_groups_allowed": [
+    "Documentaries: Wikimedia Commons",
+    "Movies: Open Movies",
+    "Movies: Shorts",
+    "Movies: World Classics"
+  ],
+  "notice": "TV: flux issus de catalogues de chaînes gratuites officielles. VOD: uniquement groupes Blender et Wikimedia Commons autorisés par la sélection de la source. Les séries ne sont incluses que si la source apporte une preuve de droits."
+}

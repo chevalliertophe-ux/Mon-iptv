@@ -39,6 +39,9 @@ jobs:
       - name: Generate playlists
         run: python scripts/build.py
 
+      - name: Build SmartOne TV and VOD playlist
+        run: python scripts/build_smartone_full.py
+
       - name: Publish updates
         run: |
           git config user.name "github-actions[bot]"
