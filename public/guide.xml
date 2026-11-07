@@ -15,14 +15,6 @@
     <icon src="https://iptv-epg.org/images/EH4yfv--GxHolAyD_8U4OpMiulW70weftcHJU4iVqiIiuGh7oQwtPu79eDYDFnHgfU7Wb4D0t1ElbAspYwk_-EhxZllm0cIEexVTsTYbyaa4" />
   </channel>
   
-<programme start="20261107123000 +0000" stop="20261107140500 +0000" channel="Arte.fr">
-    <category lang="fr">Film d'aventures</category>
-    <desc lang="fr">Cristo, 1ère époque : La Trahison
-Victime d'une dénonciation calomnieuse, un homme est jeté en prison où il moisit pendant 18 longues années avant de chercher à venger cette injustice.</desc>
-    <icon src="https://iptv-epg.org/images/SeFEtsDHBy2MYilXrPg3cyy_UULMD2qpL-bzZf5EouGCByGFHmks8AZbMayjLsK9K9dfcENdpwGfqcce1NVf_6cd9P6XnrAfEz6rmQFJQM9TYoclnYh1" />
-    <title lang="fr">Le Comte de Monte-Cristo : La trahison</title>
-  </programme>
-  
 <programme start="20261107140500 +0000" stop="20261107154500 +0000" channel="Arte.fr">
     <category lang="fr">Film d'aventures</category>
     <desc lang="fr">La vengeance d'Edmond Dantès, revenu dans le monde sous les traits du comte de Monte-Cristo : l'ancien bagnard s'attaque tout d'abord à celui qui l'a dénoncé.</desc>
@@ -780,84 +772,6 @@ a la fin des années 1960, en plein mouvement de libéralisation de la société
     <desc lang="fr">Superposant aux images de l'Ukraine dévastée des conversations entre les soldats russes et leurs proches interceptées par Kiev, ce film met à nu l'impérialisme de la Russie.</desc>
     <icon src="https://iptv-epg.org/images/JybhaDyE7TXaVM3H8QTDMZfLr8lsi1tc1R1NY9IwcVmXsbeYDtfDO0Pcjtr9kihs08W61oGynpU4XvvxfojTcBTtaawVuLjUDWriRBes3eBb5JM3rpan" />
     <title lang="fr">Interceptés</title>
-  </programme>
-  
-<programme start="20261107131500 +0000" stop="20261107133000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E10
-Une semaine en France.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/N2XmcG0th0jkyg0pAcxVckv7kN7bF7eVXR3cm7qlxFFt83q79jWJH6Lu3iqXMeWuk_j5HMhdt89x9tkFG0VEeoGrzQj_6LIfNdyv8yBJOUFSQCBt00G8" />
-    <title lang="fr">Une semaine en France</title>
-    <new />
-  </programme>
-  
-<programme start="20261107133000 +0000" stop="20261107134500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E80
-Autour du monde : le journal.</desc>
-    <episode-num>E80</episode-num>
-    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
-    <title lang="fr">Autour du monde : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261107134500 +0000" stop="20261107140000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E10
-Une semaine reportages.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/IPsxW_Clsc3Lwc2SM2pX4G9RXjj9Mi1YT3TqXUlUF4RJJkT1RDZDQ-rOo1EzEuYUvpa9epIOq9cHsqiLxfv64O1ihRgSUOeaA-riDK76XL1qFyD8APPQ" />
-    <title lang="fr">Une semaine reportages</title>
-    <new />
-  </programme>
-  
-<programme start="20261107140000 +0000" stop="20261107141000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E81
-Autour du monde : le journal.</desc>
-    <episode-num>E81</episode-num>
-    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
-    <title lang="fr">Autour du monde : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261107141000 +0000" stop="20261107143000 +0000" channel="France24.fr">
-    <category lang="fr">Interview</category>
-    <desc lang="fr">E10
-Ici l'Europe : on en débat.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/-nd4bhfuE1pCUifWB_2qX6wJgitD7Ht1gn5kMPJNwIuXYwvlk9Y_UGY7WPvKYbLzOZbFwxpBah1WpR3loVJIRrZHdH3UxPogyOLHi9Rq_iA5a1m7Zu55" />
-    <title lang="fr">Ici l'Europe : on en débat</title>
-  </programme>
-  
-<programme start="20261107143000 +0000" stop="20261107144000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E25
-Autour du monde : le journal.</desc>
-    <episode-num>E25</episode-num>
-    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
-    <title lang="fr">Autour du monde : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261107144000 +0000" stop="20261107150000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E11
-Légendes urbaines.</desc>
-    <episode-num>E11</episode-num>
-    <icon src="https://iptv-epg.org/images/UqNEfFAUfsgx1lwVqHXkUwRwHXxpZLS2uBjzv1kf1tG0Bmlze1mDF-a3nWRPGg-lyx4A07-Y5sbn9Acq8E-PciaFpztw6Iy7QZmgE7IXnjxG28BgWxCv" />
-    <title lang="fr">Légendes urbaines</title>
-  </programme>
-  
-<programme start="20261107150000 +0000" stop="20261107151000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E82
-Autour du monde : le journal.</desc>
-    <episode-num>E82</episode-num>
-    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
-    <title lang="fr">Autour du monde : le journal</title>
-    <new />
   </programme>
   
 <programme start="20261107151000 +0000" stop="20261107153000 +0000" channel="France24.fr">
@@ -1698,7 +1612,6 @@ Paris direct : le journal.</desc>
     <title lang="fr">Paris direct : le journal</title>
     <new />
   </programme>
-  
 <programme start="20261108124500 +0000" stop="20261108130000 +0000" channel="France24.fr">
     <category lang="fr">Magazine de société</category>
     <desc lang="fr">E10
@@ -2033,7 +1946,6 @@ L'essentiel : le journal.</desc>
     <title lang="fr">L'essentiel : le journal</title>
     <new />
   </programme>
-  
 <programme start="20261108211000 +0000" stop="20261108213000 +0000" channel="France24.fr">
     <category lang="fr">Magazine de société</category>
     <desc lang="fr">E11
@@ -4199,15 +4111,6 @@ Le débat de France 24.</desc>
     <title lang="fr">Le débat de France 24</title>
   </programme>
   
-<programme start="20261107130500 +0000" stop="20261107140200 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Divertissement</category>
-    <desc lang="fr">E9
-Vivement dimanche.</desc>
-    <episode-num>E9</episode-num>
-    <icon src="https://iptv-epg.org/images/x5hJ8o2GhMpD26IOf3iWeGZXeumu3bP8ZjauQTqY8dLu5clOsbY_rMN2X5-8VAxU2EDvk8S5LkBxeaVtEvWAPsUbSy79-HNZjXjdmiQyK1ddov0VhS5P" />
-    <title lang="fr">Vivement dimanche</title>
-  </programme>
-  
 <programme start="20261107140200 +0000" stop="20261107154800 +0000" channel="TV5Monde.fr">
     <category lang="fr">Débat</category>
     <desc lang="fr">E13 — Les meilleurs moments
@@ -4729,6 +4632,7 @@ Au sommaire : IA, la fabrique à arnaques. Depuis le début de l'année 2026, le
     <icon src="https://iptv-epg.org/images/CXTuISfegOmvvpRpSYz5oRNN4S0j0FiVYWS5ZH0lMhGGSPJqUPoxLFh_q9lchYqKlkKdKMV0fJSka4LjEe7C4ZmNIY-4yLFmFpmJQR_JUVNvu3_b89gX" />
     <title lang="fr">Mourir d'aimer</title>
   </programme>
+  
 <programme start="20261109023700 +0000" stop="20261109030500 +0000" channel="TV5Monde.fr">
     <category lang="fr">Documentaire de société</category>
     <desc lang="fr">S4 E10 — Johanna et Maximiliano (Argentine)
