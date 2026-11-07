@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="France 24 Français" tvg-country="FR" group-title="France | Information",France 24 Français
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-name="ARTE" tvg-country="FR" group-title="France | Culture",ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-name="TV5MONDE Info" tvg-country="FR" group-title="France | Information",TV5MONDE Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
