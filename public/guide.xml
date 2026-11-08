@@ -15,199 +15,6 @@
     <icon src="https://iptv-epg.org/images/EH4yfv--GxHolAyD_8U4OpMiulW70weftcHJU4iVqiIiuGh7oQwtPu79eDYDFnHgfU7Wb4D0t1ElbAspYwk_-EhxZllm0cIEexVTsTYbyaa4" />
   </channel>
   
-<programme start="20261107140500 +0000" stop="20261107154500 +0000" channel="Arte.fr">
-    <category lang="fr">Film d'aventures</category>
-    <desc lang="fr">La vengeance d'Edmond Dantès, revenu dans le monde sous les traits du comte de Monte-Cristo : l'ancien bagnard s'attaque tout d'abord à celui qui l'a dénoncé.</desc>
-    <icon src="https://iptv-epg.org/images/0-IizjyEc_jZXChlLAYRCCCPqQMx-CDTPx1S6wrg510oVHNCBTy1E_F7R8rbXZWJQqF7XVdxfenhAyVEMEVdd1TgP5dpKgPoYxR7LpK7VU2Z9BimxMNn" />
-    <title lang="fr">Le Comte de Monte-Cristo : La vengeance</title>
-  </programme>
-  
-<programme start="20261107154500 +0000" stop="20261107161500 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">S2 E3 — Philippines, île de Negros
-Corentin cherche un système pour s'approvisionner en eau en grande quantité. Aux Philippines, sur l'île de Negros, un inventeur va lui fournir une solution.</desc>
-    <episode-num>S2 E3</episode-num>
-    <icon src="https://iptv-epg.org/images/HZ9fSqy2wgYODrK5OrbiEDPdZvcOkyulkrqRbotKSehgc95eFFV0FhBzQUCPBT2E2Z0lAgr61gQOeETUEHJsssCGxHCFjPIqE0XkAh0HCJ-fiEECdz9U" />
-    <title lang="fr">Nomade des mers, les escales de l'innovation</title>
-  </programme>
-  
-<programme start="20261107161500 +0000" stop="20261107170000 +0000" channel="Arte.fr">
-    <category lang="fr">Magazine de découvertes</category>
-    <desc lang="fr">E313 — Mexique
-Le Mexique plus magique que réel de Juan Rulfo - Au Mexique, vive la mort ! - Au Mexique, le poisson grillé au piment de Zenaida - A Mexico, un satellite pris au vol.</desc>
-    <episode-num>E313</episode-num>
-    <icon src="https://iptv-epg.org/images/YCV0n5ABdONeoN7EuDoLps3DzZNwsQHZE7KM7A5Jj49mNTfW9GF1TvyMnGydeNSGSjqT7hU_S8-GeaatLP1Elarg-OKDzb2h0-qe2-d8LCxAm-Wsc9M7" />
-    <title lang="fr">Invitation au voyage</title>
-  </programme>
-  
-<programme start="20261107170000 +0000" stop="20261107175000 +0000" channel="Arte.fr">
-    <category lang="fr">Magazine de découvertes</category>
-    <desc lang="fr">E268 — Spécial Autriche, Vienne
-Au sommaire : "Graham Greene et "Le troisième homme"". - "La période de "Vienne la rouge"". "La Hofburg, palais impérial des Habsbourg".</desc>
-    <episode-num>E268</episode-num>
-    <icon src="https://iptv-epg.org/images/DYVo56GnXZzvXPmVM_JWbz65_vJuhA_HuJDMZ73BktpdUiYnCGK4x7owgyV89GsKefgYvDAt4NGJpId61ovRlgHfbWtPOVFlCwQku6sxfPEu2MFOcuyR" />
-    <title lang="fr">Invitation au voyage</title>
-  </programme>
-  
-<programme start="20261107175000 +0000" stop="20261107184500 +0000" channel="Arte.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">Arte reportage.</desc>
-    <icon src="https://iptv-epg.org/images/AjResFS83SW_vFr35iUxvtvlvfNg9HSsO4wb5T1oz0iQ1J3x93emKO5F6rj1_6gS76Rmn8ChR8tHga1Y_IxM5WSU1oyy7TUWJQI5tHn5EzJMrRGEtIJw" />
-    <title lang="fr">Arte reportage</title>
-  </programme>
-  
-<programme start="20261107184500 +0000" stop="20261107190500 +0000" channel="Arte.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.</desc>
-    <icon src="https://iptv-epg.org/images/wOagFM12zfwq6IH_oJa1dztJdwpbBqfQ6DNedquC0SHoVyYqO7YyZ6uVtE_OoCvMnFLxHD4_8n2V7H43T54UG8wvkejKrbD8eobqCjgsnZtEzdP5NtKI" />
-    <title lang="fr">Arte journal</title>
-  </programme>
-  
-<programme start="20261107190500 +0000" stop="20261107195500 +0000" channel="Arte.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E66
-Présenté par Renaud Dély les vendredi et samedi, le rendez-vous phare de l'info, curieux et exigeant.</desc>
-    <episode-num>E66</episode-num>
-    <icon src="https://iptv-epg.org/images/SvvAw_r6MB-UcCZ5PlVxsQhRfqF6lDYPWq8bPtN5cR0BsOsIRPJzx3T4Isz-j5rHUiLxAMwGER248ppsvIg4FebqudiLXEt2YaLtgCESACTaYeRS68C2" />
-    <title lang="fr">28 minutes</title>
-  </programme>
-  
-<programme start="20261107195500 +0000" stop="20261107212500 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">Im Bann der Urkräfte
-Dans la cordillère des Andes, un géologue étudie comment les mouvements des plaques tectoniques, les volcans, les glaciers, le vent, l'eau et le soleil sculptent les paysages.</desc>
-    <icon src="https://iptv-epg.org/images/RzeZDmOWi6fE4xjXAfuXEQrU1OuD1R6qlyJhNQjtiRvYwinDfHLFXh1AEf4Ou3poc8yDI1wqfm_uG5T0d-Bdug4eWP_vcT-a6ThbEfRyowYC39NuSGI5" />
-    <title lang="fr">Les beautés de la cordillère des Andes</title>
-  </programme>
-  
-<programme start="20261107212500 +0000" stop="20261107222000 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">Comment se forment les tempêtes dévastatrices que sont les super-rafales ? Auprès de chercheurs de pointe, décryptage d'un phénomène météorologique spectaculaire.</desc>
-    <icon src="https://iptv-epg.org/images/GcvlNZ3aMYfjBojCbl02bfPErVWd5Q9YEl48FTm6wnRrZQzqCQJiO6x04BNjVae0rz-_dLdKxfO1r-kLEIrp0ijzy_xOJE1PKW44torMteu1H8p47edT" />
-    <title lang="fr">Super-rafales, un phénomène sous surveillance</title>
-  </programme>
-  
-<programme start="20261107222000 +0000" stop="20261107231500 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire scientifique</category>
-    <desc lang="fr">Phénomènes aussi éphémères que fascinants, les nuages restent une énigme pour la science. Comment se forment-ils ? Quel est leur rôle dans le fonctionnement du climat ?</desc>
-    <icon src="https://iptv-epg.org/images/Ra4QN8gShvgS_rIf0sBityzmpDVSr4YOnGZ2AdufxfFTIwmP5l5zAgnBktMD4X4gP2bTGMhL9TXbWpGvO84VqqnsFt8k9PPu-8BvKhT5__AnCms9jfpH" />
-    <title lang="fr">Le monde mystérieux des nuages</title>
-  </programme>
-  
-<programme start="20261107231500 +0000" stop="20261108004000 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">Gros plan sur le glacier Vatnajökull, en Islande, qui fond au rythme de cinquante centimètres par an, et qui pourrait disparaître entièrement d'ici un siècle et demi.</desc>
-    <icon src="https://iptv-epg.org/images/b_O3CTz6nM3MvFS3JtFx2pxBiVnKElQSQgxzripOOEPPaK9vypW45aQog7FYKvoOcXZcVaBakf-ySZhtMD6fOs2MKqQSj8d5XKYCveFuSZvt9FeEj4Ew" />
-    <title lang="fr">La pietà : Requiem pour un glacier</title>
-  </programme>
-  
-<programme start="20261108004000 +0000" stop="20261108022000 +0000" channel="Arte.fr">
-    <category lang="fr">Drame</category>
-    <desc lang="fr">De retour dans son village natal pour assister à un enterrement, un jeune homme s'y retrouve pris au piège après une bagarre qui a tourné au drame.</desc>
-    <icon src="https://iptv-epg.org/images/Dfjek1AAIitcVuV1RZL4RpR-4LY2wg_seHyFg2qJ4ohog2L7FC84ArJA5X6sCAk-vCZKIMoHfPaxMCKFnYaChlG5wyufrT6TluDRgUzcJ4nu5TUQzPLu" />
-    <title lang="fr">Miséricorde</title>
-  </programme>
-  
-<programme start="20261108022000 +0000" stop="20261108031900 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">Euphrosinia Kersnovskaïa, dite Frosia, a 33 ans quand l'URSS la condamne au goulag en Sibérie, en 1940. Commencent dix-huit années d'errance qu'elle raconte dans son journal.</desc>
-    <icon src="https://iptv-epg.org/images/ECOPpjbDDWk1B4eL0yyVtSB2rWPDK6Oia-VwKvNartQTTFkF1wF_-cGR5czE0KNIUlrlNQR1Eda2cRtyiSYe0S60kXwPw1gt1uihklwI9t71fS47ux0e" />
-    <title lang="fr">Frosia, une femme libre au goulag</title>
-  </programme>
-  
-<programme start="20261108031900 +0000" stop="20261108040000 +0000" channel="Arte.fr">
-    <category lang="fr">Magazine</category>
-    <desc lang="fr">Pause.</desc>
-    <icon src="https://iptv-epg.org/images/c6b5XVGtdydxFjXvNQ3Een0o8R4QXaoLzOGlssZAlRCj_Lq98rCF1TKQtYIcHjIN4bzJqx0ODUIaAr9tPxVX-IK3b36lB_IQ-sPK7uPxbVC-eOr-2_GI" />
-    <title lang="fr">Pause</title>
-  </programme>
-  
-<programme start="20261108040000 +0000" stop="20261108043000 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">E1 — Pérou, les puits Nazca
-Zoom sur les habitants du désert péruvien de Nazca, qui font refleurir leurs terres grâce à un réseau de puits et canaux millénaires.</desc>
-    <episode-num>E1</episode-num>
-    <icon src="https://iptv-epg.org/images/fLRc6mHyVUr5h1ApN_9gZYpJ6cSUhhqgG234KzUVwI4U1ddVjD0qh-YqLD_dKe9CDg4KQ80EUNgGyg5iMx7TbNeBp2Pn4V_s8R35imshzND2d9Ap8w8x" />
-    <title lang="fr">Les gardiens de l'eau</title>
-  </programme>
-  
-<programme start="20261108043000 +0000" stop="20261108051500 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire culturel</category>
-    <desc lang="fr">Ja ist gut, Nein ist gut
-Avec plus de 300 titres et 12 millions d'albums vendus, Janosch, né Horst Eckert, est l'auteur pour la jeunesse allemand le plus connu au monde : portrait.</desc>
-    <icon src="https://iptv-epg.org/images/R43DQp7-906tsPNnEvPUY9j82wawOchZYsRSO_3UgM5LevmbxDrD19UkJgarv8uwcPGcTkWW6nq4_Tj4jdVM0bb_ofy5cmgbEt_mVsqhoDU28gJmtF5S" />
-    <title lang="fr">Janosch, conteur de rêves</title>
-  </programme>
-  
-<programme start="20261108051500 +0000" stop="20261108061000 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">S1 E1 — Félins d'Europe : les revenants
-En Europe, les grands félins ont vu leur population chuter jusqu'à frôler l'extinction. Des initiatives de conservation ont permis de sauver certains animaux.</desc>
-    <episode-num>S1 E1</episode-num>
-    <icon src="https://iptv-epg.org/images/KixU_2CHUrlXRTW3xqiKqHVLsos0GFifZUi3m2fvSh2ITK40n6QC-d2PM01lapAQc_FaMlENs7uST4n78HxBY2OWhNSkKY8PuLevRptBB13igI56WlEh" />
-    <title lang="fr">Chats et chiens sauvages</title>
-  </programme>
-  
-<programme start="20261108061000 +0000" stop="20261108071000 +0000" channel="Arte.fr">
-    <category lang="fr">Concert</category>
-    <desc lang="fr">Live in London
-Leonard Cohen : Live in London.</desc>
-    <icon src="https://iptv-epg.org/images/ju_wwTbWu8gWLVo9riUqPK09iQzlYDZNdXHBJSOjPNLlWZHKLBslAqqqL4FoMCI-kS93uGH2QbaiA59wT27BV9gfEydECrl6TbQwV221mF6BgYJ11OHZ" />
-    <title lang="fr">Leonard Cohen</title>
-  </programme>
-  
-<programme start="20261108080500 +0000" stop="20261108083000 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">E2 — University of Oxford
-Zoom sur l'université d'Oxford, inaugurée au début du XIIe siècle, un établissement aux allures de château gothique qui cultive ses traditions.</desc>
-    <episode-num>E2</episode-num>
-    <icon src="https://iptv-epg.org/images/FGs9Aa-TIOp1C4GpRUbSY95IaVKX7J6YY7HX-LWGSaZApXvtbhaK9LyiO7inckzZenPj-7H2Lg4I4u7J96CbgAT9wFcmMQrWSlfEkZ4pWxGoovBEjHxI" />
-    <title lang="fr">Les universités dans le monde</title>
-  </programme>
-  
-<programme start="20261108083000 +0000" stop="20261108090000 +0000" channel="Arte.fr">
-    <category lang="fr">Magazine culturel</category>
-    <desc lang="fr">E255 — Princesses : La fin du rêve
-Paillettes, diadème et étoiles plein les yeux : la vie de princesse fait encore rêver. "Twist" explore l'envers du décor et s'interroge : pourquoi les jeunes femmes demandent-elles à être traitées comme des reines ? L'univers Disney y est-il pour quelque chose ? Le rap féministe peut-il tout changer ?</desc>
-    <episode-num>E255</episode-num>
-    <icon src="https://iptv-epg.org/images/O_tX2tvBl0oOmBsec8-4-XfASoa7evrd4P0wi3r8LHYLQ6ulEHC_LPlb3QQkD_8yTZLxSffLT1NcC_ImQXVkvuIsAXK_cM_zgiphO2hT5tV8ANwsPPO6" />
-    <title lang="fr">Twist</title>
-  </programme>
-  
-<programme start="20261108090000 +0000" stop="20261108093000 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">E234 — La Rhénanie
-A Mettmann, près de Düsseldorf, les Kircher tiennent un élevage d'oies en plein air ; début novembre, la Saint-Martin est célébrée avec des plats de fête.</desc>
-    <episode-num>E234</episode-num>
-    <icon src="https://iptv-epg.org/images/LjrJpIyY1P_wJUTDVM41UYCyE0DsQ7yZQBQ1-PS55VZCGqfgHkgG9rfc29X17lKLN_6kVwSunJjBNb9kW40tiV5wy_KRZybLmNAbeFgJBN5sZoqFKszk" />
-    <title lang="fr">Cuisines des terroirs</title>
-  </programme>
-  
-<programme start="20261108093000 +0000" stop="20261108110000 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire culturel</category>
-    <desc lang="fr">La relation intime vécue par l'assistante personnelle de John Lennon et de Yoko Ono avec l'ex-Beatle. Une liaison décidée par Yoko elle-même.</desc>
-    <icon src="https://iptv-epg.org/images/JgDa2jQC7odT6AZdE2vzmI-A58VeBi2-e-wBJ9VEdu4nvZNx4tzUD1yNZ0s7Af9N1geFhhGa1hihTUBDIJ0S9kBfk41GH-1zE7l3VwbdqX-hGfq1z5SP" />
-    <title lang="fr">John Lennon : L'amour interdit</title>
-  </programme>
-  
-<programme start="20261108110000 +0000" stop="20261108114500 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">S1 E2 — Le lac Balaton en Hongrie
-Plus grand lac d'Europe centrale de la Hongrie, le Balaton devient chaque été un paradis entouré de roselières. Ce paysage abrite une riche biodiversité.</desc>
-    <episode-num>S1 E2</episode-num>
-    <icon src="https://iptv-epg.org/images/EL48XwYYjPwMc1vN5B2jWYlzQBmHgrC80qXlz0ckEXDA-U2aZvR8NSF11zyKfcu0wANpnaoadcG8aERtXnI3RRPg7xvtcqWR-mDOjdNAzTn2xuh2PEI6" />
-    <title lang="fr">Voyage en eaux calmes</title>
-  </programme>
-  
-<programme start="20261108114500 +0000" stop="20261108123000 +0000" channel="Arte.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">S1 E3 — Le lac de Van en Turquie
-Dans l'est de la Turquie s'étend, à plus de 1600 mètres d'altitude, le lac de Van. Il est, avec ses eaux alcalines, le plus grand lac de soude du monde.</desc>
-    <episode-num>S1 E3</episode-num>
-    <icon src="https://iptv-epg.org/images/RDlafRDLyvitqu-AfNxLXFUup1vPKlqyqj0mmkAYJPKRpUeJAf41qZB_-2oEg-abgTwZiQF7hi8lgrNIYhy5GmLs0Oj4T35HlJKjV6Vb3asss6DPyBjr" />
-    <title lang="fr">Voyage en eaux calmes</title>
-  </programme>
-  
 <programme start="20261108123000 +0000" stop="20261108141000 +0000" channel="Arte.fr">
     <category lang="fr">Western</category>
     <desc lang="fr">Un ancien bandit, qui mène à présent une vie rangée, fait mine de s'intégrer à un gang de hors-la-loi pour se tirer d'une situation périlleuse.</desc>
@@ -774,861 +581,217 @@ a la fin des années 1960, en plein mouvement de libéralisation de la société
     <title lang="fr">Interceptés</title>
   </programme>
   
-<programme start="20261107151000 +0000" stop="20261107153000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E10
-Billet retour.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/aCkkfz7JgBTRTxjCQslhucyblnIgblVbsInh7i9FfKZwEux7SIaZUNOp6sOMzIdkeCQWpNfeGmRik0swivw-qCClUrOt-2DRYXXNPXjM7gWqiLVbHlAo" />
-    <title lang="fr">Billet retour</title>
+<programme start="20261111011000 +0000" stop="20261111014000 +0000" channel="Arte.fr">
+    <category lang="fr">Documentaire de société</category>
+    <desc lang="fr">Un état des lieux trois ans après l'escalade du conflit dans le Haut-Karabakh, qui oppose l'Arménie et l'Azerbaïdjan.</desc>
+    <icon src="https://iptv-epg.org/images/2lqg_BfH-PeypW4WDxDsHt-KGso0bZN0xvOApK6Dni456a4EsTOxnieJRPakAY3Mvz1YOgsz0HeiZ-19Xiw3uR6apdVXMqHmspiUl--2jTREw1YkUced" />
+    <title lang="fr">Haut-Karabakh : bras de fer dans le Caucase du Sud</title>
   </programme>
   
-<programme start="20261107153000 +0000" stop="20261107154000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E26
-Autour du monde : le journal.</desc>
-    <episode-num>E26</episode-num>
-    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
-    <title lang="fr">Autour du monde : le journal</title>
-    <new />
+<programme start="20261111014000 +0000" stop="20261111030000 +0000" channel="Arte.fr">
+    <category lang="fr">Drame</category>
+    <desc lang="fr">Dix ans après la mort brutale de leur fils unique, un couple se retrouve dans le cimetière où repose leur enfant car son corps doit être exhumé.</desc>
+    <icon src="https://iptv-epg.org/images/GHrbD99Ebi2GQ2E-hTuHvHjvu2h1u7P3o7X6tgXI1rvYnHhomiS0Cc1ydhwyK1umo5lhCTo6E25QnbH8sibpxPkwGspE0Yv8tq4k1UjWLXHJEWZfTHGu" />
+    <title lang="fr">Poison</title>
   </programme>
   
-<programme start="20261107154000 +0000" stop="20261107155500 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E10
-C'est en France.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/eF_riR9s3QRPmXH-KlThOkGBORE7Qy7cNxhm07dVQ6DBydp9T3i2CWCBkVYmoGcas1WxL_F0G_gZm-YI_hzAv71JK5y_816_m14Uec_34Wt5qehgpSHA" />
-    <title lang="fr">C'est en France</title>
+<programme start="20261111030000 +0000" stop="20261111033000 +0000" channel="Arte.fr">
+    <category lang="fr">Documentaire de société</category>
+    <desc lang="fr">Swing statt Screen
+Afin d'échapper aux algorithmes et retrouver une vraie présence humaine, de nombreuses personnes optent pour la danse.</desc>
+    <icon src="https://iptv-epg.org/images/Q3DGthzpi3J6h5JdJFUXKq_GS9dEw3XhTQmk97JnZhG1_JhLIHDU9U5ki7iiv3C8RS4-vg3J9MzXJ9BEH8ra9roFaRwNFmZSNwQpEROTU42U6hrfjVB1" />
+    <title lang="fr">Lindy hop : se déconnecter et se rencontrer</title>
   </programme>
   
-<programme start="20261107155500 +0000" stop="20261107160000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E178
-L'instant mobile.</desc>
-    <episode-num>E178</episode-num>
-    <icon src="https://iptv-epg.org/images/Wk8vAnJNJXXw35yoTZ0AP84NFYMvnxGBDU4Mbw1CzTypNhZC2dYNJw2-ofXPDgg2Va6cbrBIh--g6hbrt8lCgDbA7VV1bby2hgWenT1K3lR058zZXfO1" />
-    <title lang="fr">L'instant mobile</title>
+<programme start="20261111033000 +0000" stop="20261111040500 +0000" channel="Arte.fr">
+    <category lang="fr">Magazine</category>
+    <desc lang="fr">Pause.</desc>
+    <icon src="https://iptv-epg.org/images/JN6AUP7OnCGOdJvQhjE6v4FxpTj-pHuhqLEO1IajavdQyP74Rj-8aMVS7cnWS5lwa8eRD0lNf-qbZEqeRFRZjDwKxIXHAL7-cGOQwJ34GMYApSNcensv" />
+    <title lang="fr">Pause</title>
   </programme>
   
-<programme start="20261107160000 +0000" stop="20261107161500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E83
-Autour du monde : le journal.</desc>
-    <episode-num>E83</episode-num>
-    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
-    <title lang="fr">Autour du monde : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261107161500 +0000" stop="20261107162200 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E2
-#Pas2quartier.</desc>
+<programme start="20261111040500 +0000" stop="20261111050500 +0000" channel="Arte.fr">
+    <category lang="fr">Documentaire scientifique</category>
+    <desc lang="fr">E2 — A la source de l'énergie vitale
+La recherche cellulaire explore les mécanismes de la division, de la production d'énergie et du vieillissement. Certaines molécules pourraient prolonger la vie.</desc>
     <episode-num>E2</episode-num>
-    <icon src="https://iptv-epg.org/images/2Idy30XxymM5LdQDMtFxvzizh-L-FYe8fTT1Hr88Ppz1z2Rh5MTlsG2x_PDWsmDKfNjPi2vlQaX375iRWxn9d9tsAvqBGrRXPlj7Y5OPD-4KGNBLH2EE" />
-    <title lang="fr">#Pas2quartier</title>
+    <icon src="https://iptv-epg.org/images/ffah5S2hD_k-nKsjNGYziYjljMYU-U_ab1r3KpCFkj9hx4vzQ8afvi5xJj3wXNUDsnDGuNtFIV91MY3epzwv_1rTkMcgqBGPIAcN3H7a-pGFuY9K0Pc1" />
+    <title lang="fr">Les cellules, au coeur du vivant</title>
   </programme>
   
-<programme start="20261107162200 +0000" stop="20261107163000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E8
-Focus.</desc>
-    <episode-num>E8</episode-num>
-    <icon src="https://iptv-epg.org/images/B4eSPT6dlEtyNQ9_U8ZroBmiZPpwkX1JOTlIMToYFBUAdMZzl2TXaWmjacdv_7mQJ7Ua5KZrwUYFo0Q7vJclooHplXJI1s1UmHfdz3jvXXgIuN2M6A8E" />
-    <title lang="fr">Focus</title>
+<programme start="20261111050500 +0000" stop="20261111055500 +0000" channel="Arte.fr">
+    <category lang="fr">Documentaire</category>
+    <desc lang="fr">Der Mann, der Amerika seinen Namen gab
+Portrait de l'explorateur florentin émule de Christophe Colomb qui fut le premier à comprendre que son aîné avait découvert un nouveau monde.</desc>
+    <icon src="https://iptv-epg.org/images/ZtCCRneHHND8u3OdmMaFYwh1HjWNQFaJoleGt1wj_I1Ia6HfqEgGO6RbGEPfdONaWkXN6F-vyR6DZureFoFaTXcm-3t74cWq36Y9Y1LxphLto-5k5bzv" />
+    <title lang="fr">L'Amérique lui doit son nom : Amerigo Vespuccii</title>
   </programme>
   
-<programme start="20261107163000 +0000" stop="20261107164500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E27
-Autour du monde : le journal.</desc>
-    <episode-num>E27</episode-num>
-    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
-    <title lang="fr">Autour du monde : le journal</title>
-    <new />
+<programme start="20261111055500 +0000" stop="20261111065000 +0000" channel="Arte.fr">
+    <category lang="fr">Documentaire de société</category>
+    <desc lang="fr">Bleiben oder gehen?
+Au Canada, les habitants d'un village de pêcheurs situé sur l'île de Terre-Neuve sont invités à quitter les lieux en raison du coût des infrastructures.</desc>
+    <icon src="https://iptv-epg.org/images/qe0ma4T3enccKxYcFrDGWzSetA0G7H9pCwbwStfxPcAODZ6h-fmc9Wk-HESINcvQDG8KwEAICaQSh0-tKjcAvTeoPSuwkRQhbdKWs9T4a3pQ04V5Uq9Y" />
+    <title lang="fr">Terre-Neuve, rester ou partir ?</title>
   </programme>
   
-<programme start="20261107164500 +0000" stop="20261107165200 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E11
-Les observateurs.</desc>
-    <episode-num>E11</episode-num>
-    <icon src="https://iptv-epg.org/images/ZttxCBwz6rXKa20mZAUAT6OSk0c7cXpweG8A0ob-ZK2BS6g_4pUEUzzfGYZBfRegEg7XS6OZbsh100yqnZiJU91JPBpruw-GdKsMz8m9Kj2cZWJhLV7f" />
-    <title lang="fr">Les observateurs</title>
+<programme start="20261111065000 +0000" stop="20261111072000 +0000" channel="Arte.fr">
+    <category lang="fr">Magazine de services</category>
+    <desc lang="fr">E126 — Bénin : la féchouada
+Ce texte explore la féchouada, une savoureuse adaptation béninoise de la célèbre feijoada brésilienne. Un géographe retrace son histoire transatlantique et souligne l'importance du haricot niébé. Ensuite, le récit nous emmène à Paris où Aurélie, originaire du Bénin, prépare un doux clafoutis aux ananas de son enfance, relevé au sodabi. Enfin, une recette détaillée clôture cette belle découverte.</desc>
+    <episode-num>E126</episode-num>
+    <icon src="https://iptv-epg.org/images/SXDjoLjGlBkDpOC8iyVjjzJLax_BhSegxlG96DYMkC8nGl3YPACDcy_by1Bv0s_Z_9nBzfXXSQNVEHRivXLnmPrPk3HCBg8X9kJ0Ojgrbt6Qo4_xSrW4" />
+    <title lang="fr">Voyage en cuisine</title>
   </programme>
   
-<programme start="20261107165200 +0000" stop="20261107170000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine</category>
-    <desc lang="fr">E10
-Dans les hebdos.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/YPwkRV77iDikechWw7BXqvfk9PdEWOicQ5AHi48zLiib4qjHfAbLkkNCFtcpCTplzuYuuOdYvHWowQaUHUdpw0Z14Iq0HwLbDfda9A-Zvja5gf6nv5Wa" />
-    <title lang="fr">Dans les hebdos</title>
+<programme start="20261111072000 +0000" stop="20261111080500 +0000" channel="Arte.fr">
+    <category lang="fr">Magazine de découvertes</category>
+    <desc lang="fr">E1736
+La Basse-Saxe transgressive de Max et Moritz - La lavande, une certaine idée de la Provence - En Albanie, la tarte aux orties d'Ervehe - A New York, une femme omniprésente.</desc>
+    <episode-num>E1736</episode-num>
+    <icon src="https://iptv-epg.org/images/gQoKtJLFAOYQxKa2TcER6eUd1kSUWXST9TBB8ZKRWQdOwMyV0mVWtcciFLKC53T-y_wuVbhg3cjvg4tM-4RPcZNjfLN7vmmW_Lj-nYuuc64B_ddi4G2z" />
+    <title lang="fr">Invitation au voyage</title>
   </programme>
   
-<programme start="20261107170000 +0000" stop="20261107171500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E55
-Au coeur de l'info : le journal.</desc>
-    <episode-num>E55</episode-num>
-    <icon src="https://iptv-epg.org/images/-a2cfvT4sllSZgHiJAjTsIxvDw5IGKNPwuozLOwJnl_I2mHcASANmVWVMp14hY_IBfwTM913mjWvwOtD3Euq2fB64C6zVWHLtzD5S1nUKr0CYradWwhI" />
-    <title lang="fr">Au coeur de l'info : le journal</title>
-    <new />
+<programme start="20261111080500 +0000" stop="20261111085500 +0000" channel="Arte.fr">
+    <category lang="fr">Magazine de découvertes</category>
+    <desc lang="fr">E1835
+En Thaïlande, un phénomène littéraire - Le funaná, blues du Cap-Vert - Au Salvador, les sandwichs au poulet de Noemi - Aux Etats-Unis, l'alcool tue à coup sûr.</desc>
+    <episode-num>E1835</episode-num>
+    <icon src="https://iptv-epg.org/images/gQoKtJLFAOYQxKa2TcER6eUd1kSUWXST9TBB8ZKRWQdOwMyV0mVWtcciFLKC53T-y_wuVbhg3cjvg4tM-4RPcZNjfLN7vmmW_Lj-nYuuc64B_ddi4G2z" />
+    <title lang="fr">Invitation au voyage</title>
   </programme>
   
-<programme start="20261107171500 +0000" stop="20261107173000 +0000" channel="France24.fr">
+<programme start="20261111085500 +0000" stop="20261111102500 +0000" channel="Arte.fr">
+    <category lang="fr">Documentaire</category>
+    <desc lang="fr">De nouvelles découvertes révèlent l'arrivée des humains sur le continent américain à près de 30 000 ans avant notre ère, remettant en cause le récit admis jusqu'alors.</desc>
+    <icon src="https://iptv-epg.org/images/v4qCOP7CkIsJN75MigKwPuLNsO3mHiUfs8g1I-k25ao9ri9dZKl8wTK1UMgclFBGTlE9CItOjenq4zMGvQPEX46itlRKoAzCe-EcvMQ44WT_WOWTfayQ" />
+    <title lang="fr">Amérique : la nouvelle histoire des premiers hommes</title>
+  </programme>
+  
+<programme start="20261111102500 +0000" stop="20261111111000 +0000" channel="Arte.fr">
+    <category lang="fr">Documentaire</category>
+    <desc lang="fr">Restée à l'écart de la civilisation pendant des millénaires, la petite île de Poilão, au large de la Guinée-Bissau, abrite une faune exceptionnelle.</desc>
+    <icon src="https://iptv-epg.org/images/t_bmU1A7WQE4lfXtDsB19j2H2mi79_d5doDJzs0xn6HmmukGx7GMG1xUuylALmG25w4DdDEV6uu1CR95DW6gaUIFN7reCzuT7JmfVmsvYB__B_ARhhdH" />
+    <title lang="fr">Poilão, l'île sanctuaire de Guinée-Bissau</title>
+  </programme>
+  
+<programme start="20261111111000 +0000" stop="20261111120000 +0000" channel="Arte.fr">
+    <category lang="fr">Documentaire</category>
+    <desc lang="fr">Le récit de la surprenante amitié entre une femelle ornithorynque et un quinquagénaire tasmanien, qui se bat désormais pour protéger l'espèce.</desc>
+    <icon src="https://iptv-epg.org/images/Ls0ksLveZ48U4_ETCkZHltMCpKFEh8YsBiloI_jaFojIfvQIey6OKbtcEbnnlmU1WeusGfPRe3gfUgewn6EbUQ7nhEX5qlQFVuyep0c9qAfUFCyVRFna" />
+    <title lang="fr">Le gardien des ornithorynques</title>
+  </programme>
+  
+<programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="Arte.fr">
+    <category lang="fr">Documentaire de société</category>
+    <desc lang="fr">En Allemagne, le travail de fins limiers des chasseurs d'héritiers lorsqu'il n'y a ni testament ni bénéficiaires identifiés.</desc>
+    <icon src="https://iptv-epg.org/images/iBzKOFJuEgZIfaAkRZeHlXa4uyK4LiI7a2QSBjsHtB8rrQJP4R5Dy8YN9V6oTnjaIMi1sL9n3V2z7H_qENRSjgEaxAIFEuj-ZRr783NxPHvFoAikIzcT" />
+    <title lang="fr">A la recherche d'héritiers</title>
+  </programme>
+  
+<programme start="20261111123000 +0000" stop="20261111141000 +0000" channel="Arte.fr">
+    <category lang="fr">Film d'aventures</category>
+    <desc lang="fr">Cristo, 1ère époque : La Trahison
+Victime d'une dénonciation calomnieuse, un homme est jeté en prison où il moisit pendant 18 longues années avant de chercher à venger cette injustice.</desc>
+    <icon src="https://iptv-epg.org/images/SeFEtsDHBy2MYilXrPg3cyy_UULMD2qpL-bzZf5EouGCByGFHmks8AZbMayjLsK9K9dfcENdpwGfqcce1NVf_6cd9P6XnrAfEz6rmQFJQM9TYoclnYh1" />
+    <title lang="fr">Le Comte de Monte-Cristo : La trahison</title>
+  </programme>
+  
+<programme start="20261111141000 +0000" stop="20261111154000 +0000" channel="Arte.fr">
+    <category lang="fr">Film d'aventures</category>
+    <desc lang="fr">La vengeance d'Edmond Dantès, revenu dans le monde sous les traits du comte de Monte-Cristo : l'ancien bagnard s'attaque tout d'abord à celui qui l'a dénoncé.</desc>
+    <icon src="https://iptv-epg.org/images/0-IizjyEc_jZXChlLAYRCCCPqQMx-CDTPx1S6wrg510oVHNCBTy1E_F7R8rbXZWJQqF7XVdxfenhAyVEMEVdd1TgP5dpKgPoYxR7LpK7VU2Z9BimxMNn" />
+    <title lang="fr">Le Comte de Monte-Cristo : La vengeance</title>
+  </programme>
+  
+<programme start="20261111154000 +0000" stop="20261111162500 +0000" channel="Arte.fr">
+    <category lang="fr">Documentaire</category>
+    <desc lang="fr">Dans le centre de la France, une découverte au fil des saisons des trésors de l'Allier, qui compte parmi les dernières rivières sauvages d'Europe.</desc>
+    <icon src="https://iptv-epg.org/images/m0D0yWc3TgwdN-5eyaieoggU_t7SEkz8ecGUHN5jTnHWW7SDcw0Sh0E2BxQ3rx7UbS7w6784XT8INTmaPRWogoy_gAuyaxFsvdIkMGVR15TpJmMV6lXQ" />
+    <title lang="fr">Allier, rivière sauvage</title>
+  </programme>
+  
+<programme start="20261111162500 +0000" stop="20261111171000 +0000" channel="Arte.fr">
+    <category lang="fr">Magazine de découvertes</category>
+    <desc lang="fr">E1836
+En Angola, la plume des oubliés - Au Vietnam, l'échec est roi - En Finlande, la soupe de poisson de Sami - A Angers, le pont de tous les dangers.</desc>
+    <episode-num>E1836</episode-num>
+    <icon src="https://iptv-epg.org/images/gQoKtJLFAOYQxKa2TcER6eUd1kSUWXST9TBB8ZKRWQdOwMyV0mVWtcciFLKC53T-y_wuVbhg3cjvg4tM-4RPcZNjfLN7vmmW_Lj-nYuuc64B_ddi4G2z" />
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  
+<programme start="20261111171000 +0000" stop="20261111175500 +0000" channel="Arte.fr">
+    <category lang="fr">Magazine de découvertes</category>
+    <desc lang="fr">E1737
+A Bologne, les adolescentes de Silvia Avallone - La Bourgogne de fer et d'acier - Malaisie, le fruit du jacquier au lait de coco de Peter - Angleterre, les paysans se rebiffent.</desc>
+    <episode-num>E1737</episode-num>
+    <icon src="https://iptv-epg.org/images/gQoKtJLFAOYQxKa2TcER6eUd1kSUWXST9TBB8ZKRWQdOwMyV0mVWtcciFLKC53T-y_wuVbhg3cjvg4tM-4RPcZNjfLN7vmmW_Lj-nYuuc64B_ddi4G2z" />
+    <title lang="fr">Invitation au voyage</title>
+  </programme>
+  
+<programme start="20261111175500 +0000" stop="20261111183000 +0000" channel="Arte.fr">
+    <category lang="fr">Magazine de services</category>
+    <desc lang="fr">E127 — Guadeloupe : les accras
+Une découverte de la gastronomie guadeloupéenne à travers ses spécialités. L'histoire des accras et celle du rhum sont ainsi détaillées, révélant leurs racines liées au commerce transatlantique et à l'esclavage. Ensuite, direction Toulouse pour rencontrer Betty, qui prépare un dombré aux crevettes. Ainsi, les traditions culinaires antillaises perdurent et s'adaptent loin de leur île natale.</desc>
+    <episode-num>E127</episode-num>
+    <icon src="https://iptv-epg.org/images/SXDjoLjGlBkDpOC8iyVjjzJLax_BhSegxlG96DYMkC8nGl3YPACDcy_by1Bv0s_Z_9nBzfXXSQNVEHRivXLnmPrPk3HCBg8X9kJ0Ojgrbt6Qo4_xSrW4" />
+    <title lang="fr">Voyage en cuisine</title>
+  </programme>
+  
+<programme start="20261111183000 +0000" stop="20261111184500 +0000" channel="Arte.fr">
     <category lang="fr">Magazine culturel</category>
-    <desc lang="fr">E50
-A l'affiche.</desc>
-    <episode-num>E50</episode-num>
-    <icon src="https://iptv-epg.org/images/ZrX6rgE656yOAhIwTmNErfYAgHhEPjsWjR0Uxafbs8iB3W1pToWEFBqIs5eCIyQODa1G3JzLZSbbktp5JG4pxfKx9ZXPmI1IH6OhIW1JpY5lq7Hsis0u" />
-    <title lang="fr">A l'affiche</title>
+    <desc lang="fr">E491 — Comment la Pologne prépare les esprits à la guerre
+Le 15 août 2026, jour de la fête des forces armées polonaises, un impressionnant défilé militaire a été retransmis en direct sur la chaîne polonaise TVP. Une démonstration de force qui montre que la Pologne se prépare à de potentielles attaques russes.</desc>
+    <episode-num>E491</episode-num>
+    <icon src="https://iptv-epg.org/images/yr1nSynPYc-wC9okP84rLN0JX7UeGO03WVrhwTWMnygrf5Y-6ti7BNmcDBudvYRbk7q5auTbMGY2utwdyq5p9jM3mQr5XesgOl4uYzD3hYytKf7yyWPI" />
+    <title lang="fr">Le dessous des images</title>
   </programme>
   
-<programme start="20261107173000 +0000" stop="20261107174500 +0000" channel="France24.fr">
+<programme start="20261111184500 +0000" stop="20261111190500 +0000" channel="Arte.fr">
     <category lang="fr">Journal</category>
-    <desc lang="fr">E10
-Au coeur de l'info : le journal.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/-a2cfvT4sllSZgHiJAjTsIxvDw5IGKNPwuozLOwJnl_I2mHcASANmVWVMp14hY_IBfwTM913mjWvwOtD3Euq2fB64C6zVWHLtzD5S1nUKr0CYradWwhI" />
-    <title lang="fr">Au coeur de l'info : le journal</title>
-    <new />
+    <desc lang="fr">Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.</desc>
+    <icon src="https://iptv-epg.org/images/wOagFM12zfwq6IH_oJa1dztJdwpbBqfQ6DNedquC0SHoVyYqO7YyZ6uVtE_OoCvMnFLxHD4_8n2V7H43T54UG8wvkejKrbD8eobqCjgsnZtEzdP5NtKI" />
+    <title lang="fr">Arte journal</title>
   </programme>
   
-<programme start="20261107174500 +0000" stop="20261107180000 +0000" channel="France24.fr">
+<programme start="20261111190500 +0000" stop="20261111195000 +0000" channel="Arte.fr">
     <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E10
-Une semaine en France.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/N2XmcG0th0jkyg0pAcxVckv7kN7bF7eVXR3cm7qlxFFt83q79jWJH6Lu3iqXMeWuk_j5HMhdt89x9tkFG0VEeoGrzQj_6LIfNdyv8yBJOUFSQCBt00G8" />
-    <title lang="fr">Une semaine en France</title>
+    <desc lang="fr">E69
+Présenté par Élisabeth Quin du lundi au jeudi et Renaud Dély les vendredi et samedi, le rendez-vous phare de l'info, curieux et exigeant.</desc>
+    <episode-num>E69</episode-num>
+    <icon src="https://iptv-epg.org/images/SvvAw_r6MB-UcCZ5PlVxsQhRfqF6lDYPWq8bPtN5cR0BsOsIRPJzx3T4Isz-j5rHUiLxAMwGER248ppsvIg4FebqudiLXEt2YaLtgCESACTaYeRS68C2" />
+    <title lang="fr">28 minutes</title>
   </programme>
   
-<programme start="20261107180000 +0000" stop="20261107181500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E56
-Au coeur de l'info : le journal.</desc>
-    <episode-num>E56</episode-num>
-    <icon src="https://iptv-epg.org/images/-a2cfvT4sllSZgHiJAjTsIxvDw5IGKNPwuozLOwJnl_I2mHcASANmVWVMp14hY_IBfwTM913mjWvwOtD3Euq2fB64C6zVWHLtzD5S1nUKr0CYradWwhI" />
-    <title lang="fr">Au coeur de l'info : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261107181500 +0000" stop="20261107185500 +0000" channel="France24.fr">
+<programme start="20261111195000 +0000" stop="20261111195500 +0000" channel="Arte.fr">
     <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E3
-La semaine de l'éco.</desc>
-    <episode-num>E3</episode-num>
-    <icon src="https://iptv-epg.org/images/-o8LKCvxTDAf7DpFrUTmAUSvmu0oDYofG3hY22U_dBrzx33zDtdAMBL8_zyo0-acUMioI1djvEEmbvhFUW8SL9uhyERIdYdotNOsZjlRUMBPoAHNkor5" />
-    <title lang="fr">La semaine de l'éco</title>
-  </programme>
-  
-<programme start="20261107185500 +0000" stop="20261107190000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E10
-ENTR.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/Pmz1kGMKx4MwMokOSEoGki_6d2RlshA9lNw1nF-M7xFa6SKPJNrGEfJAg2X0shPkIyAcW_COs1l4QkzFQtbUkoMMeUtLki2RAc-5GnVsfJ_F_B2e-WQV" />
-    <title lang="fr">ENTR</title>
-  </programme>
-  
-<programme start="20261107190000 +0000" stop="20261107193000 +0000" channel="France24.fr">
-    <category lang="fr">Interview</category>
-    <desc lang="fr">E11
-Le journal - L'invité au coeur de l'info.</desc>
-    <episode-num>E11</episode-num>
-    <icon src="https://iptv-epg.org/images/8rBNDuthQSKqHRN9BVemwUhDQx2jcd9C7zuKAHf7dDcDZWC3QccnW400kf4VOdQdwiNY-0-GZcuBdXNxM_JlDd3tF2-iyY-KfkEZQZm5ZITm8QEmTmLr" />
-    <title lang="fr">Le journal - L'invité au coeur de l'info</title>
-    <new />
-  </programme>
-  
-<programme start="20261107193000 +0000" stop="20261107194500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E57
-Au coeur de l'info : le journal.</desc>
-    <episode-num>E57</episode-num>
-    <icon src="https://iptv-epg.org/images/-a2cfvT4sllSZgHiJAjTsIxvDw5IGKNPwuozLOwJnl_I2mHcASANmVWVMp14hY_IBfwTM913mjWvwOtD3Euq2fB64C6zVWHLtzD5S1nUKr0CYradWwhI" />
-    <title lang="fr">Au coeur de l'info : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261107194500 +0000" stop="20261107200000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E9
-Le décryptage.</desc>
-    <episode-num>E9</episode-num>
-    <icon src="https://iptv-epg.org/images/wA2RRymQy8tMGgK1KR23puO4VIL8mKLhc-gvRvh322fIY6a1WUvpXCvl25sgrVSOZS1v-9qAApGfSeeBsb4pZ33GYgql_74hx5Smg7EfOJuNJwCxBDWT" />
-    <title lang="fr">Le décryptage</title>
-    <new />
-  </programme>
-  
-<programme start="20261107200000 +0000" stop="20261107201500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E78
-L'essentiel : le journal.</desc>
-    <episode-num>E78</episode-num>
-    <icon src="https://iptv-epg.org/images/bAXeFWfJckHHwH-8GgUmNo4x7VOV787JtL2zSTOlX6Xrra61B8qezRWxAfdhdRepdzBqUW4wHq1v_hIKdrixHfFn6ovgJiOjhorIit43pRBuj1Ao7ZZe" />
-    <title lang="fr">L'essentiel : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261107201500 +0000" stop="20261107202100 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E10
-Le décryptage.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/wA2RRymQy8tMGgK1KR23puO4VIL8mKLhc-gvRvh322fIY6a1WUvpXCvl25sgrVSOZS1v-9qAApGfSeeBsb4pZ33GYgql_74hx5Smg7EfOJuNJwCxBDWT" />
-    <title lang="fr">Le décryptage</title>
-    <new />
-  </programme>
-  
-<programme start="20261107202100 +0000" stop="20261107203000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine sportif</category>
-    <desc lang="fr">E19
-Sports samedi.</desc>
-    <episode-num>E19</episode-num>
-    <icon src="https://iptv-epg.org/images/HA1WEpUVkKyMOq7ig4xj6bIzbzD08AgtpF20oEIIUGJ3HPiWCW2k_oknQYyxuUbIVPbNTaKmK_0sNAjwP5nlKiefAmiWMdmP2fLVt7WLfxdDUhypMK75" />
-    <title lang="fr">Sports samedi</title>
-    <new />
-  </programme>
-  
-<programme start="20261107203000 +0000" stop="20261107204400 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E79
-L'essentiel : le journal.</desc>
-    <episode-num>E79</episode-num>
-    <icon src="https://iptv-epg.org/images/bAXeFWfJckHHwH-8GgUmNo4x7VOV787JtL2zSTOlX6Xrra61B8qezRWxAfdhdRepdzBqUW4wHq1v_hIKdrixHfFn6ovgJiOjhorIit43pRBuj1Ao7ZZe" />
-    <title lang="fr">L'essentiel : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261107204400 +0000" stop="20261107210000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E47
-Le journal de l'Afrique.</desc>
-    <episode-num>E47</episode-num>
-    <icon src="https://iptv-epg.org/images/mcX7b0_3RzG1dAzqVEzEvIEphH19X0sPvL7nHOSe-Xtp8g2H0vNzZm_JzLyISxQ--N8NNU3NzSl3QyOxw3Cj1LJlQVI3tyoJq0szlZ1J0xoFKTxpz3zt" />
-    <title lang="fr">Le journal de l'Afrique</title>
-    <new />
-  </programme>
-  
-<programme start="20261107210000 +0000" stop="20261107211500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E80
-L'essentiel : le journal.</desc>
-    <episode-num>E80</episode-num>
-    <icon src="https://iptv-epg.org/images/bAXeFWfJckHHwH-8GgUmNo4x7VOV787JtL2zSTOlX6Xrra61B8qezRWxAfdhdRepdzBqUW4wHq1v_hIKdrixHfFn6ovgJiOjhorIit43pRBuj1Ao7ZZe" />
-    <title lang="fr">L'essentiel : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261107211500 +0000" stop="20261107213000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E11
-Reporters France 24.</desc>
-    <episode-num>E11</episode-num>
-    <icon src="https://iptv-epg.org/images/b38GeELiPdrOzxsUOjDpRhXWb74n8d7xI6qA3rL94LJ4U0fQrv4hGTULOpCfKWHiLW-9N3teZXJWlNEiAqEkPS2ynLmj11-C733va3k2F_sOJybm3AQZ" />
-    <title lang="fr">Reporters France 24</title>
-  </programme>
-  
-<programme start="20261107213000 +0000" stop="20261107214400 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E81
-L'essentiel : le journal.</desc>
-    <episode-num>E81</episode-num>
-    <icon src="https://iptv-epg.org/images/bAXeFWfJckHHwH-8GgUmNo4x7VOV787JtL2zSTOlX6Xrra61B8qezRWxAfdhdRepdzBqUW4wHq1v_hIKdrixHfFn6ovgJiOjhorIit43pRBuj1Ao7ZZe" />
-    <title lang="fr">L'essentiel : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261107214400 +0000" stop="20261107220000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E48
-Le journal de l'Afrique.</desc>
-    <episode-num>E48</episode-num>
-    <icon src="https://iptv-epg.org/images/mcX7b0_3RzG1dAzqVEzEvIEphH19X0sPvL7nHOSe-Xtp8g2H0vNzZm_JzLyISxQ--N8NNU3NzSl3QyOxw3Cj1LJlQVI3tyoJq0szlZ1J0xoFKTxpz3zt" />
-    <title lang="fr">Le journal de l'Afrique</title>
-    <new />
-  </programme>
-  
-<programme start="20261107220000 +0000" stop="20261107221000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E82
-L'essentiel : le journal.</desc>
-    <episode-num>E82</episode-num>
-    <icon src="https://iptv-epg.org/images/bAXeFWfJckHHwH-8GgUmNo4x7VOV787JtL2zSTOlX6Xrra61B8qezRWxAfdhdRepdzBqUW4wHq1v_hIKdrixHfFn6ovgJiOjhorIit43pRBuj1Ao7ZZe" />
-    <title lang="fr">L'essentiel : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261107221000 +0000" stop="20261107222200 +0000" channel="France24.fr">
-    <category lang="fr">Magazine sportif</category>
-    <desc lang="fr">E20
-Sports samedi.</desc>
-    <episode-num>E20</episode-num>
-    <icon src="https://iptv-epg.org/images/HA1WEpUVkKyMOq7ig4xj6bIzbzD08AgtpF20oEIIUGJ3HPiWCW2k_oknQYyxuUbIVPbNTaKmK_0sNAjwP5nlKiefAmiWMdmP2fLVt7WLfxdDUhypMK75" />
-    <title lang="fr">Sports samedi</title>
-    <new />
-  </programme>
-  
-<programme start="20261107222200 +0000" stop="20261107223000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine</category>
-    <desc lang="fr">E10
-Dans les hebdos.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/YPwkRV77iDikechWw7BXqvfk9PdEWOicQ5AHi48zLiib4qjHfAbLkkNCFtcpCTplzuYuuOdYvHWowQaUHUdpw0Z14Iq0HwLbDfda9A-Zvja5gf6nv5Wa" />
-    <title lang="fr">Dans les hebdos</title>
-  </programme>
-  
-<programme start="20261107223000 +0000" stop="20261107224000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E19
-L'essentiel : le journal.</desc>
-    <episode-num>E19</episode-num>
-    <icon src="https://iptv-epg.org/images/bAXeFWfJckHHwH-8GgUmNo4x7VOV787JtL2zSTOlX6Xrra61B8qezRWxAfdhdRepdzBqUW4wHq1v_hIKdrixHfFn6ovgJiOjhorIit43pRBuj1Ao7ZZe" />
-    <title lang="fr">L'essentiel : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261107224000 +0000" stop="20261107230000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E11
-Légendes urbaines.</desc>
-    <episode-num>E11</episode-num>
-    <icon src="https://iptv-epg.org/images/UqNEfFAUfsgx1lwVqHXkUwRwHXxpZLS2uBjzv1kf1tG0Bmlze1mDF-a3nWRPGg-lyx4A07-Y5sbn9Acq8E-PciaFpztw6Iy7QZmgE7IXnjxG28BgWxCv" />
-    <title lang="fr">Légendes urbaines</title>
-  </programme>
-  
-<programme start="20261107230000 +0000" stop="20261107231500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E83
-L'essentiel : le journal.</desc>
-    <episode-num>E83</episode-num>
-    <icon src="https://iptv-epg.org/images/bAXeFWfJckHHwH-8GgUmNo4x7VOV787JtL2zSTOlX6Xrra61B8qezRWxAfdhdRepdzBqUW4wHq1v_hIKdrixHfFn6ovgJiOjhorIit43pRBuj1Ao7ZZe" />
-    <title lang="fr">L'essentiel : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261107231500 +0000" stop="20261107234100 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E10
-Le monde dans tous ses Etats.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/DJtpdTNmoicm0iC5H2aZGi3geUea2mydvFMBg3Y7j_a4zuTZvpYiJTHWOlNiQASLChcf9i-YHnMxazWA3DqawxW6XvlQ8E8BpxZZJ-gYSlecV48CjgHw" />
-    <title lang="fr">Le monde dans tous ses Etats</title>
-  </programme>
-  
-<programme start="20261107234100 +0000" stop="20261107234700 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E2
-#Pas2quartier.</desc>
-    <episode-num>E2</episode-num>
-    <icon src="https://iptv-epg.org/images/2Idy30XxymM5LdQDMtFxvzizh-L-FYe8fTT1Hr88Ppz1z2Rh5MTlsG2x_PDWsmDKfNjPi2vlQaX375iRWxn9d9tsAvqBGrRXPlj7Y5OPD-4KGNBLH2EE" />
-    <title lang="fr">#Pas2quartier</title>
-  </programme>
-  
-<programme start="20261107234700 +0000" stop="20261107235300 +0000" channel="France24.fr">
-    <category lang="fr">Magazine</category>
-    <desc lang="fr">E10
-Dans les hebdos.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/YPwkRV77iDikechWw7BXqvfk9PdEWOicQ5AHi48zLiib4qjHfAbLkkNCFtcpCTplzuYuuOdYvHWowQaUHUdpw0Z14Iq0HwLbDfda9A-Zvja5gf6nv5Wa" />
-    <title lang="fr">Dans les hebdos</title>
-  </programme>
-  
-<programme start="20261107235300 +0000" stop="20261108000000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine culturel</category>
-    <desc lang="fr">E10
-Le coup de coeur du Paris des arts.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/dP5YHD4uFrL1Jgtr5NZ8_Bc9bJ7ooYRLxTBZJnvEM1DzzlcsbC4_a-CszoD_CQ0GnB9R0tMlPnR7FSaLgCgyEhClj-qJ71oV9L7xdedlWS72BZvxt9x8" />
-    <title lang="fr">Le coup de coeur du Paris des arts</title>
-  </programme>
-  
-<programme start="20261108000000 +0000" stop="20261108001500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E346
-L'édition nuit : le journal.</desc>
-    <episode-num>E346</episode-num>
-    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
-    <title lang="fr">L'édition nuit : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108001500 +0000" stop="20261108003000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E48
-Le journal de l'Afrique.</desc>
-    <episode-num>E48</episode-num>
-    <icon src="https://iptv-epg.org/images/mcX7b0_3RzG1dAzqVEzEvIEphH19X0sPvL7nHOSe-Xtp8g2H0vNzZm_JzLyISxQ--N8NNU3NzSl3QyOxw3Cj1LJlQVI3tyoJq0szlZ1J0xoFKTxpz3zt" />
-    <title lang="fr">Le journal de l'Afrique</title>
-  </programme>
-  
-<programme start="20261108003000 +0000" stop="20261108004500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E246
-L'édition nuit : le journal.</desc>
-    <episode-num>E246</episode-num>
-    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
-    <title lang="fr">L'édition nuit : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108004500 +0000" stop="20261108010000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E1
-Outre-mer.</desc>
-    <episode-num>E1</episode-num>
-    <icon src="https://iptv-epg.org/images/wvppZNFbgVXOfH4b2JPYFF__keTOM_Kw8XbrKQJhZgZGfROM5Kec4zSmvJKDoK5M0rI2ThvaZIbHJFBpZEfQphWMGhlYqQfMfwWbILKjgUfP-_7U5y_F" />
-    <title lang="fr">Outre-mer</title>
-  </programme>
-  
-<programme start="20261108010000 +0000" stop="20261108011500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E347
-L'édition nuit : le journal.</desc>
-    <episode-num>E347</episode-num>
-    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
-    <title lang="fr">L'édition nuit : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108011500 +0000" stop="20261108012200 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E11
-Les observateurs.</desc>
-    <episode-num>E11</episode-num>
-    <icon src="https://iptv-epg.org/images/ZttxCBwz6rXKa20mZAUAT6OSk0c7cXpweG8A0ob-ZK2BS6g_4pUEUzzfGYZBfRegEg7XS6OZbsh100yqnZiJU91JPBpruw-GdKsMz8m9Kj2cZWJhLV7f" />
-    <title lang="fr">Les observateurs</title>
-  </programme>
-  
-<programme start="20261108012200 +0000" stop="20261108013000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine</category>
-    <desc lang="fr">E10
-Dans les hebdos.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/YPwkRV77iDikechWw7BXqvfk9PdEWOicQ5AHi48zLiib4qjHfAbLkkNCFtcpCTplzuYuuOdYvHWowQaUHUdpw0Z14Iq0HwLbDfda9A-Zvja5gf6nv5Wa" />
-    <title lang="fr">Dans les hebdos</title>
-  </programme>
-  
-<programme start="20261108013000 +0000" stop="20261108014500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E247
-L'édition nuit : le journal.</desc>
-    <episode-num>E247</episode-num>
-    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
-    <title lang="fr">L'édition nuit : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108014500 +0000" stop="20261108020000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine culturel</category>
-    <desc lang="fr">E48
-A l'affiche.</desc>
-    <episode-num>E48</episode-num>
-    <icon src="https://iptv-epg.org/images/ZrX6rgE656yOAhIwTmNErfYAgHhEPjsWjR0Uxafbs8iB3W1pToWEFBqIs5eCIyQODa1G3JzLZSbbktp5JG4pxfKx9ZXPmI1IH6OhIW1JpY5lq7Hsis0u" />
-    <title lang="fr">A l'affiche</title>
-  </programme>
-  
-<programme start="20261108020000 +0000" stop="20261108021000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E348
-L'édition nuit : le journal.</desc>
-    <episode-num>E348</episode-num>
-    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
-    <title lang="fr">L'édition nuit : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108021000 +0000" stop="20261108023000 +0000" channel="France24.fr">
-    <category lang="fr">Interview</category>
-    <desc lang="fr">E10
-Ici l'Europe : on vous écoute.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/bSmikFfDdP9ZDkyaK1uNySsGFnD620DbGJDns9ue0DT2sxPwEbgKTBNlsoFWqLqJYJ6YKX0fklL81CLFzwF1_zpLNCKA-pkbGsqrara75jUOm0zAdIPd" />
-    <title lang="fr">Ici l'Europe : on vous écoute</title>
-  </programme>
-  
-<programme start="20261108023000 +0000" stop="20261108024000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E248
-L'édition nuit : le journal.</desc>
-    <episode-num>E248</episode-num>
-    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
-    <title lang="fr">L'édition nuit : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108024000 +0000" stop="20261108025600 +0000" channel="France24.fr">
-    <category lang="fr">Magazine culturel</category>
-    <desc lang="fr">E11
-Le Paris des arts.</desc>
-    <episode-num>E11</episode-num>
-    <icon src="https://iptv-epg.org/images/dqofOS8eqLEZIMoVdkJ_bQjsPeZRsfcenAinpCyCvjfjbpW4edWa_02UxyJkps-Bqu0tnVArDrKsIHQx30qS3UltwSbArbib2M3-xDePC6XyKrYXQPNH" />
-    <title lang="fr">Le Paris des arts</title>
-  </programme>
-  
-<programme start="20261108025600 +0000" stop="20261108030000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine culturel</category>
-    <desc lang="fr">E16
-Culture prime.</desc>
-    <episode-num>E16</episode-num>
-    <icon src="https://iptv-epg.org/images/zTDyNtG1eOXp5ymj7wCgNjxrHiZTMuAHdJjPqE3g_UWIg4-hsE445MhqbviQrqnROesUwRn1m81INShAaXwDu8tyG7bxiVKAW1ta-qj2UI2TqFzHGw7x" />
-    <title lang="fr">Culture prime</title>
-  </programme>
-  
-<programme start="20261108030000 +0000" stop="20261108031500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E349
-L'édition nuit : le journal.</desc>
-    <episode-num>E349</episode-num>
-    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
-    <title lang="fr">L'édition nuit : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108031500 +0000" stop="20261108033000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E10
-Une semaine en France.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/N2XmcG0th0jkyg0pAcxVckv7kN7bF7eVXR3cm7qlxFFt83q79jWJH6Lu3iqXMeWuk_j5HMhdt89x9tkFG0VEeoGrzQj_6LIfNdyv8yBJOUFSQCBt00G8" />
-    <title lang="fr">Une semaine en France</title>
-  </programme>
-  
-<programme start="20261108033000 +0000" stop="20261108034500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E249
-L'édition nuit : le journal.</desc>
-    <episode-num>E249</episode-num>
-    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
-    <title lang="fr">L'édition nuit : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108034500 +0000" stop="20261108040000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E10
-Une semaine reportages.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/IPsxW_Clsc3Lwc2SM2pX4G9RXjj9Mi1YT3TqXUlUF4RJJkT1RDZDQ-rOo1EzEuYUvpa9epIOq9cHsqiLxfv64O1ihRgSUOeaA-riDK76XL1qFyD8APPQ" />
-    <title lang="fr">Une semaine reportages</title>
-  </programme>
-  
-<programme start="20261108040000 +0000" stop="20261108041500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E350
-L'édition nuit : le journal.</desc>
-    <episode-num>E350</episode-num>
-    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
-    <title lang="fr">L'édition nuit : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108041500 +0000" stop="20261108043000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E11
-Reporters France 24.</desc>
-    <episode-num>E11</episode-num>
-    <icon src="https://iptv-epg.org/images/b38GeELiPdrOzxsUOjDpRhXWb74n8d7xI6qA3rL94LJ4U0fQrv4hGTULOpCfKWHiLW-9N3teZXJWlNEiAqEkPS2ynLmj11-C733va3k2F_sOJybm3AQZ" />
-    <title lang="fr">Reporters France 24</title>
-  </programme>
-  
-<programme start="20261108043000 +0000" stop="20261108044500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E250
-L'édition nuit : le journal.</desc>
-    <episode-num>E250</episode-num>
-    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
-    <title lang="fr">L'édition nuit : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108044500 +0000" stop="20261108050000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E48
-Le journal de l'Afrique.</desc>
-    <episode-num>E48</episode-num>
-    <icon src="https://iptv-epg.org/images/mcX7b0_3RzG1dAzqVEzEvIEphH19X0sPvL7nHOSe-Xtp8g2H0vNzZm_JzLyISxQ--N8NNU3NzSl3QyOxw3Cj1LJlQVI3tyoJq0szlZ1J0xoFKTxpz3zt" />
-    <title lang="fr">Le journal de l'Afrique</title>
-  </programme>
-  
-<programme start="20261108050000 +0000" stop="20261108051500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E93
-A la une : le journal.</desc>
-    <episode-num>E93</episode-num>
-    <icon src="https://iptv-epg.org/images/08XgmnEYIAxXAoPtRlqb4e_oxrY83KXPKqxMNiwxOzYI4Xhxh9Qb_QLuOTl_uGH-hgGP0d-anQZBSx_bTABnmk2dcZ7p60GYT7AN8iCq-QPys9vJKGHg" />
-    <title lang="fr">A la une : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108051500 +0000" stop="20261108053000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E10
-Une semaine en France.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/N2XmcG0th0jkyg0pAcxVckv7kN7bF7eVXR3cm7qlxFFt83q79jWJH6Lu3iqXMeWuk_j5HMhdt89x9tkFG0VEeoGrzQj_6LIfNdyv8yBJOUFSQCBt00G8" />
-    <title lang="fr">Une semaine en France</title>
-  </programme>
-  
-<programme start="20261108053000 +0000" stop="20261108054500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E37
-A la une : le journal.</desc>
-    <episode-num>E37</episode-num>
-    <icon src="https://iptv-epg.org/images/08XgmnEYIAxXAoPtRlqb4e_oxrY83KXPKqxMNiwxOzYI4Xhxh9Qb_QLuOTl_uGH-hgGP0d-anQZBSx_bTABnmk2dcZ7p60GYT7AN8iCq-QPys9vJKGHg" />
-    <title lang="fr">A la une : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108054500 +0000" stop="20261108060000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E10
-Une semaine reportages.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/IPsxW_Clsc3Lwc2SM2pX4G9RXjj9Mi1YT3TqXUlUF4RJJkT1RDZDQ-rOo1EzEuYUvpa9epIOq9cHsqiLxfv64O1ihRgSUOeaA-riDK76XL1qFyD8APPQ" />
-    <title lang="fr">Une semaine reportages</title>
-  </programme>
-  
-<programme start="20261108060000 +0000" stop="20261108062200 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E94
-A la une : le journal.</desc>
-    <episode-num>E94</episode-num>
-    <icon src="https://iptv-epg.org/images/08XgmnEYIAxXAoPtRlqb4e_oxrY83KXPKqxMNiwxOzYI4Xhxh9Qb_QLuOTl_uGH-hgGP0d-anQZBSx_bTABnmk2dcZ7p60GYT7AN8iCq-QPys9vJKGHg" />
-    <title lang="fr">A la une : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108062200 +0000" stop="20261108063000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine sportif</category>
-    <desc lang="fr">E39
-Sports.</desc>
-    <episode-num>E39</episode-num>
-    <icon src="https://iptv-epg.org/images/4t61UFNyuNeb3s-_9oqYJfnOmddLHIuZ3bt1RDNkBFXvY3OmhUzkvWEZ7t4P2OIU2uLwanPuiIIqTFyP-2gEgkmAjzT9A0LMApHtZq_NLhKfPmFksph3" />
-    <title lang="fr">Sports</title>
-    <new />
-  </programme>
-  
-<programme start="20261108063000 +0000" stop="20261108070000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E38
-A la une : le journal.</desc>
-    <episode-num>E38</episode-num>
-    <icon src="https://iptv-epg.org/images/08XgmnEYIAxXAoPtRlqb4e_oxrY83KXPKqxMNiwxOzYI4Xhxh9Qb_QLuOTl_uGH-hgGP0d-anQZBSx_bTABnmk2dcZ7p60GYT7AN8iCq-QPys9vJKGHg" />
-    <title lang="fr">A la une : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108070000 +0000" stop="20261108071500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E95
-A la une : le journal.</desc>
-    <episode-num>E95</episode-num>
-    <icon src="https://iptv-epg.org/images/08XgmnEYIAxXAoPtRlqb4e_oxrY83KXPKqxMNiwxOzYI4Xhxh9Qb_QLuOTl_uGH-hgGP0d-anQZBSx_bTABnmk2dcZ7p60GYT7AN8iCq-QPys9vJKGHg" />
-    <title lang="fr">A la une : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108071500 +0000" stop="20261108073000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E12
-L'invité de A la Une.</desc>
-    <episode-num>E12</episode-num>
-    <icon src="https://iptv-epg.org/images/ZPo05bozucvX-E2I73QQe6pI2xLy4LG655C7LrnUqE1KtHQhkuNWftGbNcLHCRHpsX-8jeZPc7BjQr06fVidZ82Z7ADfSB7g6Qf6ja6AyFLJbDWVXaMx" />
-    <title lang="fr">L'invité de A la Une</title>
-    <new />
-  </programme>
-  
-<programme start="20261108073000 +0000" stop="20261108075700 +0000" channel="France24.fr">
-    <category lang="fr">Débat</category>
-    <desc lang="fr">E10
-Aux avant-postes.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/EKQjCcfaLwbNyH7QZkJkvj4wsm14a-VRxVp7CbYV9Me-n4gPwpPszI4_oc9rcXMZ8PBMjdPIX89hZjGbsEFiANDl2fdifW4f8kz1SHIAPKX5FLobzv2Q" />
-    <title lang="fr">Aux avant-postes</title>
-  </programme>
-  
-<programme start="20261108075700 +0000" stop="20261108080000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E179
-L'instant mobile.</desc>
-    <episode-num>E179</episode-num>
-    <icon src="https://iptv-epg.org/images/Wk8vAnJNJXXw35yoTZ0AP84NFYMvnxGBDU4Mbw1CzTypNhZC2dYNJw2-ofXPDgg2Va6cbrBIh--g6hbrt8lCgDbA7VV1bby2hgWenT1K3lR058zZXfO1" />
-    <title lang="fr">L'instant mobile</title>
-  </programme>
-  
-<programme start="20261108080000 +0000" stop="20261108083000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E96
-A la une : le journal.</desc>
-    <episode-num>E96</episode-num>
-    <icon src="https://iptv-epg.org/images/08XgmnEYIAxXAoPtRlqb4e_oxrY83KXPKqxMNiwxOzYI4Xhxh9Qb_QLuOTl_uGH-hgGP0d-anQZBSx_bTABnmk2dcZ7p60GYT7AN8iCq-QPys9vJKGHg" />
-    <title lang="fr">A la une : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108083000 +0000" stop="20261108090000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E39
-A la une : le journal.</desc>
-    <episode-num>E39</episode-num>
-    <icon src="https://iptv-epg.org/images/08XgmnEYIAxXAoPtRlqb4e_oxrY83KXPKqxMNiwxOzYI4Xhxh9Qb_QLuOTl_uGH-hgGP0d-anQZBSx_bTABnmk2dcZ7p60GYT7AN8iCq-QPys9vJKGHg" />
-    <title lang="fr">A la une : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108090000 +0000" stop="20261108091500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E187
-Paris direct : le journal.</desc>
-    <episode-num>E187</episode-num>
-    <icon src="https://iptv-epg.org/images/zegVt4wO7ByBnJMedlZbnh0p4whYZtNwn323XR3c4hpKFuaT640MAygZfV3Q5pcWVOjeKcgcG5TxDVXaI3bS8ML39NKsIie6tiJgvYQvO-N0oqK2zg7f" />
-    <title lang="fr">Paris direct : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108091500 +0000" stop="20261108093000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine culturel</category>
-    <desc lang="fr">E47
-A l'affiche.</desc>
-    <episode-num>E47</episode-num>
-    <icon src="https://iptv-epg.org/images/ZrX6rgE656yOAhIwTmNErfYAgHhEPjsWjR0Uxafbs8iB3W1pToWEFBqIs5eCIyQODa1G3JzLZSbbktp5JG4pxfKx9ZXPmI1IH6OhIW1JpY5lq7Hsis0u" />
-    <title lang="fr">A l'affiche</title>
-  </programme>
-  
-<programme start="20261108093000 +0000" stop="20261108094500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E109
-Paris direct : le journal.</desc>
-    <episode-num>E109</episode-num>
-    <icon src="https://iptv-epg.org/images/zegVt4wO7ByBnJMedlZbnh0p4whYZtNwn323XR3c4hpKFuaT640MAygZfV3Q5pcWVOjeKcgcG5TxDVXaI3bS8ML39NKsIie6tiJgvYQvO-N0oqK2zg7f" />
-    <title lang="fr">Paris direct : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108094500 +0000" stop="20261108095100 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E10
-Plan B.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/O6Auit3dFsXenGe9iRO9hptkvFQStX66syHCqyrE_bgxD3t0gyxWseOcRQjDzJ-nGttn_01T1gHOcBSo_YCTKIG0lvMqexdBufWQMD7ZriG-pTWWkWAS" />
-    <title lang="fr">Plan B</title>
-  </programme>
-  
-<programme start="20261108095100 +0000" stop="20261108100000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine sportif</category>
-    <desc lang="fr">E40
-Sports.</desc>
-    <episode-num>E40</episode-num>
-    <icon src="https://iptv-epg.org/images/4t61UFNyuNeb3s-_9oqYJfnOmddLHIuZ3bt1RDNkBFXvY3OmhUzkvWEZ7t4P2OIU2uLwanPuiIIqTFyP-2gEgkmAjzT9A0LMApHtZq_NLhKfPmFksph3" />
-    <title lang="fr">Sports</title>
-  </programme>
-  
-<programme start="20261108100000 +0000" stop="20261108101000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E188
-Paris direct : le journal.</desc>
-    <episode-num>E188</episode-num>
-    <icon src="https://iptv-epg.org/images/zegVt4wO7ByBnJMedlZbnh0p4whYZtNwn323XR3c4hpKFuaT640MAygZfV3Q5pcWVOjeKcgcG5TxDVXaI3bS8ML39NKsIie6tiJgvYQvO-N0oqK2zg7f" />
-    <title lang="fr">Paris direct : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108101000 +0000" stop="20261108103000 +0000" channel="France24.fr">
-    <category lang="fr">Interview</category>
-    <desc lang="fr">E10
-Ici l'Europe : on en débat.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/-nd4bhfuE1pCUifWB_2qX6wJgitD7Ht1gn5kMPJNwIuXYwvlk9Y_UGY7WPvKYbLzOZbFwxpBah1WpR3loVJIRrZHdH3UxPogyOLHi9Rq_iA5a1m7Zu55" />
-    <title lang="fr">Ici l'Europe : on en débat</title>
-  </programme>
-  
-<programme start="20261108103000 +0000" stop="20261108104000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E110
-Paris direct : le journal.</desc>
-    <episode-num>E110</episode-num>
-    <icon src="https://iptv-epg.org/images/zegVt4wO7ByBnJMedlZbnh0p4whYZtNwn323XR3c4hpKFuaT640MAygZfV3Q5pcWVOjeKcgcG5TxDVXaI3bS8ML39NKsIie6tiJgvYQvO-N0oqK2zg7f" />
-    <title lang="fr">Paris direct : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108104000 +0000" stop="20261108110000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E11
-Légendes urbaines.</desc>
-    <episode-num>E11</episode-num>
-    <icon src="https://iptv-epg.org/images/UqNEfFAUfsgx1lwVqHXkUwRwHXxpZLS2uBjzv1kf1tG0Bmlze1mDF-a3nWRPGg-lyx4A07-Y5sbn9Acq8E-PciaFpztw6Iy7QZmgE7IXnjxG28BgWxCv" />
-    <title lang="fr">Légendes urbaines</title>
-  </programme>
-  
-<programme start="20261108110000 +0000" stop="20261108111500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E189
-Paris direct : le journal.</desc>
-    <episode-num>E189</episode-num>
-    <icon src="https://iptv-epg.org/images/zegVt4wO7ByBnJMedlZbnh0p4whYZtNwn323XR3c4hpKFuaT640MAygZfV3Q5pcWVOjeKcgcG5TxDVXaI3bS8ML39NKsIie6tiJgvYQvO-N0oqK2zg7f" />
-    <title lang="fr">Paris direct : le journal</title>
-    <new />
-  </programme>
-  
-<programme start="20261108111500 +0000" stop="20261108115500 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E3
-La semaine de l'éco.</desc>
-    <episode-num>E3</episode-num>
-    <icon src="https://iptv-epg.org/images/-o8LKCvxTDAf7DpFrUTmAUSvmu0oDYofG3hY22U_dBrzx33zDtdAMBL8_zyo0-acUMioI1djvEEmbvhFUW8SL9uhyERIdYdotNOsZjlRUMBPoAHNkor5" />
-    <title lang="fr">La semaine de l'éco</title>
-  </programme>
-  
-<programme start="20261108115500 +0000" stop="20261108120000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E180
-L'instant mobile.</desc>
-    <episode-num>E180</episode-num>
-    <icon src="https://iptv-epg.org/images/Wk8vAnJNJXXw35yoTZ0AP84NFYMvnxGBDU4Mbw1CzTypNhZC2dYNJw2-ofXPDgg2Va6cbrBIh--g6hbrt8lCgDbA7VV1bby2hgWenT1K3lR058zZXfO1" />
-    <title lang="fr">L'instant mobile</title>
-  </programme>
-  
-<programme start="20261108120000 +0000" stop="20261108123000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E70
-L'info du jour.</desc>
-    <episode-num>E70</episode-num>
-    <icon src="https://iptv-epg.org/images/Hd1ryeTu4K5XVhlZK6nfhUXUk5EHSM5K_P3LOGiSCNLyhFg78Ev9f140QZlXSfg2TUkCWFt4C-SHvFQ-idpdpnM_eLc687tAnJF4O6XZNJLMD66-mvhp" />
-    <title lang="fr">L'info du jour</title>
-    <new />
-  </programme>
-  
-<programme start="20261108123000 +0000" stop="20261108124500 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E190
-Paris direct : le journal.</desc>
-    <episode-num>E190</episode-num>
-    <icon src="https://iptv-epg.org/images/zegVt4wO7ByBnJMedlZbnh0p4whYZtNwn323XR3c4hpKFuaT640MAygZfV3Q5pcWVOjeKcgcG5TxDVXaI3bS8ML39NKsIie6tiJgvYQvO-N0oqK2zg7f" />
-    <title lang="fr">Paris direct : le journal</title>
-    <new />
-  </programme>
-<programme start="20261108124500 +0000" stop="20261108130000 +0000" channel="France24.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E10
-C'est en France.</desc>
-    <episode-num>E10</episode-num>
-    <icon src="https://iptv-epg.org/images/eF_riR9s3QRPmXH-KlThOkGBORE7Qy7cNxhm07dVQ6DBydp9T3i2CWCBkVYmoGcas1WxL_F0G_gZm-YI_hzAv71JK5y_816_m14Uec_34Wt5qehgpSHA" />
-    <title lang="fr">C'est en France</title>
-  </programme>
-  
-<programme start="20261108130000 +0000" stop="20261108133000 +0000" channel="France24.fr">
-    <category lang="fr">Journal</category>
-    <desc lang="fr">E84
-Autour du monde : le journal.</desc>
-    <episode-num>E84</episode-num>
-    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
-    <title lang="fr">Autour du monde : le journal</title>
-    <new />
+    <desc lang="fr">E151
+En quatre minutes, le décryptage géopolitique d'un événement qui secoue le monde contemporain.</desc>
+    <episode-num>E151</episode-num>
+    <icon src="https://iptv-epg.org/images/W713DGIoDGIpzXVqELL3jp_M8YZ9zoG0uMn-6jjl6MhCra1j4nxxHBzFrkjI255ulf442nlENPpGRTRlszQawQuhdAy-e97pgiw5CnnyL79QkmP81iuy" />
+    <title lang="fr">Le dessous des cartes : l'essentiel</title>
+  </programme>
+  
+<programme start="20261111195500 +0000" stop="20261111213000 +0000" channel="Arte.fr">
+    <category lang="fr">Drame</category>
+    <desc lang="fr">Sur le point d'embarquer pour le Venezuela, un déserteur, intervenant lors d'une dispute, commet un meurtre pour défendre la jeune femme qu'il aime.</desc>
+    <icon src="https://iptv-epg.org/images/Nr4uGOhM7uN-Lb8Zv-tSxrnTe2udhYpmqjb-EBPIWNPPhAU6RyF3bu4ngjWdLYFDa4oGIM6imfxcNnZ6kVVYl9GbfOFtsmeYE3Y_Pe2lJFDnnH-SoBG2" />
+    <title lang="fr">Le quai des brumes</title>
+  </programme>
+  
+<programme start="20261111213000 +0000" stop="20261111223000 +0000" channel="Arte.fr">
+    <category lang="fr">Documentaire culturel</category>
+    <desc lang="fr">En 1943, quittant Hollywood, l'acteur Jean Gabin s'engage dans les Forces françaises libres. Un engagement héroïque et méconnu jusqu'à la Libération.</desc>
+    <icon src="https://iptv-epg.org/images/gZi_SjZ2YhGv2Bua4DuFZFDSgM9gexSP-r5Qt2jgP7p-j-r4VrJn6k4b9jBXd3h5KW0qmml68A8PvSDQoHxaBHSdi0RbBA1qlQ-LCSGJzd1jIQDNVHbo" />
+    <title lang="fr">Jean Gabin : La guerre c'est pas du cinéma</title>
+  </programme>
+  
+<programme start="20261111223000 +0000" stop="20261112000500 +0000" channel="Arte.fr">
+    <category lang="fr">Film policier</category>
+    <desc lang="fr">Un huis clos entre six personnages détenant chacun un lourd secret, victimes d'un même maître-chanteur et tous suspects potentiels d'un meurtre.</desc>
+    <icon src="https://iptv-epg.org/images/7CShlo9Tcp8reIqNLMioS8iSy_Lr-neTlkj5myeESBubWYpWsBD25sl57toteMik-_Cp8sxsgd2BPqI9GnkGxGYuEaGwnU6LOouaHl-YzNOF79rULjR2" />
+    <title lang="fr">Cluedo</title>
   </programme>
   
 <programme start="20261108133000 +0000" stop="20261108140000 +0000" channel="France24.fr">
@@ -1946,6 +1109,7 @@ L'essentiel : le journal.</desc>
     <title lang="fr">L'essentiel : le journal</title>
     <new />
   </programme>
+  
 <programme start="20261108211000 +0000" stop="20261108213000 +0000" channel="France24.fr">
     <category lang="fr">Magazine de société</category>
     <desc lang="fr">E11
@@ -3591,7 +2755,6 @@ Sports.</desc>
     <icon src="https://iptv-epg.org/images/4t61UFNyuNeb3s-_9oqYJfnOmddLHIuZ3bt1RDNkBFXvY3OmhUzkvWEZ7t4P2OIU2uLwanPuiIIqTFyP-2gEgkmAjzT9A0LMApHtZq_NLhKfPmFksph3" />
     <title lang="fr">Sports</title>
   </programme>
-  
 <programme start="20261110120000 +0000" stop="20261110123000 +0000" channel="France24.fr">
     <category lang="fr">Journal</category>
     <desc lang="fr">E72
@@ -4111,376 +3274,1013 @@ Le débat de France 24.</desc>
     <title lang="fr">Le débat de France 24</title>
   </programme>
   
-<programme start="20261107140200 +0000" stop="20261107154800 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Débat</category>
-    <desc lang="fr">E13 — Les meilleurs moments
-Les meilleurs moments de ce rendez-vous rempli d'émotion et d'humour, qui permet de mieux connaître le parcours des célébrités invitées.</desc>
-    <episode-num>E13</episode-num>
-    <icon src="https://iptv-epg.org/images/lVDkPGOdrrAhNfdWD5PBQAmjWRgZI_8gsrHKmGu_34D4oTZEeOcTolJ1qr-qBcFSspy9vPGJnM0NnYBH7VblvduEab0KfatNEfyxi1rw4JcYSjPiYIol" />
-    <title lang="fr">Un dimanche à la campagne</title>
-  </programme>
-  
-<programme start="20261107154800 +0000" stop="20261107163800 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E29 — Affaire Roger Matassoli, le poids du secret
-Le 4 novembre 2019, à Agnetz, dans l'Oise, l'abbé Roger Matassoli, 91 ans, est retrouvé torse nu, un crucifix enfoncé au fond de la gorge. Si tout laisse penser à un meurtre, l'enquête va finalement révéler un terrible secret de famille.</desc>
-    <episode-num>E29</episode-num>
-    <icon src="https://iptv-epg.org/images/6A0HBfjN9ckj9F9MEzq9hqQexIAhWZuKVLqAAk1vb987_C2UqLsFi_KCPhw2J7yu3kzqjH1v5LIMvVJNXmCKVsTjUP6qZ8YoTeh25JV9DjqUzei2MnZ-" />
-    <title lang="fr">Au bout de l'enquête, la fin du crime parfait ?</title>
-  </programme>
-  
-<programme start="20261107163800 +0000" stop="20261107165200 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">S3 E5 — Château Montlabert
-Le Château Montlabert est une propriété emblématique de Saint-Emilion dont la famille Castel a souhaité respecter et révéler la singularité.</desc>
-    <episode-num>S3 E5</episode-num>
-    <icon src="https://iptv-epg.org/images/1WxCDDhEW_WdlaqAvvXkCL5yJvlt3OOutUrrCz-b7g0Q3KfYExYKho1_6Crf2KZokE1Y2eNoEO19LnfZK16sOf96vGtM1eZBRrhfUoFYbMUL9QbB2-H7" />
-    <title lang="fr">La Vigne en héritage</title>
-  </programme>
-  
-<programme start="20261107165200 +0000" stop="20261107170000 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">S1 E2 — Le panais
-Morgane s'intéresse au panais, cousin de la carotte. Ce légume racine, au goût sucré et à la substance photosensibilisante, est connu depuis l'Antiquité.</desc>
-    <episode-num>S1 E2</episode-num>
-    <icon src="https://iptv-epg.org/images/Y5lJE6sLEdosK_Oq7g7Hz8QEEQdT9CsubluJwKbznIXQ96ICeJkBYA5eUkzzNzIhw95QYgZq4YhhVz8X_ItLIpZ2lGuiGJ6Ug3YwuL1NnPL8w2snOcFi" />
-    <title lang="fr">Stars à croquer</title>
-  </programme>
-  
-<programme start="20261107170000 +0000" stop="20261107172200 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">64' le monde en français.</desc>
-    <icon src="https://iptv-epg.org/images/sInO7WRiXsy2SVkz211Rved0BQGd9ugYeIZ0hkTSru27zvVsdOIhsychFPfKkFKyv5fmpqXcFfyOLZtQqp8aNFGAaMPY70t6LdX45kgIswkJR5Ht9D4s" />
-    <title lang="fr">64' le monde en français</title>
-  </programme>
-  
-<programme start="20261107172200 +0000" stop="20261107172600 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E9 — Elles bougent pour dénoncer le mythe des " métiers de garçons "
-Elles bougent pour dénoncer le mythe des \" métiers de garçons \" \" Quand je serai grande, je serai prix Nobel de physique, pilote de chasse ou mécanicienne à la Nasa \". Combien de petites filles ont fait ce rêve sans vraiment y croire ? Pourquoi, aujourd'hui encore, parle-t-on de métiers d'hommes ? L'association Elles bougent interpelle le public sur les stéréotypes de genre. On en parle avec sa directrice générale, Isabelle Huet.</desc>
-    <episode-num>E9</episode-num>
-    <icon src="https://iptv-epg.org/images/1DMr4pTURDMjc5l3NOxN6bts9AkgZ_k7I0snqTgD2J4eRcUh5-CFu-f3bpycMRDXPug_b5S6ADbYdKdteQUw643sMx5aE2TrTtpqsHtY4OYzhai6LYix" />
-    <title lang="fr">Terriennes</title>
-  </programme>
-  
-<programme start="20261107172600 +0000" stop="20261107173000 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Météo</category>
-    <desc lang="fr">Météo.</desc>
-    <icon src="https://iptv-epg.org/images/QpVLctIELdzpTxPg6ENWWuRsWZa454WvEDpyWmm8xdrrX-2Luf9BnX5WCoanTKZKsRl9jNXSlRsXkYHlD2zUt8urnP3mA5rLJXHrzLB2m_dfusIZPHL9" />
-    <title lang="fr">Météo</title>
-  </programme>
-  
-<programme start="20261107173000 +0000" stop="20261107175000 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">64' le monde en français.</desc>
-    <icon src="https://iptv-epg.org/images/sInO7WRiXsy2SVkz211Rved0BQGd9ugYeIZ0hkTSru27zvVsdOIhsychFPfKkFKyv5fmpqXcFfyOLZtQqp8aNFGAaMPY70t6LdX45kgIswkJR5Ht9D4s" />
-    <title lang="fr">64' le monde en français</title>
-  </programme>
-  
-<programme start="20261107175000 +0000" stop="20261107180600 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E9 — Justine Ryst
-Parlons Éco propose des entretiens avec des dirigeants majeurs. Ce rendez-vous décrypte les tendances et donne la parole à ceux qui imaginent l'économie de demain.</desc>
-    <episode-num>E9</episode-num>
-    <icon src="https://iptv-epg.org/images/utNxyItKFQRCbhJjHFCIN9-3rmuFxqYPKtyqZb4Kl84ziEn7e6q-5tqyt_7ifybfpABfNsXQxAg6fyGsh_22-BGIlvJgrmOBtAbz3JM2908PGIZ6XYdA" />
-    <title lang="fr">Parlons Eco</title>
-  </programme>
-  
-<programme start="20261107180600 +0000" stop="20261107183400 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Documentaire de société</category>
-    <desc lang="fr">S4 E10 — Johanna et Maximiliano (Argentine)
-Normande née à Granville, Johanna découvre le tango à New York : un coup de foudre qui la mène en Argentine. Elle tombe amoureuse du pays et de Maximiliano.</desc>
-    <episode-num>S4 E10</episode-num>
-    <icon src="https://iptv-epg.org/images/4Q8hKsoddmW_z-cTk0ZGUeAipbl5yNR3YkbkO-Msf-u2IF7DHPSNKhy1zBNgkWPMH6vlhsfllk-B_XguDCp5WUAmKyuothwSBx7oMF2OaXf54b_QxKOe" />
-    <title lang="fr">Rassemblance</title>
-  </programme>
-  
-<programme start="20261107183400 +0000" stop="20261107191100 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">S1 E2 — Marcel Ravin - Monaco
-Marcel Ravin, chef doublement étoilé du restaurant Blue Bay, au Monte-Carlo Bay Hotel &amp; Resort, fait découvrir ses adresses favorites, de Monaco à Menton en passant par Nice.</desc>
-    <episode-num>S1 E2</episode-num>
-    <icon src="https://iptv-epg.org/images/m_7IBWIP-d_yA12q7X4LZcoEbtp2rQlc-lvtLqpdGkJ8bG1Q_k-NPupd7DddcUjzMi3sYnmbMvnu1B4hloGGueueA7kNOtaWW0QQhOuKJhiVBh8rYYzD" />
-    <title lang="fr">Les routes du goût - La ballade d'Emma</title>
-  </programme>
-  
-<programme start="20261107191100 +0000" stop="20261107194200 +0000" channel="TV5Monde.fr">
+<programme start="20261111000000 +0000" stop="20261111001500 +0000" channel="France24.fr">
     <category lang="fr">Journal</category>
-    <desc lang="fr">Le 19h30.</desc>
-    <icon src="https://iptv-epg.org/images/IOzJZpMJhwhGtjrBaCo6DXMDWP5IYulNVcCuBPXS7vcF_N_r1AwMfKhUNZWNaKnvSRA4K9lbZ2LA1jPi-jb0t42PDk5n2mTmJyw0kOMfOpOPRSODN48w" />
-    <title lang="fr">Le 19h30</title>
+    <desc lang="fr">E361
+L'édition nuit : le journal.</desc>
+    <episode-num>E361</episode-num>
+    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
+    <title lang="fr">L'édition nuit : le journal</title>
+    <new />
   </programme>
   
-<programme start="20261107194200 +0000" stop="20261107201200 +0000" channel="TV5Monde.fr">
+<programme start="20261111001500 +0000" stop="20261111003000 +0000" channel="France24.fr">
     <category lang="fr">Journal</category>
-    <desc lang="fr">Journal 20h00.</desc>
-    <icon src="https://iptv-epg.org/images/pAV3sM7u2vF98D08DQBAMkzXVlItEfIhKbnSeAvJIqB4q2o8uGhU9AdgqBN66tYuAGj-5Ms56C7iPuS2OycFv63uybYE35r5JENm6vvFuUPlo514rFUV" />
-    <title lang="fr">Journal 20h00</title>
+    <desc lang="fr">E54
+Le journal de l'Afrique.</desc>
+    <episode-num>E54</episode-num>
+    <icon src="https://iptv-epg.org/images/mcX7b0_3RzG1dAzqVEzEvIEphH19X0sPvL7nHOSe-Xtp8g2H0vNzZm_JzLyISxQ--N8NNU3NzSl3QyOxw3Cj1LJlQVI3tyoJq0szlZ1J0xoFKTxpz3zt" />
+    <title lang="fr">Le journal de l'Afrique</title>
   </programme>
   
-<programme start="20261107201200 +0000" stop="20261107201500 +0000" channel="TV5Monde.fr">
+<programme start="20261111003000 +0000" stop="20261111004500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E259
+L'édition nuit : le journal.</desc>
+    <episode-num>E259</episode-num>
+    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
+    <title lang="fr">L'édition nuit : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111004500 +0000" stop="20261111010000 +0000" channel="France24.fr">
     <category lang="fr">Magazine culturel</category>
-    <desc lang="fr">S1 E4 — Bulgarie
-Née en Bulgarie, Elitza Gueorguieva vit en France depuis plus de vingt ans. "Odyssée des filles de l'Est" raconte le parcours deux femmes bulgares qui arrivent séparément à Lyon.</desc>
-    <episode-num>S1 E4</episode-num>
-    <icon src="https://iptv-epg.org/images/n4loYT63VvOIYPKOl6XZ84WClhKO77ena3r6kV5HKB_z0JjaPuWjLM4N0hafFfAwW3X1xJXFHAaulUAcPuyODupJzfEeNwM94ZRlPjUHJ_2tYN6GVG2r" />
-    <title lang="fr">Un pays, un livre</title>
+    <desc lang="fr">E52
+A l'affiche.</desc>
+    <episode-num>E52</episode-num>
+    <icon src="https://iptv-epg.org/images/ZrX6rgE656yOAhIwTmNErfYAgHhEPjsWjR0Uxafbs8iB3W1pToWEFBqIs5eCIyQODa1G3JzLZSbbktp5JG4pxfKx9ZXPmI1IH6OhIW1JpY5lq7Hsis0u" />
+    <title lang="fr">A l'affiche</title>
   </programme>
   
-<programme start="20261107201500 +0000" stop="20261107214400 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Téléfilm policier</category>
-    <desc lang="fr">S2 E2 — Quand sort la recluse
-Adamsberg cherche à comprendre la psychose qui s'est emparée de certains habitants, convaincus que des araignées tueuses sévissent dans la région.</desc>
-    <episode-num>S2 E2</episode-num>
-    <icon src="https://iptv-epg.org/images/zlU3B0tTE613Sl-mkPSo2ZE0nPo4GfpoTGry90sqbwtew13XMZ_zFzS6eVOJZOyrAG0r_oKpBMlf8n6rmeNijDBWn6fffebsXcoxsimOQIFAQ3npKqaM" />
-    <title lang="fr">Collection Fred Vargas</title>
+<programme start="20261111010000 +0000" stop="20261111011000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E362
+L'édition nuit : le journal.</desc>
+    <episode-num>E362</episode-num>
+    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
+    <title lang="fr">L'édition nuit : le journal</title>
+    <new />
   </programme>
   
-<programme start="20261107214400 +0000" stop="20261107214800 +0000" channel="TV5Monde.fr">
+<programme start="20261111011000 +0000" stop="20261111013000 +0000" channel="France24.fr">
+    <category lang="fr">Interview</category>
+    <desc lang="fr">E10
+Ici l'Europe : on vous écoute.</desc>
+    <episode-num>E10</episode-num>
+    <icon src="https://iptv-epg.org/images/bSmikFfDdP9ZDkyaK1uNySsGFnD620DbGJDns9ue0DT2sxPwEbgKTBNlsoFWqLqJYJ6YKX0fklL81CLFzwF1_zpLNCKA-pkbGsqrara75jUOm0zAdIPd" />
+    <title lang="fr">Ici l'Europe : on vous écoute</title>
+  </programme>
+  
+<programme start="20261111013000 +0000" stop="20261111014000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E260
+L'édition nuit : le journal.</desc>
+    <episode-num>E260</episode-num>
+    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
+    <title lang="fr">L'édition nuit : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111014000 +0000" stop="20261111015200 +0000" channel="France24.fr">
+    <category lang="fr">Magazine de société</category>
+    <desc lang="fr">E11
+C'est en France.</desc>
+    <episode-num>E11</episode-num>
+    <icon src="https://iptv-epg.org/images/eF_riR9s3QRPmXH-KlThOkGBORE7Qy7cNxhm07dVQ6DBydp9T3i2CWCBkVYmoGcas1WxL_F0G_gZm-YI_hzAv71JK5y_816_m14Uec_34Wt5qehgpSHA" />
+    <title lang="fr">C'est en France</title>
+  </programme>
+  
+<programme start="20261111015200 +0000" stop="20261111020000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E185
+L'instant mobile.</desc>
+    <episode-num>E185</episode-num>
+    <icon src="https://iptv-epg.org/images/Wk8vAnJNJXXw35yoTZ0AP84NFYMvnxGBDU4Mbw1CzTypNhZC2dYNJw2-ofXPDgg2Va6cbrBIh--g6hbrt8lCgDbA7VV1bby2hgWenT1K3lR058zZXfO1" />
+    <title lang="fr">L'instant mobile</title>
+  </programme>
+  
+<programme start="20261111020000 +0000" stop="20261111021100 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E363
+L'édition nuit : le journal.</desc>
+    <episode-num>E363</episode-num>
+    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
+    <title lang="fr">L'édition nuit : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111021100 +0000" stop="20261111025500 +0000" channel="France24.fr">
+    <category lang="fr">Débat</category>
+    <desc lang="fr">E14
+Le débat de France 24.</desc>
+    <episode-num>E14</episode-num>
+    <icon src="https://iptv-epg.org/images/qZ1mG2cIjIHjMOpvxhdl3Fi8ffAOIY0_lSgoURVd1jqHZwCWJwzqsI_OLKhDOsX5ys8FqqjiXJiZhJQzV5a3jqtloBfNEQnXjq1QRtnAHnDVaQi9bXh4" />
+    <title lang="fr">Le débat de France 24</title>
+  </programme>
+  
+<programme start="20261111025500 +0000" stop="20261111030000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E186
+L'instant mobile.</desc>
+    <episode-num>E186</episode-num>
+    <icon src="https://iptv-epg.org/images/Wk8vAnJNJXXw35yoTZ0AP84NFYMvnxGBDU4Mbw1CzTypNhZC2dYNJw2-ofXPDgg2Va6cbrBIh--g6hbrt8lCgDbA7VV1bby2hgWenT1K3lR058zZXfO1" />
+    <title lang="fr">L'instant mobile</title>
+  </programme>
+  
+<programme start="20261111030000 +0000" stop="20261111031500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E364
+L'édition nuit : le journal.</desc>
+    <episode-num>E364</episode-num>
+    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
+    <title lang="fr">L'édition nuit : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111031500 +0000" stop="20261111033000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine de société</category>
+    <desc lang="fr">E11
+ActuElles.</desc>
+    <episode-num>E11</episode-num>
+    <icon src="https://iptv-epg.org/images/M5SygDyzxF3JzudWjJkdkNzIazg8E2Tcdxhrvv21Q0C8w6pEGPGvt9SIBoz30WeYV8uOaw2CjU6sYKIe9sX4n13qq1sCtdPMzf4llRkDaw-N2tSujgMu" />
+    <title lang="fr">ActuElles</title>
+  </programme>
+  
+<programme start="20261111033000 +0000" stop="20261111034500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E261
+L'édition nuit : le journal.</desc>
+    <episode-num>E261</episode-num>
+    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
+    <title lang="fr">L'édition nuit : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111034500 +0000" stop="20261111035100 +0000" channel="France24.fr">
+    <category lang="fr">Magazine de société</category>
+    <desc lang="fr">E2
+#Pas2quartier.</desc>
+    <episode-num>E2</episode-num>
+    <icon src="https://iptv-epg.org/images/2Idy30XxymM5LdQDMtFxvzizh-L-FYe8fTT1Hr88Ppz1z2Rh5MTlsG2x_PDWsmDKfNjPi2vlQaX375iRWxn9d9tsAvqBGrRXPlj7Y5OPD-4KGNBLH2EE" />
+    <title lang="fr">#Pas2quartier</title>
+  </programme>
+  
+<programme start="20261111035100 +0000" stop="20261111040000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E41
+Focus.</desc>
+    <episode-num>E41</episode-num>
+    <icon src="https://iptv-epg.org/images/B4eSPT6dlEtyNQ9_U8ZroBmiZPpwkX1JOTlIMToYFBUAdMZzl2TXaWmjacdv_7mQJ7Ua5KZrwUYFo0Q7vJclooHplXJI1s1UmHfdz3jvXXgIuN2M6A8E" />
+    <title lang="fr">Focus</title>
+  </programme>
+  
+<programme start="20261111040000 +0000" stop="20261111041500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E365
+L'édition nuit : le journal.</desc>
+    <episode-num>E365</episode-num>
+    <icon src="https://iptv-epg.org/images/RLgKgCgOGl1JUaD0hNkt6UfJo6Yf9WiC4MRxNCs9BH7ljcotOIC_z1Xo3bVmVSAZjVFxaIoXuWdSaV73uBZ5S13_-3xkjZ7-zEAqnJjeWFLkjYs4fghg" />
+    <title lang="fr">L'édition nuit : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111041500 +0000" stop="20261111044500 +0000" channel="France24.fr">
+    <category lang="fr">Débat</category>
+    <desc lang="fr">E11
+Aux avant-postes.</desc>
+    <episode-num>E11</episode-num>
+    <icon src="https://iptv-epg.org/images/EKQjCcfaLwbNyH7QZkJkvj4wsm14a-VRxVp7CbYV9Me-n4gPwpPszI4_oc9rcXMZ8PBMjdPIX89hZjGbsEFiANDl2fdifW4f8kz1SHIAPKX5FLobzv2Q" />
+    <title lang="fr">Aux avant-postes</title>
+  </programme>
+  
+<programme start="20261111044500 +0000" stop="20261111050000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E54
+Le journal de l'Afrique.</desc>
+    <episode-num>E54</episode-num>
+    <icon src="https://iptv-epg.org/images/mcX7b0_3RzG1dAzqVEzEvIEphH19X0sPvL7nHOSe-Xtp8g2H0vNzZm_JzLyISxQ--N8NNU3NzSl3QyOxw3Cj1LJlQVI3tyoJq0szlZ1J0xoFKTxpz3zt" />
+    <title lang="fr">Le journal de l'Afrique</title>
+  </programme>
+  
+<programme start="20261111050000 +0000" stop="20261111052200 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E107
+A la une : le journal.</desc>
+    <episode-num>E107</episode-num>
+    <icon src="https://iptv-epg.org/images/08XgmnEYIAxXAoPtRlqb4e_oxrY83KXPKqxMNiwxOzYI4Xhxh9Qb_QLuOTl_uGH-hgGP0d-anQZBSx_bTABnmk2dcZ7p60GYT7AN8iCq-QPys9vJKGHg" />
+    <title lang="fr">A la une : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111052200 +0000" stop="20261111053000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E43
+Focus.</desc>
+    <episode-num>E43</episode-num>
+    <icon src="https://iptv-epg.org/images/B4eSPT6dlEtyNQ9_U8ZroBmiZPpwkX1JOTlIMToYFBUAdMZzl2TXaWmjacdv_7mQJ7Ua5KZrwUYFo0Q7vJclooHplXJI1s1UmHfdz3jvXXgIuN2M6A8E" />
+    <title lang="fr">Focus</title>
+    <new />
+  </programme>
+  
+<programme start="20261111053000 +0000" stop="20261111055100 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E42
+A la une : le journal.</desc>
+    <episode-num>E42</episode-num>
+    <icon src="https://iptv-epg.org/images/08XgmnEYIAxXAoPtRlqb4e_oxrY83KXPKqxMNiwxOzYI4Xhxh9Qb_QLuOTl_uGH-hgGP0d-anQZBSx_bTABnmk2dcZ7p60GYT7AN8iCq-QPys9vJKGHg" />
+    <title lang="fr">A la une : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111055100 +0000" stop="20261111060000 +0000" channel="France24.fr">
     <category lang="fr">Magazine sportif</category>
-    <desc lang="fr">E20
-La Route du Rhum - Destination Guadeloupe.</desc>
-    <episode-num>E20</episode-num>
-    <icon src="https://iptv-epg.org/images/9xdkHczwi-TAo-XI5U3roHntTOQar-A9kjpFT6mLdJmK1RNLJi_xCKQH9N_sYlX-RVFO8zXNzRE_ozECqPMkL7RncpcO7XgEZar3gE7AaYWwGit0H_ix" />
-    <title lang="fr">La Route du Rhum - Destination Guadeloupe</title>
+    <desc lang="fr">E43
+Sports.</desc>
+    <episode-num>E43</episode-num>
+    <icon src="https://iptv-epg.org/images/4t61UFNyuNeb3s-_9oqYJfnOmddLHIuZ3bt1RDNkBFXvY3OmhUzkvWEZ7t4P2OIU2uLwanPuiIIqTFyP-2gEgkmAjzT9A0LMApHtZq_NLhKfPmFksph3" />
+    <title lang="fr">Sports</title>
   </programme>
   
-<programme start="20261107214800 +0000" stop="20261107215900 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">L'invité.</desc>
-    <icon src="https://iptv-epg.org/images/G1VAgtlo8u4adm5WaiyNRCFzWImkd2Wei5WTKgwZ0GqpPyKdtXO18UF4-OsA79hdJ-_QjlyyDz98rM2Wjxg1TW4jisWu9iTDcbwD2V0qW94lGpbDjoEM" />
-    <title lang="fr">L'invité</title>
-  </programme>
-  
-<programme start="20261107215900 +0000" stop="20261107220500 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Météo</category>
-    <desc lang="fr">Météo.</desc>
-    <icon src="https://iptv-epg.org/images/QpVLctIELdzpTxPg6ENWWuRsWZa454WvEDpyWmm8xdrrX-2Luf9BnX5WCoanTKZKsRl9jNXSlRsXkYHlD2zUt8urnP3mA5rLJXHrzLB2m_dfusIZPHL9" />
-    <title lang="fr">Météo</title>
-  </programme>
-  
-<programme start="20261107220500 +0000" stop="20261107234800 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Téléfilm policier</category>
-    <desc lang="fr">Une jeune championne est retrouvée morte lors d'un tournoi de tennis. Un capitaine passionné enquête et découvre les secrets du directeur technique.</desc>
-    <icon src="https://iptv-epg.org/images/8vwOLlvu0wjraaQxDyrQLGRQEJ8Xx_njJX3xqIbHdNSMaMXlOyMkO0cRGQ-5wx741JiE2CrvNf55kha_lwprJ9cDcZ3Re8yQNnP9Xr-2ucDf53Qr-oEW" />
-    <title lang="fr">Mort sur terre battue</title>
-  </programme>
-  
-<programme start="20261107234800 +0000" stop="20261108002100 +0000" channel="TV5Monde.fr">
+<programme start="20261111060000 +0000" stop="20261111061600 +0000" channel="France24.fr">
     <category lang="fr">Journal</category>
-    <desc lang="fr">Le journal Afrique.</desc>
-    <icon src="https://iptv-epg.org/images/LkEsxx7RBbMDJBj1hOxwmfYnUdrD_Xz2xopWW7p33zaWW7JaehkmxkZqC0cNZZN2avkR1M-WZxIaUDCI81tflBUF6InbRbVJ6ATVF8zIIzOSLEZVZncq" />
-    <title lang="fr">Le journal Afrique</title>
+    <desc lang="fr">E108
+A la une : le journal.</desc>
+    <episode-num>E108</episode-num>
+    <icon src="https://iptv-epg.org/images/08XgmnEYIAxXAoPtRlqb4e_oxrY83KXPKqxMNiwxOzYI4Xhxh9Qb_QLuOTl_uGH-hgGP0d-anQZBSx_bTABnmk2dcZ7p60GYT7AN8iCq-QPys9vJKGHg" />
+    <title lang="fr">A la une : le journal</title>
+    <new />
   </programme>
   
-<programme start="20261108002100 +0000" stop="20261108002700 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Météo</category>
-    <desc lang="fr">Météo.</desc>
-    <icon src="https://iptv-epg.org/images/QpVLctIELdzpTxPg6ENWWuRsWZa454WvEDpyWmm8xdrrX-2Luf9BnX5WCoanTKZKsRl9jNXSlRsXkYHlD2zUt8urnP3mA5rLJXHrzLB2m_dfusIZPHL9" />
-    <title lang="fr">Météo</title>
+<programme start="20261111061600 +0000" stop="20261111062100 +0000" channel="France24.fr">
+    <category lang="fr">Magazine</category>
+    <desc lang="fr">E35
+Dans la presse.</desc>
+    <episode-num>E35</episode-num>
+    <icon src="https://iptv-epg.org/images/MjxaTOqm_iOEIkoCMJy-R7OHh7S7jGhVD0vYJ1vNzHJjT_Y407PwP9Qvey_LuOEnpk7MUjtDfb45FdnA_cSHlY0xdhi6KSvJ9rKwYDF1CfrQtLemuRgZ" />
+    <title lang="fr">Dans la presse</title>
+    <new />
   </programme>
   
-<programme start="20261108002700 +0000" stop="20261108005700 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine culturel</category>
-    <desc lang="fr">E45 — Mula feat Bi Pomi junior, Ghix, Barakina, Krys M feat Cysoul, Pallaso, Djelykaba Bintou feat Viviane Chidid
-Au sommaire : Mula feat Bi Pomi junior, Ghix, Barakina, Krys M feat Cysoul, Pallaso, Djelykaba Bintou feat Viviane Chidid.</desc>
-    <episode-num>E45</episode-num>
-    <icon src="https://iptv-epg.org/images/qD0IgBTgrzZoxijjxuXsQSS0Vlf5-YLUi_Fm1IvjJ-spo-rdRcv5YGFjogDP93wpO3QzMpuCUN1_sj1J-8YXjdJl9I9TXk0F_dYggTVhS5zOygGD63we" />
-    <title lang="fr">Stars parade</title>
-  </programme>
-  
-<programme start="20261108005700 +0000" stop="20261108022600 +0000" channel="TV5Monde.fr">
+<programme start="20261111062100 +0000" stop="20261111063000 +0000" channel="France24.fr">
     <category lang="fr">Magazine de découvertes</category>
-    <desc lang="fr">S19 — Albanie, la perle des Balkans
-Il n'y a pas si longtemps, l'Albanie vivait sous l'un des régimes les plus fermés et oppressifs d'Europe. Aujourd'hui, la beauté naturelle et le dynamisme touristique semblent effacer peu à peu les traces de cette époque sombre, offrant aux visiteurs une vision d'une nation résolument tournée vers l'avenir.</desc>
-    <episode-num>S19</episode-num>
-    <icon src="https://iptv-epg.org/images/ilrY_Bbb33Khbz0SpPJyf5RXbrczgHLFiHceUM3VlqsxpzljLNsO0AtYVqfQVsnMHo1jEheUACdGRRO2xudy5ty5vtyuGfyYBS1iuqH9N4oaF6SKr6wy" />
-    <title lang="fr">Echappées belles</title>
+    <desc lang="fr">E18
+Reportages.</desc>
+    <episode-num>E18</episode-num>
+    <icon src="https://iptv-epg.org/images/RFzbkQkb-6c_RudojeiRlo4-8SH23NPDwqjOPWo-SPsEWAlCaxfsVAU8j4orxg_Pz-yxe0mPwE3qFZCpPsFVZBW-AYZMPXENjgFGDvPyG0duS4I_nheB" />
+    <title lang="fr">Reportages</title>
+    <new />
   </programme>
   
-<programme start="20261108022600 +0000" stop="20261108031500 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">S10 E3 — Objectif Hautes-Alpes : concerto pour un glacier
-Nans et Mouts continuent leur route pour organiser un concert de piano au pied d'un glacier. Mais un tel rêve peut-il se réaliser sans argent ?</desc>
-    <episode-num>S10 E3</episode-num>
-    <icon src="https://iptv-epg.org/images/0W_o3KUO3P1rMk13eZEFePuncsNKviBCf2BHZlXMBXmb_0IpY1sfhIJ-x1-aieTLnSpLP_HZKZZz2Z_tv_UzNvMR_nzVzlFCn4fcLpnAyLegJIciJfjz" />
-    <title lang="fr">Nus et culottés</title>
-  </programme>
-  
-<programme start="20261108031500 +0000" stop="20261108034500 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E9 — Payram, Fanny Liatard, Jérémy Trouilh, Adel Fugazi, Baaziz
-Contraint de quitter l'Iran, Payram questionne l'absence, la transmission et les liens intimes qui se construisent dans l'expérience de l'exil. Son exposition \" Que vos pas soient légers car vous marchez sur mes rêves \" est à voir à Paris. Avec \" Les Yeux verts \", Fanny Liatard et Jérémy Trouilh explorent les douleurs de l'exil. L'humour d'Adel Fugazi est à retrouver dans \" Le Temps d'une pause \". Baaziz se produit au Festival du monde arabe de Montréal.</desc>
-    <episode-num>E9</episode-num>
-    <icon src="https://iptv-epg.org/images/rZGO2-wj45D-Z-iC8M4mNuNW7EzVKeQGRU32S2WRhsotmJF_S3Rgcvgo7E7AcIrKnfjUG7fJiItx_q70CcCg9dLWUXca0hl45ETwFooEoyZD22QermWJ" />
-    <title lang="fr">Maghreb-Orient Express</title>
-  </programme>
-  
-<programme start="20261108034500 +0000" stop="20261108035800 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">S1 E18 — Alexis Mabille
-Alexis Mabille revient sur son défilé haute couture automne-hiver 2024-2025, qui s'est tenu dans le cadre prestigieux du Lido.</desc>
-    <episode-num>S1 E18</episode-num>
-    <icon src="https://iptv-epg.org/images/Fy1Z5GnuOLCG5FULjRGTXIjphBd92DPSuBHPR-vmU0s3pPhAIeONND-pDS8w191BSKqEp1hrP2Rqo1dpFXBh51hqraReOJipesAVa7zUdLjK9EfaA1IY" />
-    <title lang="fr">Démo de mode</title>
-  </programme>
-  
-<programme start="20261108035800 +0000" stop="20261108044600 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">S2 E10 — Brienz, Suisse (Josée Deschênes et Élise Guilbault)
-Les comédiennes Elise Guilbault et Josée Deschênes visitent le village alpin de Brienz, le domaine de Grandhotel Giessbach et la vallée de Lauterbrunnen.</desc>
-    <episode-num>S2 E10</episode-num>
-    <icon src="https://iptv-epg.org/images/we1OMCNiijB_BJtKfdHvyS_4Y3rCQoSGeREciuyLJEoJNPSfj8VXp6G1rxajn1097QnNcqtKgCByNTsDHCfan88YYzXU5ZYPUzFxZH0bAtJvdZ6ML0an" />
-    <title lang="fr">Partir autrement entre amis</title>
-  </programme>
-  
-<programme start="20261108044600 +0000" stop="20261108053800 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E5 — Noyer les gaz à effet de serre
-En Nouvelle-Écosse, des scientifiques-entrepreneurs tentent de transformer les océans et les rivières en éponges géantes pour piéger et absorber les gaz à effet de serre.</desc>
-    <episode-num>E5</episode-num>
-    <icon src="https://iptv-epg.org/images/JDlH6OtOdWhkv8WmoFioO-kiauEDu4Sn3scR694u_IUh3ywRtGfzPNMNcN83EHfFXYwuvh9on1vjfxjGx9OSVf6_CyXaWopHrdrHrRMArZ57-racPd0k" />
-    <title lang="fr">Le point</title>
-  </programme>
-  
-<programme start="20261108053800 +0000" stop="20261108055500 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine jeunesse</category>
-    <desc lang="fr">E1 — Rentrée, comment recaler son sommeil ?
-C'est la rentrée et il faut reprendre les bonnes habitudes. \" Mission info \" s'intéresse cette semaine au sommeil. Comment se recaler alors que les horaires ont souvent été décalés pendant les vacances ? Comprendre les mécanismes en jeu permet d'adopter les bons gestes.</desc>
-    <episode-num>E1</episode-num>
-    <icon src="https://iptv-epg.org/images/juO0YgfvstJ9bW0O0N0NISgRjl40TaJA--CfXSZIMheCAikE7NFlMcIUMKEZa9lWGyIBUl7aImbsycoLsm4t36OyR8k5C2bBP1Rmin7VwlpTqoY0fr11" />
-    <title lang="fr">Mission info</title>
-  </programme>
-  
-<programme start="20261108055500 +0000" stop="20261108060000 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Météo</category>
-    <desc lang="fr">Météo.</desc>
-    <icon src="https://iptv-epg.org/images/QpVLctIELdzpTxPg6ENWWuRsWZa454WvEDpyWmm8xdrrX-2Luf9BnX5WCoanTKZKsRl9jNXSlRsXkYHlD2zUt8urnP3mA5rLJXHrzLB2m_dfusIZPHL9" />
-    <title lang="fr">Météo</title>
-  </programme>
-  
-<programme start="20261108060000 +0000" stop="20261108062200 +0000" channel="TV5Monde.fr">
+<programme start="20261111063000 +0000" stop="20261111064600 +0000" channel="France24.fr">
     <category lang="fr">Journal</category>
-    <desc lang="fr">Le téléjournal.</desc>
-    <icon src="https://iptv-epg.org/images/644Avy9Wc4ObQyCCBUynEvT-I92Z274g9JKbqkbR5k6_dLo8fwSXMLgvmxKC9RfsWgEEeXsrOpm0RZj3fCzt6evaPP3W0LjKzht2S56rhemirJvl7ZJO" />
-    <title lang="fr">Le téléjournal</title>
+    <desc lang="fr">E109
+A la une : le journal.</desc>
+    <episode-num>E109</episode-num>
+    <icon src="https://iptv-epg.org/images/08XgmnEYIAxXAoPtRlqb4e_oxrY83KXPKqxMNiwxOzYI4Xhxh9Qb_QLuOTl_uGH-hgGP0d-anQZBSx_bTABnmk2dcZ7p60GYT7AN8iCq-QPys9vJKGHg" />
+    <title lang="fr">A la une : le journal</title>
+    <new />
   </programme>
   
-<programme start="20261108062200 +0000" stop="20261108072200 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine de société</category>
-    <desc lang="fr">E9
-Ça va l'faire ! compile le meilleur de la Riviera et de Monaco. Entouré de chroniqueurs, Sébastien Serrano présente l'actualité, les loisirs et les initiatives de la Principauté.</desc>
-    <episode-num>E9</episode-num>
-    <icon src="https://iptv-epg.org/images/usMtcyNr6BRciRLoNGYjmrCi5vNnYmnIVB4J3FuWdp7-9oQD-XTSbdgb0ZHTBuJRhQikLy6B7DWcCfWG4i2yGQnJ_eIXENEmly-2EmRVYS7MxplUTBdX" />
-    <title lang="fr">Ça va l'faire !</title>
-  </programme>
-  
-<programme start="20261108072200 +0000" stop="20261108072400 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Météo</category>
-    <desc lang="fr">Météo.</desc>
-    <icon src="https://iptv-epg.org/images/QpVLctIELdzpTxPg6ENWWuRsWZa454WvEDpyWmm8xdrrX-2Luf9BnX5WCoanTKZKsRl9jNXSlRsXkYHlD2zUt8urnP3mA5rLJXHrzLB2m_dfusIZPHL9" />
-    <title lang="fr">Météo</title>
-  </programme>
-  
-<programme start="20261108072400 +0000" stop="20261108075000 +0000" channel="TV5Monde.fr">
+<programme start="20261111064600 +0000" stop="20261111065100 +0000" channel="France24.fr">
     <category lang="fr">Magazine d'information</category>
-    <desc lang="fr">E44 — Madagascar : le tsiperifery suscite le débat
-A Madagascar, un poivre sauvage fait l'objet de toutes les convoitises. Le tsiperifery, une épice endémique de l'île, est particulièrement apprécié dans la gastronomie haut de gamme. Mais, victime de son succès et de la déforestation, cette ressource se raréfie. Face à cette situation, des entrepreneurs tentent de développer sa culture. Une perspective qui divise les exportateurs...</desc>
+    <desc lang="fr">L'info éco.</desc>
+    <icon src="https://iptv-epg.org/images/c3Whsn1kiOHPBTA9q6i9WZHS4SdWKtyLjrDs82r02m4YHG4dn-eKPBUk30wlMG8ISf0XjEMJBHOdFJojBpSg0AaEo9HiZOltFb4_gWdMKwcMjxG19fpq" />
+    <title lang="fr">L'info éco</title>
+  </programme>
+  
+<programme start="20261111065100 +0000" stop="20261111070000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E44
+Focus.</desc>
     <episode-num>E44</episode-num>
-    <icon src="https://iptv-epg.org/images/Zs0DnDCpp5EXNlhpbmn9bZ1C9unbOr8kiFGhvuFfRhwdzVVOvbsA76VXA74hpE3H_VPECuectf_SVZkxFpNfu_HRnveG0HRz3npQvT66Oyr4ntq2Z0fM" />
-    <title lang="fr">Wari</title>
+    <icon src="https://iptv-epg.org/images/B4eSPT6dlEtyNQ9_U8ZroBmiZPpwkX1JOTlIMToYFBUAdMZzl2TXaWmjacdv_7mQJ7Ua5KZrwUYFo0Q7vJclooHplXJI1s1UmHfdz3jvXXgIuN2M6A8E" />
+    <title lang="fr">Focus</title>
   </programme>
   
-<programme start="20261108075000 +0000" stop="20261108082900 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Jeu</category>
-    <desc lang="fr">Questions pour un champion.</desc>
-    <icon src="https://iptv-epg.org/images/PJQSajSGoc_P1HFI5c3G8TbU8trFAVHgupB1ZI1fiZjIcmg4c8fGW8hNrT7NSDANxFjKWZXGgNxgTWTEDIbHGWDsKiphFwsbTAUNEupgh6VA1U6Z1zlF" />
-    <title lang="fr">Questions pour un champion</title>
-  </programme>
-  
-<programme start="20261108082900 +0000" stop="20261108091700 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Documentaire culturel</category>
-    <desc lang="fr">S1 E7 — Belgique
-En Belgique, Karine Vanasse part à la rencontre de nouveaux designers de mode qui allient la sobriété et l'audace, les dignes héritiers des six d'Anvers.</desc>
-    <episode-num>S1 E7</episode-num>
-    <icon src="https://iptv-epg.org/images/HPqICTPxeOKTF5kS0jTeTbf8AKLK9sqyHo00cfZZgdldmsI9HQjVgdtB1ZV7WuAncZ9_6Hp1HHYFj1qL8JE1_Kd4thGm3KPRKTthycUe_qdaaEYKlbfs" />
-    <title lang="fr">Cousu</title>
-  </programme>
-  
-<programme start="20261108091700 +0000" stop="20261108100900 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Documentaire scientifique</category>
-    <desc lang="fr">Santé, transports, climat : les animaux ont la solution !
-Habitat, transports, éclairage : à l'heure du réchauffement climatique et des économies d'énergie, les animaux ont souvent la solution. Gros plan.</desc>
-    <icon src="https://iptv-epg.org/images/WCSDoTInSQD4t8HOjU938mBJVvIFRJtXPCn9LPnNq7KWuVbQ9ezZYfTjNKs3QdGs4uMcZsavDcg94jIjg4VYvo0Uf87y_k9bRToesUHKhvJe4ghDdPD_" />
-    <title lang="fr">Le monde de Jamy</title>
-  </programme>
-  
-<programme start="20261108100900 +0000" stop="20261108110700 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Documentaire scientifique</category>
-    <desc lang="fr">E37 — Réchauffement climatique : nos produits du terroir vont-ils résister ?
-Abricots du Roussillon, Tomme de Savoie, vins de Bourgogne : comment le réchauffement climatique affecte-t-il les produits du terroir ? Jamy Gourmaud enquête.</desc>
-    <episode-num>E37</episode-num>
-    <icon src="https://iptv-epg.org/images/srWvdw7Ui9V2KEdSPlYvefN49HWeIWIaQL9u8EHswLE-ElTivJnLNBnqsMZBe7m6gmXmEnq-8KUSWZdYdWYeRCGggOiZVBLneKFyCJ82KswBAQXHdsj3" />
-    <title lang="fr">Le monde de Jamy</title>
-  </programme>
-  
-<programme start="20261108110700 +0000" stop="20261108113500 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Débat</category>
-    <desc lang="fr">E9 — Julie Conti
-Humoriste, chroniqueuse, stand-uppeuse, à la scène comme à la radio, Julie Conti distille un langage transgressif, engagé et volontiers provocateur, mélange de sarcasme, de bonhomie et d'humour qui désamorce des sujets sociaux et intimes, ancrés dans le quotidien et l'expérience personnelle...</desc>
-    <episode-num>E9</episode-num>
-    <icon src="https://iptv-epg.org/images/9oRirqGxixCcGAoJElqSGbkUh-Qrvmt6PtGJXDsFBBNk377hE0p9ZkJsalu7o501TH0n3196IjbpQmq2cm4iGMSwmKHZMsO-3u8IUf-vP5L2_q84DP_X" />
-    <title lang="fr">Suisse en scène</title>
-  </programme>
-  
-<programme start="20261108113500 +0000" stop="20261108114900 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Documentaire</category>
-    <desc lang="fr">S3 E1 — Maison Joseph Drouhin
-Avec environ 90 appellations, Joseph Drouhin propose une passionnante découverte du terroir bourguignon, dans toutes les nuances de son authenticité.</desc>
-    <episode-num>S3 E1</episode-num>
-    <icon src="https://iptv-epg.org/images/1WxCDDhEW_WdlaqAvvXkCL5yJvlt3OOutUrrCz-b7g0Q3KfYExYKho1_6Crf2KZokE1Y2eNoEO19LnfZK16sOf96vGtM1eZBRrhfUoFYbMUL9QbB2-H7" />
-    <title lang="fr">La Vigne en héritage</title>
-  </programme>
-  
-<programme start="20261108114900 +0000" stop="20261108115600 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Magazine culturel</category>
-    <desc lang="fr">S1 E23 — Rwanda
-Paru en août 2016 aux Editions Grasset, "Petit Pays" est le premier roman de Gaël Faye, connu jusque-là comme auteur, compositeur et interprète.</desc>
-    <episode-num>S1 E23</episode-num>
-    <icon src="https://iptv-epg.org/images/n4loYT63VvOIYPKOl6XZ84WClhKO77ena3r6kV5HKB_z0JjaPuWjLM4N0hafFfAwW3X1xJXFHAaulUAcPuyODupJzfEeNwM94ZRlPjUHJ_2tYN6GVG2r" />
-    <title lang="fr">Un pays, un livre</title>
-  </programme>
-  
-<programme start="20261108115600 +0000" stop="20261108122500 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Documentaire de société</category>
-    <desc lang="fr">S4 E9 — Océane Dassé (Cameroun)
-Océane, créatrice de contenus franco-camerounaise, utilise les cheveux texturés afin de promouvoir la confiance en soi et l'affirmation identitaire.</desc>
-    <episode-num>S4 E9</episode-num>
-    <icon src="https://iptv-epg.org/images/4Q8hKsoddmW_z-cTk0ZGUeAipbl5yNR3YkbkO-Msf-u2IF7DHPSNKhy1zBNgkWPMH6vlhsfllk-B_XguDCp5WUAmKyuothwSBx7oMF2OaXf54b_QxKOe" />
-    <title lang="fr">Rassemblance</title>
-  </programme>
-  
-<programme start="20261108122500 +0000" stop="20261108123000 +0000" channel="TV5Monde.fr">
-    <category lang="fr">Météo</category>
-    <desc lang="fr">Météo.</desc>
-    <icon src="https://iptv-epg.org/images/QpVLctIELdzpTxPg6ENWWuRsWZa454WvEDpyWmm8xdrrX-2Luf9BnX5WCoanTKZKsRl9jNXSlRsXkYHlD2zUt8urnP3mA5rLJXHrzLB2m_dfusIZPHL9" />
-    <title lang="fr">Météo</title>
-  </programme>
-  
-<programme start="20261108123000 +0000" stop="20261108130100 +0000" channel="TV5Monde.fr">
+<programme start="20261111070000 +0000" stop="20261111071500 +0000" channel="France24.fr">
     <category lang="fr">Journal</category>
-    <desc lang="fr">JT 13h (La Une).</desc>
-    <icon src="https://iptv-epg.org/images/vOvlFuy95abxMRqDW5oyr6wS0eKqn3E82ZAazl6edb24f4RCkgkUuDrRQ_q2gUJ9jg8HuzFyWp7RXLnzewSozIx4j9d1iiMppAoAC9tJeyCtG7Xwe_IA" />
-    <title lang="fr">JT 13h (La Une)</title>
+    <desc lang="fr">E110
+A la une : le journal.</desc>
+    <episode-num>E110</episode-num>
+    <icon src="https://iptv-epg.org/images/08XgmnEYIAxXAoPtRlqb4e_oxrY83KXPKqxMNiwxOzYI4Xhxh9Qb_QLuOTl_uGH-hgGP0d-anQZBSx_bTABnmk2dcZ7p60GYT7AN8iCq-QPys9vJKGHg" />
+    <title lang="fr">A la une : le journal</title>
+    <new />
   </programme>
   
-<programme start="20261108130100 +0000" stop="20261108133000 +0000" channel="TV5Monde.fr">
+<programme start="20261111071500 +0000" stop="20261111073000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E16
+L'invité de A la Une.</desc>
+    <episode-num>E16</episode-num>
+    <icon src="https://iptv-epg.org/images/ZPo05bozucvX-E2I73QQe6pI2xLy4LG655C7LrnUqE1KtHQhkuNWftGbNcLHCRHpsX-8jeZPc7BjQr06fVidZ82Z7ADfSB7g6Qf6ja6AyFLJbDWVXaMx" />
+    <title lang="fr">L'invité de A la Une</title>
+    <new />
+  </programme>
+  
+<programme start="20261111073000 +0000" stop="20261111074600 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E111
+A la une : le journal.</desc>
+    <episode-num>E111</episode-num>
+    <icon src="https://iptv-epg.org/images/08XgmnEYIAxXAoPtRlqb4e_oxrY83KXPKqxMNiwxOzYI4Xhxh9Qb_QLuOTl_uGH-hgGP0d-anQZBSx_bTABnmk2dcZ7p60GYT7AN8iCq-QPys9vJKGHg" />
+    <title lang="fr">A la une : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111074600 +0000" stop="20261111075400 +0000" channel="France24.fr">
+    <category lang="fr">Magazine</category>
+    <desc lang="fr">E35
+Dans la presse.</desc>
+    <episode-num>E35</episode-num>
+    <icon src="https://iptv-epg.org/images/MjxaTOqm_iOEIkoCMJy-R7OHh7S7jGhVD0vYJ1vNzHJjT_Y407PwP9Qvey_LuOEnpk7MUjtDfb45FdnA_cSHlY0xdhi6KSvJ9rKwYDF1CfrQtLemuRgZ" />
+    <title lang="fr">Dans la presse</title>
+  </programme>
+  
+<programme start="20261111075400 +0000" stop="20261111080000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E32
+Rappel des titres.</desc>
+    <episode-num>E32</episode-num>
+    <icon src="https://iptv-epg.org/images/f34sIJyimrNchejbLhcYaODT4s1b4mQRnWXzO5YhrmbPXOx545aERGBP6ieM9nfQvkl3hFUfex7tacNyQa26IXq07O9iVMxjhHZ9M6xYZ-g3y0J_0RXH" />
+    <title lang="fr">Rappel des titres</title>
+    <new />
+  </programme>
+  
+<programme start="20261111080000 +0000" stop="20261111082200 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E43 — en: le journal
+Parlons-en : le journal.</desc>
+    <episode-num>E43</episode-num>
+    <icon src="https://iptv-epg.org/images/sYfHN6jsBqnpa1slPDQDv8EUJ1_OqmJGQYBi0USdhCLomJYua-YRRxpvaYI8EzcE-O-kdOkARcZ4rqFXiteuMlJWWNv7xvAPP32PpKdSKyUUr-IwgtGB" />
+    <title lang="fr">Parlons-en : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111082200 +0000" stop="20261111083000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">L'info éco.</desc>
+    <icon src="https://iptv-epg.org/images/c3Whsn1kiOHPBTA9q6i9WZHS4SdWKtyLjrDs82r02m4YHG4dn-eKPBUk30wlMG8ISf0XjEMJBHOdFJojBpSg0AaEo9HiZOltFb4_gWdMKwcMjxG19fpq" />
+    <title lang="fr">L'info éco</title>
+  </programme>
+  
+<programme start="20261111083000 +0000" stop="20261111084200 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E44 — en: le journal
+Parlons-en : le journal.</desc>
+    <episode-num>E44</episode-num>
+    <icon src="https://iptv-epg.org/images/sYfHN6jsBqnpa1slPDQDv8EUJ1_OqmJGQYBi0USdhCLomJYua-YRRxpvaYI8EzcE-O-kdOkARcZ4rqFXiteuMlJWWNv7xvAPP32PpKdSKyUUr-IwgtGB" />
+    <title lang="fr">Parlons-en : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111084200 +0000" stop="20261111084700 +0000" channel="France24.fr">
+    <category lang="fr">Magazine</category>
+    <desc lang="fr">E36
+Dans la presse.</desc>
+    <episode-num>E36</episode-num>
+    <icon src="https://iptv-epg.org/images/MjxaTOqm_iOEIkoCMJy-R7OHh7S7jGhVD0vYJ1vNzHJjT_Y407PwP9Qvey_LuOEnpk7MUjtDfb45FdnA_cSHlY0xdhi6KSvJ9rKwYDF1CfrQtLemuRgZ" />
+    <title lang="fr">Dans la presse</title>
+    <new />
+  </programme>
+  
+<programme start="20261111084700 +0000" stop="20261111085200 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E44
+Focus.</desc>
+    <episode-num>E44</episode-num>
+    <icon src="https://iptv-epg.org/images/B4eSPT6dlEtyNQ9_U8ZroBmiZPpwkX1JOTlIMToYFBUAdMZzl2TXaWmjacdv_7mQJ7Ua5KZrwUYFo0Q7vJclooHplXJI1s1UmHfdz3jvXXgIuN2M6A8E" />
+    <title lang="fr">Focus</title>
+  </programme>
+  
+<programme start="20261111085200 +0000" stop="20261111090000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine sportif</category>
+    <desc lang="fr">E43
+Sports.</desc>
+    <episode-num>E43</episode-num>
+    <icon src="https://iptv-epg.org/images/4t61UFNyuNeb3s-_9oqYJfnOmddLHIuZ3bt1RDNkBFXvY3OmhUzkvWEZ7t4P2OIU2uLwanPuiIIqTFyP-2gEgkmAjzT9A0LMApHtZq_NLhKfPmFksph3" />
+    <title lang="fr">Sports</title>
+  </programme>
+  
+<programme start="20261111090000 +0000" stop="20261111094500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E15
+Le débat de parlons-en.</desc>
+    <episode-num>E15</episode-num>
+    <icon src="https://iptv-epg.org/images/w5UfOFrEeh2ZOSHs24CI7QuZ1AVYN37mgxmddkX-1rO-1opq1p66pYLApDJRuGYQ9OscTKRcqafnmjNQvUQ5L4NxyOEZDxDjJ6oNzqWI5LXVaPOmn8ZY" />
+    <title lang="fr">Le débat de parlons-en</title>
+    <new />
+  </programme>
+  
+<programme start="20261111094500 +0000" stop="20261111095000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E44
+Focus.</desc>
+    <episode-num>E44</episode-num>
+    <icon src="https://iptv-epg.org/images/B4eSPT6dlEtyNQ9_U8ZroBmiZPpwkX1JOTlIMToYFBUAdMZzl2TXaWmjacdv_7mQJ7Ua5KZrwUYFo0Q7vJclooHplXJI1s1UmHfdz3jvXXgIuN2M6A8E" />
+    <title lang="fr">Focus</title>
+  </programme>
+  
+<programme start="20261111095000 +0000" stop="20261111100000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine sportif</category>
+    <desc lang="fr">E43
+Sports.</desc>
+    <episode-num>E43</episode-num>
+    <icon src="https://iptv-epg.org/images/4t61UFNyuNeb3s-_9oqYJfnOmddLHIuZ3bt1RDNkBFXvY3OmhUzkvWEZ7t4P2OIU2uLwanPuiIIqTFyP-2gEgkmAjzT9A0LMApHtZq_NLhKfPmFksph3" />
+    <title lang="fr">Sports</title>
+  </programme>
+  
+<programme start="20261111100000 +0000" stop="20261111101000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E45 — en: le journal
+Parlons-en : le journal.</desc>
+    <episode-num>E45</episode-num>
+    <icon src="https://iptv-epg.org/images/sYfHN6jsBqnpa1slPDQDv8EUJ1_OqmJGQYBi0USdhCLomJYua-YRRxpvaYI8EzcE-O-kdOkARcZ4rqFXiteuMlJWWNv7xvAPP32PpKdSKyUUr-IwgtGB" />
+    <title lang="fr">Parlons-en : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111101000 +0000" stop="20261111103000 +0000" channel="France24.fr">
+    <category lang="fr">Interview</category>
+    <desc lang="fr">E10
+Ici l'Europe : on vous écoute.</desc>
+    <episode-num>E10</episode-num>
+    <icon src="https://iptv-epg.org/images/bSmikFfDdP9ZDkyaK1uNySsGFnD620DbGJDns9ue0DT2sxPwEbgKTBNlsoFWqLqJYJ6YKX0fklL81CLFzwF1_zpLNCKA-pkbGsqrara75jUOm0zAdIPd" />
+    <title lang="fr">Ici l'Europe : on vous écoute</title>
+  </programme>
+  
+<programme start="20261111103000 +0000" stop="20261111104000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E32 — en: le journal
+Parlons-en : le journal.</desc>
+    <episode-num>E32</episode-num>
+    <icon src="https://iptv-epg.org/images/sYfHN6jsBqnpa1slPDQDv8EUJ1_OqmJGQYBi0USdhCLomJYua-YRRxpvaYI8EzcE-O-kdOkARcZ4rqFXiteuMlJWWNv7xvAPP32PpKdSKyUUr-IwgtGB" />
+    <title lang="fr">Parlons-en : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111104000 +0000" stop="20261111110000 +0000" channel="France24.fr">
+    <category lang="fr">Interview</category>
+    <desc lang="fr">E4
+Face à face.</desc>
+    <episode-num>E4</episode-num>
+    <icon src="https://iptv-epg.org/images/W2JoJyYl25M7ZwFCmRuhKfFWiau9hvfnYjYK1xKCUYonbONYnm8LijbSx_4Lh6X8CNtnPl9nCwrI5Hbw6fDHA2sdvLvpDp1oi8WKIweHd7owrtvJk7Kf" />
+    <title lang="fr">Face à face</title>
+    <new />
+  </programme>
+  
+<programme start="20261111110000 +0000" stop="20261111111500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E195
+Paris direct : le journal.</desc>
+    <episode-num>E195</episode-num>
+    <icon src="https://iptv-epg.org/images/zegVt4wO7ByBnJMedlZbnh0p4whYZtNwn323XR3c4hpKFuaT640MAygZfV3Q5pcWVOjeKcgcG5TxDVXaI3bS8ML39NKsIie6tiJgvYQvO-N0oqK2zg7f" />
+    <title lang="fr">Paris direct : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111111500 +0000" stop="20261111113000 +0000" channel="France24.fr">
     <category lang="fr">Magazine culturel</category>
-    <desc lang="fr">E5 — Doully
-Humoriste et chroniqueuse, Doully s'est imposée comme l'une des voix les plus singulières du stand-up francophone. Elle se confie sur son parcours.</desc>
-    <episode-num>E5</episode-num>
-    <icon src="https://iptv-epg.org/images/raP8gTHvrw2s3AdQMBFCrnIQymV5WcJGuZzHjrQDM6vZaYNvYzSJZ4EGGXQPWc1yfmFLDslz6ZPXWo0hIUeQOBDsP6OTxD9JRx-mz5yuHcwQwhOVRgCv" />
-    <title lang="fr">Hep taxi !</title>
+    <desc lang="fr">E53
+A l'affiche.</desc>
+    <episode-num>E53</episode-num>
+    <icon src="https://iptv-epg.org/images/ZrX6rgE656yOAhIwTmNErfYAgHhEPjsWjR0Uxafbs8iB3W1pToWEFBqIs5eCIyQODa1G3JzLZSbbktp5JG4pxfKx9ZXPmI1IH6OhIW1JpY5lq7Hsis0u" />
+    <title lang="fr">A l'affiche</title>
+  </programme>
+  
+<programme start="20261111113000 +0000" stop="20261111114500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E113
+Paris direct : le journal.</desc>
+    <episode-num>E113</episode-num>
+    <icon src="https://iptv-epg.org/images/zegVt4wO7ByBnJMedlZbnh0p4whYZtNwn323XR3c4hpKFuaT640MAygZfV3Q5pcWVOjeKcgcG5TxDVXaI3bS8ML39NKsIie6tiJgvYQvO-N0oqK2zg7f" />
+    <title lang="fr">Paris direct : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111114500 +0000" stop="20261111115000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E44
+Focus.</desc>
+    <episode-num>E44</episode-num>
+    <icon src="https://iptv-epg.org/images/B4eSPT6dlEtyNQ9_U8ZroBmiZPpwkX1JOTlIMToYFBUAdMZzl2TXaWmjacdv_7mQJ7Ua5KZrwUYFo0Q7vJclooHplXJI1s1UmHfdz3jvXXgIuN2M6A8E" />
+    <title lang="fr">Focus</title>
+  </programme>
+  
+<programme start="20261111115000 +0000" stop="20261111120000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine sportif</category>
+    <desc lang="fr">E43
+Sports.</desc>
+    <episode-num>E43</episode-num>
+    <icon src="https://iptv-epg.org/images/4t61UFNyuNeb3s-_9oqYJfnOmddLHIuZ3bt1RDNkBFXvY3OmhUzkvWEZ7t4P2OIU2uLwanPuiIIqTFyP-2gEgkmAjzT9A0LMApHtZq_NLhKfPmFksph3" />
+    <title lang="fr">Sports</title>
+  </programme>
+  
+<programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E73
+L'info du jour.</desc>
+    <episode-num>E73</episode-num>
+    <icon src="https://iptv-epg.org/images/Hd1ryeTu4K5XVhlZK6nfhUXUk5EHSM5K_P3LOGiSCNLyhFg78Ev9f140QZlXSfg2TUkCWFt4C-SHvFQ-idpdpnM_eLc687tAnJF4O6XZNJLMD66-mvhp" />
+    <title lang="fr">L'info du jour</title>
+    <new />
+  </programme>
+  
+<programme start="20261111123000 +0000" stop="20261111125400 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E196
+Paris direct : le journal.</desc>
+    <episode-num>E196</episode-num>
+    <icon src="https://iptv-epg.org/images/zegVt4wO7ByBnJMedlZbnh0p4whYZtNwn323XR3c4hpKFuaT640MAygZfV3Q5pcWVOjeKcgcG5TxDVXaI3bS8ML39NKsIie6tiJgvYQvO-N0oqK2zg7f" />
+    <title lang="fr">Paris direct : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111125400 +0000" stop="20261111130000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E187
+L'instant mobile.</desc>
+    <episode-num>E187</episode-num>
+    <icon src="https://iptv-epg.org/images/Wk8vAnJNJXXw35yoTZ0AP84NFYMvnxGBDU4Mbw1CzTypNhZC2dYNJw2-ofXPDgg2Va6cbrBIh--g6hbrt8lCgDbA7VV1bby2hgWenT1K3lR058zZXfO1" />
+    <title lang="fr">L'instant mobile</title>
+  </programme>
+  
+<programme start="20261111130000 +0000" stop="20261111133000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E18
+Le club Paris direct.</desc>
+    <episode-num>E18</episode-num>
+    <icon src="https://iptv-epg.org/images/GZK2KTsv8ScrrjhcLLo__rnJ7z40Hy6OMfKWeSxwaYGh-ofkTzSp-qU8x29K1pBHpe-7KzKrhipwsvwLQWPDFCNLLmKqAN51JRNPixDg-gH3t3XA4tKI" />
+    <title lang="fr">Le club Paris direct</title>
+    <new />
+  </programme>
+  
+<programme start="20261111133000 +0000" stop="20261111134500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E15
+Derrière l'image.</desc>
+    <episode-num>E15</episode-num>
+    <icon src="https://iptv-epg.org/images/QTHOzQSJ6pKNEz0RDS2VqScsCslzJ8p4TyHQFWnUUoo_2aVUFD4LltjQWB8yXD5gsykFnO43ISDtObXgzA2ejWO6yWAP2Ge8u7mUpxcKJVWn4muvWdg_" />
+    <title lang="fr">Derrière l'image</title>
+    <new />
+  </programme>
+  
+<programme start="20261111134500 +0000" stop="20261111135000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E44
+Focus.</desc>
+    <episode-num>E44</episode-num>
+    <icon src="https://iptv-epg.org/images/B4eSPT6dlEtyNQ9_U8ZroBmiZPpwkX1JOTlIMToYFBUAdMZzl2TXaWmjacdv_7mQJ7Ua5KZrwUYFo0Q7vJclooHplXJI1s1UmHfdz3jvXXgIuN2M6A8E" />
+    <title lang="fr">Focus</title>
+  </programme>
+  
+<programme start="20261111135000 +0000" stop="20261111135600 +0000" channel="France24.fr">
+    <category lang="fr">Magazine sportif</category>
+    <desc lang="fr">E43
+Sports.</desc>
+    <episode-num>E43</episode-num>
+    <icon src="https://iptv-epg.org/images/4t61UFNyuNeb3s-_9oqYJfnOmddLHIuZ3bt1RDNkBFXvY3OmhUzkvWEZ7t4P2OIU2uLwanPuiIIqTFyP-2gEgkmAjzT9A0LMApHtZq_NLhKfPmFksph3" />
+    <title lang="fr">Sports</title>
+  </programme>
+  
+<programme start="20261111135600 +0000" stop="20261111140000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E33
+Rappel des titres.</desc>
+    <episode-num>E33</episode-num>
+    <icon src="https://iptv-epg.org/images/f34sIJyimrNchejbLhcYaODT4s1b4mQRnWXzO5YhrmbPXOx545aERGBP6ieM9nfQvkl3hFUfex7tacNyQa26IXq07O9iVMxjhHZ9M6xYZ-g3y0J_0RXH" />
+    <title lang="fr">Rappel des titres</title>
+    <new />
+  </programme>
+  
+<programme start="20261111140000 +0000" stop="20261111143000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E96
+Autour du monde : le journal.</desc>
+    <episode-num>E96</episode-num>
+    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
+    <title lang="fr">Autour du monde : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111143000 +0000" stop="20261111144500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E43
+Le rendez-vous de l'Afrique.</desc>
+    <episode-num>E43</episode-num>
+    <icon src="https://iptv-epg.org/images/tmRnL9-EbhDWqquOj_hAVMDF_1JoEm6gNNyyLpEA3AMVje0S-xq3pag0zR3_VZCbWC-isOkwojLkmX8Bh1TWohd8nUZpvozdAZu9iXmobFpc7AYoap4x" />
+    <title lang="fr">Le rendez-vous de l'Afrique</title>
+    <new />
+  </programme>
+  
+<programme start="20261111144500 +0000" stop="20261111145100 +0000" channel="France24.fr">
+    <category lang="fr">Magazine de société</category>
+    <desc lang="fr">E2
+#Pas2quartier.</desc>
+    <episode-num>E2</episode-num>
+    <icon src="https://iptv-epg.org/images/2Idy30XxymM5LdQDMtFxvzizh-L-FYe8fTT1Hr88Ppz1z2Rh5MTlsG2x_PDWsmDKfNjPi2vlQaX375iRWxn9d9tsAvqBGrRXPlj7Y5OPD-4KGNBLH2EE" />
+    <title lang="fr">#Pas2quartier</title>
+  </programme>
+  
+<programme start="20261111145100 +0000" stop="20261111150000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine culturel</category>
+    <desc lang="fr">E10
+Le coup de coeur du Paris des arts.</desc>
+    <episode-num>E10</episode-num>
+    <icon src="https://iptv-epg.org/images/dP5YHD4uFrL1Jgtr5NZ8_Bc9bJ7ooYRLxTBZJnvEM1DzzlcsbC4_a-CszoD_CQ0GnB9R0tMlPnR7FSaLgCgyEhClj-qJ71oV9L7xdedlWS72BZvxt9x8" />
+    <title lang="fr">Le coup de coeur du Paris des arts</title>
+  </programme>
+  
+<programme start="20261111150000 +0000" stop="20261111153000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E97
+Autour du monde : le journal.</desc>
+    <episode-num>E97</episode-num>
+    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
+    <title lang="fr">Autour du monde : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111153000 +0000" stop="20261111154000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E98
+Autour du monde : le journal.</desc>
+    <episode-num>E98</episode-num>
+    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
+    <title lang="fr">Autour du monde : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111154000 +0000" stop="20261111154600 +0000" channel="France24.fr">
+    <category lang="fr">Magazine de découvertes</category>
+    <desc lang="fr">E35
+Elément Terre.</desc>
+    <episode-num>E35</episode-num>
+    <icon src="https://iptv-epg.org/images/KOHm-15_bQrSdVgJkvsC-EH6piwi5C-qhRdlYzeCRkNmtP4n3h2819x0Vvxm2ywiyYrcWBdbBvDT9frv4iI6dBGgnxpFxROy1CH0DX8tbdb7zBL_Ma35" />
+    <title lang="fr">Elément Terre</title>
+    <new />
+  </programme>
+  
+<programme start="20261111154600 +0000" stop="20261111160000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine culturel</category>
+    <desc lang="fr">E53
+A l'affiche.</desc>
+    <episode-num>E53</episode-num>
+    <icon src="https://iptv-epg.org/images/ZrX6rgE656yOAhIwTmNErfYAgHhEPjsWjR0Uxafbs8iB3W1pToWEFBqIs5eCIyQODa1G3JzLZSbbktp5JG4pxfKx9ZXPmI1IH6OhIW1JpY5lq7Hsis0u" />
+    <title lang="fr">A l'affiche</title>
+  </programme>
+  
+<programme start="20261111160000 +0000" stop="20261111161500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E99
+Autour du monde : le journal.</desc>
+    <episode-num>E99</episode-num>
+    <icon src="https://iptv-epg.org/images/2pEjPnbBMSsKYnGeI3PVjcRdHrl2onUCmr4nMxH0B1gzeG0TP6J1Y_iutrI1IvgJbFzbaNbQloBGXa9aLGIfPxb0iDFjZ6z9xeRd44jsO5TWso7_ztEq" />
+    <title lang="fr">Autour du monde : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111161500 +0000" stop="20261111162100 +0000" channel="France24.fr">
+    <category lang="fr">Magazine de société</category>
+    <desc lang="fr">E11
+Les observateurs.</desc>
+    <episode-num>E11</episode-num>
+    <icon src="https://iptv-epg.org/images/ZttxCBwz6rXKa20mZAUAT6OSk0c7cXpweG8A0ob-ZK2BS6g_4pUEUzzfGYZBfRegEg7XS6OZbsh100yqnZiJU91JPBpruw-GdKsMz8m9Kj2cZWJhLV7f" />
+    <title lang="fr">Les observateurs</title>
+  </programme>
+  
+<programme start="20261111162100 +0000" stop="20261111163000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E44
+Focus.</desc>
+    <episode-num>E44</episode-num>
+    <icon src="https://iptv-epg.org/images/B4eSPT6dlEtyNQ9_U8ZroBmiZPpwkX1JOTlIMToYFBUAdMZzl2TXaWmjacdv_7mQJ7Ua5KZrwUYFo0Q7vJclooHplXJI1s1UmHfdz3jvXXgIuN2M6A8E" />
+    <title lang="fr">Focus</title>
+  </programme>
+  
+<programme start="20261111163000 +0000" stop="20261111165600 +0000" channel="France24.fr">
+    <category lang="fr">Débat</category>
+    <desc lang="fr">E11
+Aux avant-postes.</desc>
+    <episode-num>E11</episode-num>
+    <icon src="https://iptv-epg.org/images/EKQjCcfaLwbNyH7QZkJkvj4wsm14a-VRxVp7CbYV9Me-n4gPwpPszI4_oc9rcXMZ8PBMjdPIX89hZjGbsEFiANDl2fdifW4f8kz1SHIAPKX5FLobzv2Q" />
+    <title lang="fr">Aux avant-postes</title>
+  </programme>
+  
+<programme start="20261111165600 +0000" stop="20261111170000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E34
+Rappel des titres.</desc>
+    <episode-num>E34</episode-num>
+    <icon src="https://iptv-epg.org/images/f34sIJyimrNchejbLhcYaODT4s1b4mQRnWXzO5YhrmbPXOx545aERGBP6ieM9nfQvkl3hFUfex7tacNyQa26IXq07O9iVMxjhHZ9M6xYZ-g3y0J_0RXH" />
+    <title lang="fr">Rappel des titres</title>
+    <new />
+  </programme>
+  
+<programme start="20261111170000 +0000" stop="20261111171600 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E67
+Au coeur de l'info : le journal.</desc>
+    <episode-num>E67</episode-num>
+    <icon src="https://iptv-epg.org/images/-a2cfvT4sllSZgHiJAjTsIxvDw5IGKNPwuozLOwJnl_I2mHcASANmVWVMp14hY_IBfwTM913mjWvwOtD3Euq2fB64C6zVWHLtzD5S1nUKr0CYradWwhI" />
+    <title lang="fr">Au coeur de l'info : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111171600 +0000" stop="20261111173000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E11
+Questions directes.</desc>
+    <episode-num>E11</episode-num>
+    <icon src="https://iptv-epg.org/images/v13erp3TtHXOzyFXMduWc9KnHe-V6RaG4R0wvhWey4-2PLUNdrum-hEUb50KFwhVNjYc0gmLuzTLrzAK8H_Lg7zzzcRd2u1nLalaRiTW0qPw77cCqrA4" />
+    <title lang="fr">Questions directes</title>
+    <new />
+  </programme>
+  
+<programme start="20261111173000 +0000" stop="20261111174600 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E68
+Au coeur de l'info : le journal.</desc>
+    <episode-num>E68</episode-num>
+    <icon src="https://iptv-epg.org/images/-a2cfvT4sllSZgHiJAjTsIxvDw5IGKNPwuozLOwJnl_I2mHcASANmVWVMp14hY_IBfwTM913mjWvwOtD3Euq2fB64C6zVWHLtzD5S1nUKr0CYradWwhI" />
+    <title lang="fr">Au coeur de l'info : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111174600 +0000" stop="20261111175100 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E46
+Économie.</desc>
+    <episode-num>E46</episode-num>
+    <icon src="https://iptv-epg.org/images/3pkLKmn0ezjGjBhJyUGw-tzV-de2o9xMNyYvzMAZwjjSKHK393g1UHuMXKOMerFI-IxfrwZqOnrQZkpiemwNP2UtGDx0oWajDdsz1-e_JUMV0DtijwkG" />
+    <title lang="fr">Économie</title>
+    <new />
+  </programme>
+  
+<programme start="20261111175100 +0000" stop="20261111180000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine sportif</category>
+    <desc lang="fr">E40
+Sports.</desc>
+    <episode-num>E40</episode-num>
+    <icon src="https://iptv-epg.org/images/4t61UFNyuNeb3s-_9oqYJfnOmddLHIuZ3bt1RDNkBFXvY3OmhUzkvWEZ7t4P2OIU2uLwanPuiIIqTFyP-2gEgkmAjzT9A0LMApHtZq_NLhKfPmFksph3" />
+    <title lang="fr">Sports</title>
+    <new />
+  </programme>
+  
+<programme start="20261111180000 +0000" stop="20261111181500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E69
+Au coeur de l'info : le journal.</desc>
+    <episode-num>E69</episode-num>
+    <icon src="https://iptv-epg.org/images/-a2cfvT4sllSZgHiJAjTsIxvDw5IGKNPwuozLOwJnl_I2mHcASANmVWVMp14hY_IBfwTM913mjWvwOtD3Euq2fB64C6zVWHLtzD5S1nUKr0CYradWwhI" />
+    <title lang="fr">Au coeur de l'info : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111181500 +0000" stop="20261111190000 +0000" channel="France24.fr">
+    <category lang="fr">Débat</category>
+    <desc lang="fr">E15
+Le débat de France 24.</desc>
+    <episode-num>E15</episode-num>
+    <icon src="https://iptv-epg.org/images/qZ1mG2cIjIHjMOpvxhdl3Fi8ffAOIY0_lSgoURVd1jqHZwCWJwzqsI_OLKhDOsX5ys8FqqjiXJiZhJQzV5a3jqtloBfNEQnXjq1QRtnAHnDVaQi9bXh4" />
+    <title lang="fr">Le débat de France 24</title>
+    <new />
+  </programme>
+  
+<programme start="20261111190000 +0000" stop="20261111191600 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E95
+L'essentiel : le journal.</desc>
+    <episode-num>E95</episode-num>
+    <icon src="https://iptv-epg.org/images/bAXeFWfJckHHwH-8GgUmNo4x7VOV787JtL2zSTOlX6Xrra61B8qezRWxAfdhdRepdzBqUW4wHq1v_hIKdrixHfFn6ovgJiOjhorIit43pRBuj1Ao7ZZe" />
+    <title lang="fr">L'essentiel : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111191600 +0000" stop="20261111192100 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E47
+Économie.</desc>
+    <episode-num>E47</episode-num>
+    <icon src="https://iptv-epg.org/images/3pkLKmn0ezjGjBhJyUGw-tzV-de2o9xMNyYvzMAZwjjSKHK393g1UHuMXKOMerFI-IxfrwZqOnrQZkpiemwNP2UtGDx0oWajDdsz1-e_JUMV0DtijwkG" />
+    <title lang="fr">Économie</title>
+    <new />
+  </programme>
+  
+<programme start="20261111192100 +0000" stop="20261111193000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine sportif</category>
+    <desc lang="fr">E41
+Sports.</desc>
+    <episode-num>E41</episode-num>
+    <icon src="https://iptv-epg.org/images/4t61UFNyuNeb3s-_9oqYJfnOmddLHIuZ3bt1RDNkBFXvY3OmhUzkvWEZ7t4P2OIU2uLwanPuiIIqTFyP-2gEgkmAjzT9A0LMApHtZq_NLhKfPmFksph3" />
+    <title lang="fr">Sports</title>
+    <new />
+  </programme>
+  
+<programme start="20261111193000 +0000" stop="20261111200000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E16
+On va plus loin.</desc>
+    <episode-num>E16</episode-num>
+    <icon src="https://iptv-epg.org/images/DKjAHzoNgWTODxsDsphuKkQfboXbjklxCQxJU-53LHOdPIVG4dFROzN_GmfAa7oVpXhWX5kUxtpE752H581efdjybeEP4-I5CcVScKMpMdf8DpHpPGA9" />
+    <title lang="fr">On va plus loin</title>
+    <new />
+  </programme>
+  
+<programme start="20261111200000 +0000" stop="20261111201500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E96
+L'essentiel : le journal.</desc>
+    <episode-num>E96</episode-num>
+    <icon src="https://iptv-epg.org/images/bAXeFWfJckHHwH-8GgUmNo4x7VOV787JtL2zSTOlX6Xrra61B8qezRWxAfdhdRepdzBqUW4wHq1v_hIKdrixHfFn6ovgJiOjhorIit43pRBuj1Ao7ZZe" />
+    <title lang="fr">L'essentiel : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111201500 +0000" stop="20261111202000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine</category>
+    <desc lang="fr">E20
+Info Intox.</desc>
+    <episode-num>E20</episode-num>
+    <icon src="https://iptv-epg.org/images/LYAe_-3K_NGxs3hdLUFEaOLBK6JgPtGM0CQTydNVuyNIWZtj9e0H-_WS8bwoct3n5nqOhY-yONcyLS-_w6_mwK0ARMiNA05kA4z069fD9ZLnroU79dlT" />
+    <title lang="fr">Info Intox</title>
+    <new />
+  </programme>
+  
+<programme start="20261111202000 +0000" stop="20261111203000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine de découvertes</category>
+    <desc lang="fr">E36
+Elément Terre.</desc>
+    <episode-num>E36</episode-num>
+    <icon src="https://iptv-epg.org/images/KOHm-15_bQrSdVgJkvsC-EH6piwi5C-qhRdlYzeCRkNmtP4n3h2819x0Vvxm2ywiyYrcWBdbBvDT9frv4iI6dBGgnxpFxROy1CH0DX8tbdb7zBL_Ma35" />
+    <title lang="fr">Elément Terre</title>
+    <new />
+  </programme>
+  
+<programme start="20261111203000 +0000" stop="20261111203600 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E97
+L'essentiel : le journal.</desc>
+    <episode-num>E97</episode-num>
+    <icon src="https://iptv-epg.org/images/bAXeFWfJckHHwH-8GgUmNo4x7VOV787JtL2zSTOlX6Xrra61B8qezRWxAfdhdRepdzBqUW4wHq1v_hIKdrixHfFn6ovgJiOjhorIit43pRBuj1Ao7ZZe" />
+    <title lang="fr">L'essentiel : le journal</title>
+    <new />
+  </programme>
+<programme start="20261111203600 +0000" stop="20261111204400 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E31
+Les clés de l'info.</desc>
+    <episode-num>E31</episode-num>
+    <icon src="https://iptv-epg.org/images/xVWI2Mrwg1UhZlxD1j30WnetpGzvwF5iZzcTKDYjVvKYczUE_--YcLCKT37_dA6ATk_sKdglPTwt4uxp2BiFnM8oCvRCIUmwQVFhwKaM_tnhKDAGHIoe" />
+    <title lang="fr">Les clés de l'info</title>
+    <new />
+  </programme>
+  
+<programme start="20261111204400 +0000" stop="20261111210000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E55
+Le journal de l'Afrique.</desc>
+    <episode-num>E55</episode-num>
+    <icon src="https://iptv-epg.org/images/mcX7b0_3RzG1dAzqVEzEvIEphH19X0sPvL7nHOSe-Xtp8g2H0vNzZm_JzLyISxQ--N8NNU3NzSl3QyOxw3Cj1LJlQVI3tyoJq0szlZ1J0xoFKTxpz3zt" />
+    <title lang="fr">Le journal de l'Afrique</title>
+    <new />
+  </programme>
+  
+<programme start="20261111210000 +0000" stop="20261111211500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E57
+L'actu 360 : le journal.</desc>
+    <episode-num>E57</episode-num>
+    <icon src="https://iptv-epg.org/images/U15vbYP7q0WFf2cfiWoYWAB6RB4MZTNeSrUwDIxLy-qqpwH7u54lrGmMxGtnenMN3zEPavDyOlvotqUgreUnaFEKujkhptVed1dI_fxyBJQQ6R0axx6w" />
+    <title lang="fr">L'actu 360 : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111211500 +0000" stop="20261111212000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E48
+Économie.</desc>
+    <episode-num>E48</episode-num>
+    <icon src="https://iptv-epg.org/images/3pkLKmn0ezjGjBhJyUGw-tzV-de2o9xMNyYvzMAZwjjSKHK393g1UHuMXKOMerFI-IxfrwZqOnrQZkpiemwNP2UtGDx0oWajDdsz1-e_JUMV0DtijwkG" />
+    <title lang="fr">Économie</title>
+    <new />
+  </programme>
+  
+<programme start="20261111212000 +0000" stop="20261111213000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine</category>
+    <desc lang="fr">E20
+Info Intox.</desc>
+    <episode-num>E20</episode-num>
+    <icon src="https://iptv-epg.org/images/LYAe_-3K_NGxs3hdLUFEaOLBK6JgPtGM0CQTydNVuyNIWZtj9e0H-_WS8bwoct3n5nqOhY-yONcyLS-_w6_mwK0ARMiNA05kA4z069fD9ZLnroU79dlT" />
+    <title lang="fr">Info Intox</title>
+    <new />
+  </programme>
+  
+<programme start="20261111213000 +0000" stop="20261111214400 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E15
+Le zoom de L'actu 360.</desc>
+    <episode-num>E15</episode-num>
+    <icon src="https://iptv-epg.org/images/HGU3zVVfXjBTBcu84CqfHwfNhTsip5SwBDH44orOFgpUirAy2Ks-GcmuVRcbe6vaMd4D7MxvtByi0Uqr5jje5DqOEMuxxcgqxR6Dpwl7kge4df9pbaEy" />
+    <title lang="fr">Le zoom de L'actu 360</title>
+    <new />
+  </programme>
+  
+<programme start="20261111214400 +0000" stop="20261111220000 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E56
+Le journal de l'Afrique.</desc>
+    <episode-num>E56</episode-num>
+    <icon src="https://iptv-epg.org/images/mcX7b0_3RzG1dAzqVEzEvIEphH19X0sPvL7nHOSe-Xtp8g2H0vNzZm_JzLyISxQ--N8NNU3NzSl3QyOxw3Cj1LJlQVI3tyoJq0szlZ1J0xoFKTxpz3zt" />
+    <title lang="fr">Le journal de l'Afrique</title>
+    <new />
+  </programme>
+  
+<programme start="20261111220000 +0000" stop="20261111221500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E58
+L'actu 360 : le journal.</desc>
+    <episode-num>E58</episode-num>
+    <icon src="https://iptv-epg.org/images/U15vbYP7q0WFf2cfiWoYWAB6RB4MZTNeSrUwDIxLy-qqpwH7u54lrGmMxGtnenMN3zEPavDyOlvotqUgreUnaFEKujkhptVed1dI_fxyBJQQ6R0axx6w" />
+    <title lang="fr">L'actu 360 : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111221500 +0000" stop="20261111223000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E16
+Economie + Info Intox.</desc>
+    <episode-num>E16</episode-num>
+    <icon src="https://iptv-epg.org/images/dzS8MEOuP5oKzmFdF7pFLBgekBHAMc2DHs3GffvWoozG8MTSOHpBo9BEUQMxnSiLJyWNB_cY4valdZnRSA2adO-_QwcimmurV7nRyUCIUyTTj8AIj8iR" />
+    <title lang="fr">Economie + Info Intox</title>
+  </programme>
+  
+<programme start="20261111223000 +0000" stop="20261111223900 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E59
+L'actu 360 : le journal.</desc>
+    <episode-num>E59</episode-num>
+    <icon src="https://iptv-epg.org/images/U15vbYP7q0WFf2cfiWoYWAB6RB4MZTNeSrUwDIxLy-qqpwH7u54lrGmMxGtnenMN3zEPavDyOlvotqUgreUnaFEKujkhptVed1dI_fxyBJQQ6R0axx6w" />
+    <title lang="fr">L'actu 360 : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111223900 +0000" stop="20261111224300 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E32
+Les clés de l'info.</desc>
+    <episode-num>E32</episode-num>
+    <icon src="https://iptv-epg.org/images/xVWI2Mrwg1UhZlxD1j30WnetpGzvwF5iZzcTKDYjVvKYczUE_--YcLCKT37_dA6ATk_sKdglPTwt4uxp2BiFnM8oCvRCIUmwQVFhwKaM_tnhKDAGHIoe" />
+    <title lang="fr">Les clés de l'info</title>
+    <new />
+  </programme>
+  
+<programme start="20261111224300 +0000" stop="20261111224900 +0000" channel="France24.fr">
+    <category lang="fr">Magazine sportif</category>
+    <desc lang="fr">E42
+Sports.</desc>
+    <episode-num>E42</episode-num>
+    <icon src="https://iptv-epg.org/images/4t61UFNyuNeb3s-_9oqYJfnOmddLHIuZ3bt1RDNkBFXvY3OmhUzkvWEZ7t4P2OIU2uLwanPuiIIqTFyP-2gEgkmAjzT9A0LMApHtZq_NLhKfPmFksph3" />
+    <title lang="fr">Sports</title>
+    <new />
+  </programme>
+  
+<programme start="20261111224900 +0000" stop="20261111225100 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E16
+Les unes de la presse.</desc>
+    <episode-num>E16</episode-num>
+    <icon src="https://iptv-epg.org/images/pPshckM7-Cb9lCRtcfe570UuwNbEcCQ7UgybWk4Ez3lFIdL9U6IxZ6nB5oREPb_1jnMEy3bmBTgLWhNDbgxNkC0p0ML8OP_bz1IL0GtwrKuDAnd4AsXo" />
+    <title lang="fr">Les unes de la presse</title>
+    <new />
+  </programme>
+  
+<programme start="20261111225100 +0000" stop="20261111230000 +0000" channel="France24.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E45
+Focus.</desc>
+    <episode-num>E45</episode-num>
+    <icon src="https://iptv-epg.org/images/B4eSPT6dlEtyNQ9_U8ZroBmiZPpwkX1JOTlIMToYFBUAdMZzl2TXaWmjacdv_7mQJ7Ua5KZrwUYFo0Q7vJclooHplXJI1s1UmHfdz3jvXXgIuN2M6A8E" />
+    <title lang="fr">Focus</title>
+    <new />
+  </programme>
+  
+<programme start="20261111230000 +0000" stop="20261111231500 +0000" channel="France24.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">E60
+L'actu 360 : le journal.</desc>
+    <episode-num>E60</episode-num>
+    <icon src="https://iptv-epg.org/images/U15vbYP7q0WFf2cfiWoYWAB6RB4MZTNeSrUwDIxLy-qqpwH7u54lrGmMxGtnenMN3zEPavDyOlvotqUgreUnaFEKujkhptVed1dI_fxyBJQQ6R0axx6w" />
+    <title lang="fr">L'actu 360 : le journal</title>
+    <new />
+  </programme>
+  
+<programme start="20261111231500 +0000" stop="20261112000000 +0000" channel="France24.fr">
+    <category lang="fr">Débat</category>
+    <desc lang="fr">E15
+Le débat de France 24.</desc>
+    <episode-num>E15</episode-num>
+    <icon src="https://iptv-epg.org/images/qZ1mG2cIjIHjMOpvxhdl3Fi8ffAOIY0_lSgoURVd1jqHZwCWJwzqsI_OLKhDOsX5ys8FqqjiXJiZhJQzV5a3jqtloBfNEQnXjq1QRtnAHnDVaQi9bXh4" />
+    <title lang="fr">Le débat de France 24</title>
   </programme>
   
 <programme start="20261108133000 +0000" stop="20261108142200 +0000" channel="TV5Monde.fr">
@@ -5172,7 +4972,6 @@ Ce rendez-vous décrypte en profondeur l'actualité suisse et internationale à 
     <icon src="https://iptv-epg.org/images/4NQOUr2ZzrjPuFnlm5JFqZl1XR975pQNojUau1fccEl-sKLSF8W4LER5qiUR3BfdOmLMRid-dYkM5HdZNjvPYwtTtag3cZBQL96BBqu6xCNPExeBALVB" />
     <title lang="fr">Mise au point</title>
   </programme>
-  
 <programme start="20261110094000 +0000" stop="20261110101200 +0000" channel="TV5Monde.fr">
     <category lang="fr">Magazine culturel</category>
     <desc lang="fr">E5 — Doully
@@ -5386,6 +5185,332 @@ JF invite, en secret, sa meilleure amie au spectacle de Green Day. Les jumeaux, 
     <episode-num>S2 E7</episode-num>
     <icon src="https://iptv-epg.org/images/jW8dCt86o_qEbUNrskIhOLkVvOiXwLKKpGq5BU3PqPEeA6t0IAw9G_4zVioa-mI4DSYQcXEZTff0yR13edUHDNiW7Ktv7-DRbCgvlosJYEVF2v3rBxP1" />
     <title lang="fr">L'oeil du cyclone</title>
+  </programme>
+  
+<programme start="20261111000700 +0000" stop="20261111003600 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Série dramatique</category>
+    <desc lang="fr">S2 E8 — Le nouveau voisin
+La vie d'Isabelle, une quarantenaire, prend une tournure inattendue quand Eliane lui fait rencontrer un nouveau voisin célibataire très séduisant.</desc>
+    <episode-num>S2 E8</episode-num>
+    <icon src="https://iptv-epg.org/images/jW8dCt86o_qEbUNrskIhOLkVvOiXwLKKpGq5BU3PqPEeA6t0IAw9G_4zVioa-mI4DSYQcXEZTff0yR13edUHDNiW7Ktv7-DRbCgvlosJYEVF2v3rBxP1" />
+    <title lang="fr">L'oeil du cyclone</title>
+  </programme>
+  
+<programme start="20261111003600 +0000" stop="20261111010500 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">Le journal Afrique.</desc>
+    <icon src="https://iptv-epg.org/images/LkEsxx7RBbMDJBj1hOxwmfYnUdrD_Xz2xopWW7p33zaWW7JaehkmxkZqC0cNZZN2avkR1M-WZxIaUDCI81tflBUF6InbRbVJ6ATVF8zIIzOSLEZVZncq" />
+    <title lang="fr">Le journal Afrique</title>
+  </programme>
+  
+<programme start="20261111010500 +0000" stop="20261111030000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Téléfilm policier</category>
+    <desc lang="fr">Louise Bach, brillante flic, rate un flag et risque la vie de sa partenaire en répondant aux appels répétés de son fils. Martin, son père, vit loin de tout.</desc>
+    <icon src="https://iptv-epg.org/images/74YDJD52pl9AxVG5RV9Nqph6CFQOuhZZa_OiP8HxsrV-cTThcbPODUCKTMX4D0uWsR2ThDUivPJR2HxK_lkgvWmpWuXkJUVPCbklW-ARPgAGoTLTa_qf" />
+    <title lang="fr">Virage</title>
+  </programme>
+  
+<programme start="20261111030000 +0000" stop="20261111033000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine de l'art de vivre</category>
+    <desc lang="fr">E5 — Rénovation durable au coeur du quartier bruxellois de Schaerbeek
+Cédric et Virginie sont à Schaerbeek pour découvrir la transformation et l'extension d'une maison familiale pleine de charme. - Dormir dans des bulles insolites au coeur des Vosges. - Tout savoir sur les permis d'urbanisme en cas de rénovation. - Range-doudous pour enfants.</desc>
+    <episode-num>E5</episode-num>
+    <icon src="https://iptv-epg.org/images/bZ1mSOrR2lcUq-q51ZWywGGFmOqpayO5u1b7ZSzw-Mkt7VwcRGDYxF6v-1xEtbzb2RhtnQi_00KrUmVwOm44wRRr6iqiWf3nM5wH1UwJfejzyQL9E9fx" />
+    <title lang="fr">Une brique dans le ventre</title>
+  </programme>
+  
+<programme start="20261111033000 +0000" stop="20261111040000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine de services</category>
+    <desc lang="fr">S1 E8 — La Pologne à Granby
+Jason Kacprzak, chef et mixologue du restaurant polonais Le Bistro Kapzak, à Granby, explique à Hélène les techniques traditionnelles de conservation.</desc>
+    <episode-num>S1 E8</episode-num>
+    <icon src="https://iptv-epg.org/images/xvFzo1tenG-pYgUxLb0sxlSr44Xg8PVWQJpdE3chu46OxzH4WBPTvEhOofOvXBMOrvFaVkY8IrlPRS5WpSZ7X35VsU7Tklp0CrhD97u-lrEpcSZZnkj9" />
+    <title lang="fr">Donner l'goût</title>
+  </programme>
+  
+<programme start="20261111040000 +0000" stop="20261111043000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Débat</category>
+    <desc lang="fr">E9
+Suisse en scène.</desc>
+    <episode-num>E9</episode-num>
+    <icon src="https://iptv-epg.org/images/9oRirqGxixCcGAoJElqSGbkUh-Qrvmt6PtGJXDsFBBNk377hE0p9ZkJsalu7o501TH0n3196IjbpQmq2cm4iGMSwmKHZMsO-3u8IUf-vP5L2_q84DP_X" />
+    <title lang="fr">Suisse en scène</title>
+  </programme>
+  
+<programme start="20261111043000 +0000" stop="20261111045600 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">Le journal Afrique.</desc>
+    <icon src="https://iptv-epg.org/images/LkEsxx7RBbMDJBj1hOxwmfYnUdrD_Xz2xopWW7p33zaWW7JaehkmxkZqC0cNZZN2avkR1M-WZxIaUDCI81tflBUF6InbRbVJ6ATVF8zIIzOSLEZVZncq" />
+    <title lang="fr">Le journal Afrique</title>
+  </programme>
+  
+<programme start="20261111045600 +0000" stop="20261111050000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Météo</category>
+    <desc lang="fr">Météo.</desc>
+    <icon src="https://iptv-epg.org/images/QpVLctIELdzpTxPg6ENWWuRsWZa454WvEDpyWmm8xdrrX-2Luf9BnX5WCoanTKZKsRl9jNXSlRsXkYHlD2zUt8urnP3mA5rLJXHrzLB2m_dfusIZPHL9" />
+    <title lang="fr">Météo</title>
+  </programme>
+  
+<programme start="20261111050000 +0000" stop="20261111053000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Documentaire de société</category>
+    <desc lang="fr">S2 E12 — Coco Belliveau
+Encré dans la peau.</desc>
+    <episode-num>S2 E12</episode-num>
+    <icon src="https://iptv-epg.org/images/PURcNDYYrTowZ7_ENXm2q3mSzvO_tS8FTHsCJM_1W7_OD-PtBBSV28uVONLa1z1FsokeWKQdMWFE-C2VUleIDG_IDRlnV5tl5Y8-T6dEYPFXuLuVD-je" />
+    <title lang="fr">Encré dans la peau</title>
+  </programme>
+  
+<programme start="20261111053000 +0000" stop="20261111055600 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">Le 6h info.</desc>
+    <icon src="https://iptv-epg.org/images/l-fV4BEHiFJ2Jjwd5n-uetjgY3KlWKXyRBapy6Sn_PvSEPjXtc9wzcM39AlZWQMih_Aipry9_bH2P0sXwuZyf6jW6v5Rl1V4jcjcnCEChMCQKfwistEh" />
+    <title lang="fr">Le 6h info</title>
+  </programme>
+  
+<programme start="20261111055600 +0000" stop="20261111060000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Météo</category>
+    <desc lang="fr">Météo.</desc>
+    <icon src="https://iptv-epg.org/images/QpVLctIELdzpTxPg6ENWWuRsWZa454WvEDpyWmm8xdrrX-2Luf9BnX5WCoanTKZKsRl9jNXSlRsXkYHlD2zUt8urnP3mA5rLJXHrzLB2m_dfusIZPHL9" />
+    <title lang="fr">Météo</title>
+  </programme>
+  
+<programme start="20261111060000 +0000" stop="20261111063000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">Le téléjournal.</desc>
+    <icon src="https://iptv-epg.org/images/644Avy9Wc4ObQyCCBUynEvT-I92Z274g9JKbqkbR5k6_dLo8fwSXMLgvmxKC9RfsWgEEeXsrOpm0RZj3fCzt6evaPP3W0LjKzht2S56rhemirJvl7ZJO" />
+    <title lang="fr">Le téléjournal</title>
+  </programme>
+  
+<programme start="20261111063000 +0000" stop="20261111065000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine de services</category>
+    <desc lang="fr">Télématin.</desc>
+    <icon src="https://iptv-epg.org/images/8zUzWtopGv-HmPGTJV5QoC-OZi859IISS7q6QGHzyqhBYQHkykqWfPBFmg4qZnYvSF0IKlbXbrepjRtSukDtps5XsSusbvh-TvUc_WgXXAoHuxXeHYdB" />
+    <title lang="fr">Télématin</title>
+  </programme>
+  
+<programme start="20261111065000 +0000" stop="20261111071500 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine de services</category>
+    <desc lang="fr">Télématin.</desc>
+    <icon src="https://iptv-epg.org/images/8zUzWtopGv-HmPGTJV5QoC-OZi859IISS7q6QGHzyqhBYQHkykqWfPBFmg4qZnYvSF0IKlbXbrepjRtSukDtps5XsSusbvh-TvUc_WgXXAoHuxXeHYdB" />
+    <title lang="fr">Télématin</title>
+  </programme>
+  
+<programme start="20261111071500 +0000" stop="20261111074500 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine de services</category>
+    <desc lang="fr">Télématin.</desc>
+    <icon src="https://iptv-epg.org/images/8zUzWtopGv-HmPGTJV5QoC-OZi859IISS7q6QGHzyqhBYQHkykqWfPBFmg4qZnYvSF0IKlbXbrepjRtSukDtps5XsSusbvh-TvUc_WgXXAoHuxXeHYdB" />
+    <title lang="fr">Télématin</title>
+  </programme>
+  
+<programme start="20261111074500 +0000" stop="20261111081200 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">Le 6h info.</desc>
+    <icon src="https://iptv-epg.org/images/l-fV4BEHiFJ2Jjwd5n-uetjgY3KlWKXyRBapy6Sn_PvSEPjXtc9wzcM39AlZWQMih_Aipry9_bH2P0sXwuZyf6jW6v5Rl1V4jcjcnCEChMCQKfwistEh" />
+    <title lang="fr">Le 6h info</title>
+  </programme>
+  
+<programme start="20261111081200 +0000" stop="20261111081700 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Météo</category>
+    <desc lang="fr">Météo.</desc>
+    <icon src="https://iptv-epg.org/images/QpVLctIELdzpTxPg6ENWWuRsWZa454WvEDpyWmm8xdrrX-2Luf9BnX5WCoanTKZKsRl9jNXSlRsXkYHlD2zUt8urnP3mA5rLJXHrzLB2m_dfusIZPHL9" />
+    <title lang="fr">Météo</title>
+  </programme>
+  
+<programme start="20261111081700 +0000" stop="20261111083000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E1201 — La planète à l'heure du thé
+"Le dessous des cartes" décrypte la mondialisation et l'industrialisation du thé, boisson parmi les plus consommées au monde, autour de quelques géants du secteur.</desc>
+    <episode-num>E1201</episode-num>
+    <icon src="https://iptv-epg.org/images/2ncL8pIMa8Pthcivt6Yf1sGQgXC4s4hWwacgHQ2agQ5iLYUzLTnUwaFZ6OKOZEAdKovJc4Q9Ib7FuuzJUipFWIpM_ic8u9LZF8CiF8sXOh3cIBgUmxAO" />
+    <title lang="fr">Le dessous des cartes</title>
+  </programme>
+  
+<programme start="20261111083000 +0000" stop="20261111105100 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">Commémorations du 11 Novembre.</desc>
+    <icon src="https://iptv-epg.org/images/lGk923yfU2OX_awMDZUhorJX6dhYZCDG01RGBysOvnUERGo7Q3AaINfK7LmV_KVSnp9X5FVQOw9y_8JQiDgIu6ie3BBxsbVHlGZawMZczjNCZnyKQRDU" />
+    <title lang="fr">Commémorations du 11 Novembre</title>
+  </programme>
+  
+<programme start="20261111105100 +0000" stop="20261111115000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine de société</category>
+    <desc lang="fr">E31 — Faux policiers, faux banquiers, faux livreurs : ils ont été escroqués
+Ça commence aujourd'hui donne la parole à des victimes d'escroqueries. Faux policiers, banquiers ou livreurs : elles racontent comment des arnaqueurs ont abusé de leur confiance.</desc>
+    <episode-num>E31</episode-num>
+    <icon src="https://iptv-epg.org/images/hsd0ZTYGxAYjY5e3Hafx8zfin-QffRxnhgWPjxk7_N0WFPbUmMSoQVJ95dPXcMlJfF3bmQepxfYkTnYA4iO4qs4xWPSERhtVpsyWyvyAOd99ala3-OTu" />
+    <title lang="fr">Ça commence aujourd'hui</title>
+  </programme>
+  
+<programme start="20261111115000 +0000" stop="20261111120000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">Outremer.l'info.</desc>
+    <icon src="https://iptv-epg.org/images/1ZIaMr6aFJfoC8ZpLskzRUviAYwdcF-XQHWn7hzBBzIGMNqMGBD_arACuEYmxcxpwIIrg57LzJZxEBYehAX6L_aPufV-1_aWrdbohvr32bNAQ5uzNVVb" />
+    <title lang="fr">Outremer.l'info</title>
+  </programme>
+  
+<programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Série</category>
+    <desc lang="fr">S8 E1917
+Boris ne comprend pas les réticences de Muriel envers Charles. Quant à Paloma, elle se met à douter : et si elle s'était trompée sur Jérémy ?</desc>
+    <episode-num>S8 E1917</episode-num>
+    <icon src="https://iptv-epg.org/images/G1cPbi4WlN_TbPPOo-OSIzWNHCjflGgOwWVBRKvHpbMCkF-A4ycoN0Hd3ZDvk8tGgjnWsgAsDzSDUZXc999zfxm1V8b6dpBmml5KVam7jF95L5HsFRiY" />
+    <title lang="fr">Un si grand soleil</title>
+  </programme>
+  
+<programme start="20261111123000 +0000" stop="20261111130400 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">JT 13h (La Une).</desc>
+    <icon src="https://iptv-epg.org/images/vOvlFuy95abxMRqDW5oyr6wS0eKqn3E82ZAazl6edb24f4RCkgkUuDrRQ_q2gUJ9jg8HuzFyWp7RXLnzewSozIx4j9d1iiMppAoAC9tJeyCtG7Xwe_IA" />
+    <title lang="fr">JT 13h (La Une)</title>
+  </programme>
+  
+<programme start="20261111130400 +0000" stop="20261111144100 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Série</category>
+    <desc lang="fr">S12 E9 — Meurtres à Millau
+Près du viaduc de Millau, un cadavre masqué est découvert dans une église, devant Sainte-Enimie. La capitaine Alice et Adrien, ex-gendarme, enquêtent sur ce meurtre énigmatique.</desc>
+    <episode-num>S12 E9</episode-num>
+    <icon src="https://iptv-epg.org/images/NCmVO7OYfxqSPTPRMLowRRazjLg0l2yW6iIYPDi_tyG_vSVwAL1mk43A9mq25fk_QQF_EU5CNdfMKKoZ17Vu5kWCD2yBHjGLC9mMw4Z9cSORye9dWlFp" />
+    <title lang="fr">Meurtres à...</title>
+  </programme>
+  
+<programme start="20261111144100 +0000" stop="20261111151500 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine de services</category>
+    <desc lang="fr">E7 — Oeufs brouillés aux oursins
+La championne poissonnière-écaillère Djennyfer Grain sublime un produit noble à travers une recette d'œufs brouillés aux oursins simple et iodée.</desc>
+    <episode-num>E7</episode-num>
+    <icon src="https://iptv-epg.org/images/JtypEKS8_k3JMcoFBJdiQ9zU-Qbdf271_a_32bEZJYvhdtBHz74OUNnMMVQw9zoMFh0K6PvIGJ4B5HGX_7krM6rkMo3NvYimVPD5qpsifWI6A5GHj97Y" />
+    <title lang="fr">La cuisine des mousquetaires *2022</title>
+  </programme>
+  
+<programme start="20261111151500 +0000" stop="20261111154600 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine de la nature</category>
+    <desc lang="fr">E38 — Un éboueur vert sur l'Orne
+Avec son kayak, Pierre ramasse les déchets dérivant à la surface de l'Orne. Direction le Cailloux, restaurant éco-responsable travaillant avec des produits bio et de saison, puis balade au coeur des marais en Seine-Maritime.</desc>
+    <episode-num>E38</episode-num>
+    <icon src="https://iptv-epg.org/images/higzygn6Q-PVG7r-_1cvk3LXLAMhtq8V0xXTlNm8BUYoOgVWAWh-FvQ_vQ7cSrPMT_p8MFuu5kyUS3CB74Jmkez4rLGeB-atDPDbb88uVI8-8442ehCJ" />
+    <title lang="fr">Pistes vertes</title>
+  </programme>
+  
+<programme start="20261111154600 +0000" stop="20261111164400 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">E6 — Le vignoble québécois en pleine transformation
+Le Point explore le vignoble québécois, qui connaît actuellement une transformation. Ce reportage met en lumière l'innovation des viticulteurs locaux face aux défis climatiques.</desc>
+    <episode-num>E6</episode-num>
+    <icon src="https://iptv-epg.org/images/JDlH6OtOdWhkv8WmoFioO-kiauEDu4Sn3scR694u_IUh3ywRtGfzPNMNcN83EHfFXYwuvh9on1vjfxjGx9OSVf6_CyXaWopHrdrHrRMArZ57-racPd0k" />
+    <title lang="fr">Le point</title>
+  </programme>
+  
+<programme start="20261111164400 +0000" stop="20261111170000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine de société</category>
+    <desc lang="fr">S9 E1
+La mosaïste Anne-Cécile Lopez réinterprète un art séculaire, à la frontière entre archéologie, géologie et anthropologie. Charlotte Franier restaure les tableaux anciens.</desc>
+    <episode-num>S9 E1</episode-num>
+    <icon src="https://iptv-epg.org/images/bd7ZRBc2f8yGwsfos0EPctw_HTQTcO6YMhslw8huBzxRFh8Hj7_QAcFpG0W5MRy-CbrgckYPcuT6mDUX-T_WQIhDUzsYRZdDR3oUiIA7j2GVSVg9fNLg" />
+    <title lang="fr">Chic en vf</title>
+  </programme>
+  
+<programme start="20261111170000 +0000" stop="20261111172600 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">64' le monde en français.</desc>
+    <icon src="https://iptv-epg.org/images/sInO7WRiXsy2SVkz211Rved0BQGd9ugYeIZ0hkTSru27zvVsdOIhsychFPfKkFKyv5fmpqXcFfyOLZtQqp8aNFGAaMPY70t6LdX45kgIswkJR5Ht9D4s" />
+    <title lang="fr">64' le monde en français</title>
+  </programme>
+  
+<programme start="20261111172600 +0000" stop="20261111173000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Météo</category>
+    <desc lang="fr">Météo.</desc>
+    <icon src="https://iptv-epg.org/images/QpVLctIELdzpTxPg6ENWWuRsWZa454WvEDpyWmm8xdrrX-2Luf9BnX5WCoanTKZKsRl9jNXSlRsXkYHlD2zUt8urnP3mA5rLJXHrzLB2m_dfusIZPHL9" />
+    <title lang="fr">Météo</title>
+  </programme>
+  
+<programme start="20261111173000 +0000" stop="20261111175300 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">64' le monde en français.</desc>
+    <icon src="https://iptv-epg.org/images/sInO7WRiXsy2SVkz211Rved0BQGd9ugYeIZ0hkTSru27zvVsdOIhsychFPfKkFKyv5fmpqXcFfyOLZtQqp8aNFGAaMPY70t6LdX45kgIswkJR5Ht9D4s" />
+    <title lang="fr">64' le monde en français</title>
+  </programme>
+  
+<programme start="20261111175300 +0000" stop="20261111180500 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine d'information</category>
+    <desc lang="fr">L'invité.</desc>
+    <icon src="https://iptv-epg.org/images/G1VAgtlo8u4adm5WaiyNRCFzWImkd2Wei5WTKgwZ0GqpPyKdtXO18UF4-OsA79hdJ-_QjlyyDz98rM2Wjxg1TW4jisWu9iTDcbwD2V0qW94lGpbDjoEM" />
+    <title lang="fr">L'invité</title>
+  </programme>
+  
+<programme start="20261111180500 +0000" stop="20261111190000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Jeu</category>
+    <desc lang="fr">Tout le monde veut prendre sa place.</desc>
+    <icon src="https://iptv-epg.org/images/4Hvm2BievVazAOV6Wtajw-n_qHZQiLY6xV7Q1F2KCLN19C4kd_aOPL7lLEjaLoSysY4zDpgWDk32zRegjNnnq2FW1WEua4UGmKaf1tOmHnVKnWDxp8mi" />
+    <title lang="fr">Tout le monde veut prendre sa place</title>
+  </programme>
+  
+<programme start="20261111190000 +0000" stop="20261111193000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">Le 19h30.</desc>
+    <icon src="https://iptv-epg.org/images/IOzJZpMJhwhGtjrBaCo6DXMDWP5IYulNVcCuBPXS7vcF_N_r1AwMfKhUNZWNaKnvSRA4K9lbZ2LA1jPi-jb0t42PDk5n2mTmJyw0kOMfOpOPRSODN48w" />
+    <title lang="fr">Le 19h30</title>
+  </programme>
+  
+<programme start="20261111193000 +0000" stop="20261111200000 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">Journal 20h00.</desc>
+    <icon src="https://iptv-epg.org/images/YPzcuWP8icxmCokB80CVU8LPDWUpIm2R3Y4eAQwJ7xFEee3XjvN-VIAO_HZs7osb6s77vH5k43Vh9ZSy0jv5KDhNiENd-9q2hjXPJCwROjojmatU83v3" />
+    <title lang="fr">Journal 20h00</title>
+  </programme>
+  
+<programme start="20261111200000 +0000" stop="20261111200500 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine culturel</category>
+    <desc lang="fr">S1 E14 — Grèce
+Publié en 1995 aux éditions Fayard, "La Langue maternelle" de Vassilis Alexakis a reçu la même année le prix Médicis ex aequo avec "Le Testament français" d'Andreï Makine.</desc>
+    <episode-num>S1 E14</episode-num>
+    <icon src="https://iptv-epg.org/images/n4loYT63VvOIYPKOl6XZ84WClhKO77ena3r6kV5HKB_z0JjaPuWjLM4N0hafFfAwW3X1xJXFHAaulUAcPuyODupJzfEeNwM94ZRlPjUHJ_2tYN6GVG2r" />
+    <title lang="fr">Un pays, un livre</title>
+  </programme>
+  
+<programme start="20261111200500 +0000" stop="20261111205700 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Documentaire de société</category>
+    <desc lang="fr">Comment le Cambodge, marqué par le génocide, est-il devenu l'hôte du XXe Sommet de la Francophonie ? Retour sur les liens historiques entre Phnom Penh et Paris.</desc>
+    <icon src="https://iptv-epg.org/images/e6Lyy2nN0xDAkf3W0UERAlMoqfIzN0lXvsh7MNoWGulayut0e3J_KDhLUPvNu6hTehMVf078JY7_zevuzmUavdHm9FQ98a1bmWfIdpy18G8RIYBTw12o" />
+    <title lang="fr">France-Cambodge: Si loin, si proche</title>
+  </programme>
+  
+<programme start="20261111205700 +0000" stop="20261111211800 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Documentaire</category>
+    <desc lang="fr">Athéna Sol enquête sur l'organisation du XXe Sommet de la francophonie dans un pays non francophone, avec l'aide de Linda Nguon et de riches archives.</desc>
+    <icon src="https://iptv-epg.org/images/DXXrAmR4ezzhbyWYRK5EAkFjtNaWBrTIuc3fjOOEf0DeevhmqcC7lArjc-P43V_V9d_Jvtm3EYeyp8to4IKtb1-5Kno960-BKz9l42eeBGZLbaX3Ap6q" />
+    <title lang="fr">Cambodge: Les traces cachées de la langue française</title>
+  </programme>
+  
+<programme start="20261111211800 +0000" stop="20261111212300 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Magazine sportif</category>
+    <desc lang="fr">E24
+Résumé quotidien de la Route du Rhum 2026 - Destination Guadeloupe, course transatlantique en solitaire qui relie, tous les quatre ans, Saint-Malo, en Bretagne, à Pointe-à-Pitre, en Guadeloupe.</desc>
+    <episode-num>E24</episode-num>
+    <icon src="https://iptv-epg.org/images/9xdkHczwi-TAo-XI5U3roHntTOQar-A9kjpFT6mLdJmK1RNLJi_xCKQH9N_sYlX-RVFO8zXNzRE_ozECqPMkL7RncpcO7XgEZar3gE7AaYWwGit0H_ix" />
+    <title lang="fr">La Route du Rhum - Destination Guadeloupe</title>
+  </programme>
+  
+<programme start="20261111212300 +0000" stop="20261111215700 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">L'actu.</desc>
+    <icon src="https://iptv-epg.org/images/IHAm5sH79GW8xgasOHfIm7MZ7--vEXfb7gVpqA5_4npllfTTHY6wwCyRT7rJ0mM-kvriM-XqmJHSdG-tkki5IlN5zKvb1tbm1o_MuiIAQlianBrXtiNk" />
+    <title lang="fr">L'actu</title>
+  </programme>
+  
+<programme start="20261111215700 +0000" stop="20261111234200 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Débat</category>
+    <desc lang="fr">E10
+Un dimanche à la campagne.</desc>
+    <episode-num>E10</episode-num>
+    <icon src="https://iptv-epg.org/images/lVDkPGOdrrAhNfdWD5PBQAmjWRgZI_8gsrHKmGu_34D4oTZEeOcTolJ1qr-qBcFSspy9vPGJnM0NnYBH7VblvduEab0KfatNEfyxi1rw4JcYSjPiYIol" />
+    <title lang="fr">Un dimanche à la campagne</title>
+  </programme>
+  
+<programme start="20261111234200 +0000" stop="20261112001300 +0000" channel="TV5Monde.fr">
+    <category lang="fr">Journal</category>
+    <desc lang="fr">Le journal Afrique.</desc>
+    <icon src="https://iptv-epg.org/images/LkEsxx7RBbMDJBj1hOxwmfYnUdrD_Xz2xopWW7p33zaWW7JaehkmxkZqC0cNZZN2avkR1M-WZxIaUDCI81tflBUF6InbRbVJ6ATVF8zIIzOSLEZVZncq" />
+    <title lang="fr">Le journal Afrique</title>
   </programme>
   
 </tv>

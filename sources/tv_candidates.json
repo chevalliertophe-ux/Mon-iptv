@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T15:08:36.929104+00:00",
-  "total_candidates": 975,
+  "updated_at": "2026-11-08T13:28:22.966362+00:00",
+  "total_candidates": 988,
   "channels": [
     {
       "name": "6ter (1080p)",
@@ -9,6 +9,15 @@
       "country": "France",
       "group": "Entertainment",
       "logo": "https://i.imgur.com/2nd5Cox.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "13eme Rue",
+      "url": "http://192.99.186.30/stream/251/index.m3u8",
+      "country": "Suisse",
+      "group": "Entertainment",
+      "logo": "https://i.imgur.com/k0DCMTL.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -454,6 +463,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Discovery Channel (France)",
+      "url": "http://192.99.186.30/stream/68/index.m3u8",
+      "country": "France",
+      "group": "Entertainment",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "Disney Jr. (France) (1080p)",
       "url": "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8",
       "country": "France",
@@ -720,6 +738,15 @@
       "country": "France",
       "group": "Series",
       "logo": "https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Investigation Discovery (France)",
+      "url": "http://192.99.186.30/stream/81/index.m3u8",
+      "country": "France",
+      "group": "Documentary",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -1251,6 +1278,15 @@
       "country": "Suisse",
       "group": "News",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "SciFi",
+      "url": "http://192.99.186.30/stream/250/index.m3u8",
+      "country": "France",
+      "group": "Entertainment",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/SciFi_2026.svg",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -1849,6 +1885,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "AXN Black (Germany)",
+      "url": "http://46.244.99.71:8181/stream/35/index.m3u8",
+      "country": "Suisse",
+      "group": "Movies",
+      "logo": "https://i.imgur.com/Peo1QiZ.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "Becker (Germany)",
       "url": "https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8",
       "country": "Suisse",
@@ -1939,6 +1984,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Cartoon Network CEE Germany",
+      "url": "http://94.130.48.67:8042/stream/109/index.m3u8",
+      "country": "Suisse",
+      "group": "Animation;Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "CC Pluto TV",
       "url": "https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8",
       "country": "Suisse",
@@ -2013,6 +2067,15 @@
     {
       "name": "DMAX (Italy) (1080p)",
       "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8",
+      "country": "Italie",
+      "group": "Lifestyle",
+      "logo": "https://i.imgur.com/uGd9fnn.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "DMAX (Italy) HD (720p)",
+      "url": "http://102.129.186.182:81/dmax/index.m3u8",
       "country": "Italie",
       "group": "Lifestyle",
       "logo": "https://i.imgur.com/uGd9fnn.png",
@@ -2169,6 +2232,15 @@
       "country": "Suisse",
       "group": "General",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Nick Jr. (Germany)",
+      "url": "http://94.130.48.67:8042/stream/111/index.m3u8",
+      "country": "Suisse",
+      "group": "Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -2556,6 +2628,15 @@
       "country": "Suisse",
       "group": "General",
       "logo": "https://i.imgur.com/YyXJaBN.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "RTLup (576p)",
+      "url": "https://s6.hopslan.com/rtltupz/index.m3u8",
+      "country": "Suisse",
+      "group": "Undefined",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RTLup_Logo_2021.svg/960px-RTLup_Logo_2021.svg.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -3255,6 +3336,15 @@
     {
       "name": "Discovery Channel (Italy) (1080p)",
       "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8",
+      "country": "Italie",
+      "group": "Entertainment",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Discovery Channel (Italy) HD (720p)",
+      "url": "http://102.129.186.182:81/discovery/index.m3u8",
       "country": "Italie",
       "group": "Entertainment",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
@@ -4729,6 +4819,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Real Time HD (720p)",
+      "url": "http://102.129.186.182:81/realtime/index.m3u8",
+      "country": "Italie",
+      "group": "Undefined",
+      "logo": "https://i.imgur.com/SPlk2Gx.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "ReggioTV (480p) [Not 24/7]",
       "url": "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8",
       "country": "Italie",
@@ -6142,15 +6241,6 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "AXN White (United States)",
-      "url": "https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8",
-      "country": "Espagne",
-      "group": "Entertainment",
-      "logo": "https://i.imgur.com/47IKxmt.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
       "name": "Az Corazon (720p)",
       "url": "http://200.115.120.1:8000/play/ca020/index.m3u8",
       "country": "Espagne",
@@ -6723,6 +6813,15 @@
       "country": "Espagne",
       "group": "General",
       "logo": "https://i.imgur.com/AqGIoIt.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "DMAX (Spain)",
+      "url": "http://90.163.85.113:8093/stream/51/index.m3u8",
+      "country": "Espagne",
+      "group": "Lifestyle",
+      "logo": "https://i.imgur.com/En2sLlW.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -7996,8 +8095,8 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Real Madrid TV (726p)",
-      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+      "name": "Real Madrid TV (1080p)",
+      "url": "http://90.163.85.113:8093/stream/26/index.m3u8",
       "country": "Espagne",
       "group": "Sports",
       "logo": "https://i.imgur.com/5pMo7dL.png",
@@ -8703,6 +8802,24 @@
       "country": "Espagne",
       "group": "Series",
       "logo": "https://i.imgur.com/1m7kDmc.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "AXN White (United States)",
+      "url": "https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8",
+      "country": "Espagne",
+      "group": "Entertainment",
+      "logo": "https://i.imgur.com/47IKxmt.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Real Madrid TV (726p)",
+      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+      "country": "Espagne",
+      "group": "Sports",
+      "logo": "https://i.imgur.com/5pMo7dL.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
