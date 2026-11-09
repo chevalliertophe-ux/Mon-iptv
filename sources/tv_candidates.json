@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T13:28:22.966362+00:00",
-  "total_candidates": 988,
+  "updated_at": "2026-11-09T16:24:20.612333+00:00",
+  "total_candidates": 989,
   "channels": [
     {
       "name": "6ter (1080p)",
@@ -265,7 +265,7 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Canal+ Sport (1080p) [Geo-blocked]",
+      "name": "Canal+ Sport (France) (1080p) [Geo-blocked]",
       "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
       "country": "France",
       "group": "Sports",
@@ -913,15 +913,6 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Mezzo (576p)",
-      "url": "http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:",
-      "country": "France",
-      "group": "Music",
-      "logo": "https://i.imgur.com/auNdGeW.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
       "name": "Mezzo Live (1080p)",
       "url": "http://stream.mcquack.net/276/index.m3u8",
       "country": "France",
@@ -1390,15 +1381,6 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "TF1 (1080p)",
-      "url": "http://149.62.177.107:9999/TF1/index.m3u8",
-      "country": "France",
-      "group": "Entertainment",
-      "logo": "https://i.imgur.com/QxHt9NC.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
       "name": "TF1 Series Films (1080p)",
       "url": "http://149.62.177.107:9999/TF1_Series_Films/index.m3u8",
       "country": "France",
@@ -1426,17 +1408,8 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "TMC (1080p)",
-      "url": "http://151.80.18.177:86/TMC/index.m3u8",
-      "country": "France",
-      "group": "General",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "TMC HD (1080p)",
-      "url": "http://149.62.177.107:9999/TMC/index.m3u8",
+      "name": "TMC HD (1080p) [Geo-blocked]",
+      "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8",
       "country": "France",
       "group": "General",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
@@ -2056,7 +2029,7 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "DMAX (Germany) (576p)",
+      "name": "DMAX (Germany) (576p) [Geo-blocked]",
       "url": "http://5.180.164.197:8080/DMAX/index.m3u8",
       "country": "Suisse",
       "group": "Lifestyle",
@@ -8802,6 +8775,42 @@
       "country": "Espagne",
       "group": "Series",
       "logo": "https://i.imgur.com/1m7kDmc.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Mezzo (576p)",
+      "url": "http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:",
+      "country": "France",
+      "group": "Music",
+      "logo": "https://i.imgur.com/auNdGeW.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "TF1 (1080p)",
+      "url": "http://149.62.177.107:9999/TF1/index.m3u8",
+      "country": "France",
+      "group": "Entertainment",
+      "logo": "https://i.imgur.com/QxHt9NC.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "TMC (1080p)",
+      "url": "http://151.80.18.177:86/TMC/index.m3u8",
+      "country": "France",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "TMC HD (1080p)",
+      "url": "http://149.62.177.107:9999/TMC/index.m3u8",
+      "country": "France",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
