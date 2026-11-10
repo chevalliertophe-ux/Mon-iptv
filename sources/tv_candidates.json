@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T16:24:20.612333+00:00",
-  "total_candidates": 989,
+  "updated_at": "2026-11-10T14:55:35.989875+00:00",
+  "total_candidates": 990,
   "channels": [
     {
       "name": "6ter (1080p)",
@@ -6750,6 +6750,15 @@
       "country": "Espagne",
       "group": "Series",
       "logo": "https://i.imgur.com/e3biTY5.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "DAZN F1",
+      "url": "https://tvorb.net/ZTV/6918-live.m3u8",
+      "country": "Espagne",
+      "group": "Sports",
+      "logo": "https://i.imgur.com/yFCr5XX.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
