@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-10T14:55:35.989875+00:00",
-  "total_candidates": 990,
+  "updated_at": "2026-11-11T14:26:12.132020+00:00",
+  "total_candidates": 1003,
   "channels": [
     {
       "name": "6ter (1080p)",
@@ -2038,6 +2038,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "DMAX (Germany) HD (576p)",
+      "url": "https://s6.hopslan.com/dmaxX/index.m3u8",
+      "country": "Suisse",
+      "group": "Lifestyle",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "DMAX (Italy) (1080p)",
       "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8",
       "country": "Italie",
@@ -3055,6 +3064,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Boing Plus",
+      "url": "http://95.141.36.9:8080/stream/181/index.m3u8",
+      "country": "Italie",
+      "group": "Kids",
+      "logo": "https://i.imgur.com/STbfHwE.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "Bom Channel (720p)",
       "url": "https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8",
       "country": "Italie",
@@ -3597,6 +3615,15 @@
     {
       "name": "Italia 1 [Geo-blocked]",
       "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8",
+      "country": "Italie",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Italia 1 HD",
+      "url": "http://185.227.34.62/stream/21/index.m3u8",
       "country": "Italie",
       "group": "General",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png",
@@ -4486,6 +4513,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Radio Monte Carlo TV",
+      "url": "http://95.141.36.9:8080/stream/180/index.m3u8",
+      "country": "Italie",
+      "group": "Undefined",
+      "logo": "https://i.imgur.com/by9XvWF.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "Radio Norba TV (1080p)",
       "url": "https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8",
       "country": "Italie",
@@ -4694,7 +4730,7 @@
     },
     {
       "name": "Rai Premium",
-      "url": "http://team-tv.co:81/raipremium/index.m3u8",
+      "url": "http://95.141.36.9:8080/stream/170/index.m3u8",
       "country": "Italie",
       "group": "Undefined",
       "logo": "https://i.imgur.com/40g5Urz.png",
@@ -4725,6 +4761,15 @@
       "country": "Italie",
       "group": "Undefined",
       "logo": "https://i.imgur.com/Z3npd4M.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Rai Yoyo",
+      "url": "http://95.141.36.9:8080/stream/156/index.m3u8",
+      "country": "Italie",
+      "group": "Kids",
+      "logo": "https://i.imgur.com/9gCxiDy.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -4806,6 +4851,15 @@
       "country": "Italie",
       "group": "Undefined",
       "logo": "https://i.imgur.com/cEwJkRV.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Rete 4 HD",
+      "url": "http://185.227.34.62/stream/14/index.m3u8",
+      "country": "Italie",
+      "group": "Undefined",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -5022,6 +5076,60 @@
       "country": "Italie",
       "group": "Legislative",
       "logo": "https://i.imgur.com/h4NyN5d.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Sky Cinema Action",
+      "url": "http://109.169.87.42:8080/stream/26/index.m3u8",
+      "country": "Italie",
+      "group": "Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/960px-Sky_Cinema_Action_-_Logo_2021.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Sky Cinema Collection",
+      "url": "http://109.169.87.42:8080/stream/18/index.m3u8",
+      "country": "Italie",
+      "group": "Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/960px-Sky_Cinema_Collection_-_Logo_2021.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Sky Cinema Due",
+      "url": "http://109.169.87.42:8080/stream/10/index.m3u8",
+      "country": "Italie",
+      "group": "Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_-_Logo_2021.svg/960px-Sky_Cinema_Due_-_Logo_2021.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Sky Cinema Family",
+      "url": "http://109.169.87.42:8080/stream/22/index.m3u8",
+      "country": "Italie",
+      "group": "Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/960px-Sky_Cinema_Family_-_Logo_2021.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Sky Cinema Suspense",
+      "url": "http://109.169.87.42:8080/stream/30/index.m3u8",
+      "country": "Italie",
+      "group": "Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Suspense_-_Logo_2021.svg/960px-Sky_Cinema_Suspense_-_Logo_2021.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Sky Cinema Uno",
+      "url": "http://109.169.87.42:8080/stream/2/index.m3u8",
+      "country": "Italie",
+      "group": "Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/960px-Sky_Cinema_Uno_-_Logo_2021.svg.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -6174,15 +6282,6 @@
       "country": "Espagne",
       "group": "General",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "Antena 3 Internacional (1080p)",
-      "url": "http://38.252.238.18:8000/play/a04a/index.m3u8",
-      "country": "Espagne",
-      "group": "General",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -8609,7 +8708,7 @@
     },
     {
       "name": "TVE Star HD (1080p)",
-      "url": "http://38.252.238.18:8000/play/a01h/index.m3u8",
+      "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
       "country": "Espagne",
       "group": "Series",
       "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
@@ -8788,6 +8887,33 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Rai Premium",
+      "url": "http://team-tv.co:81/raipremium/index.m3u8",
+      "country": "Italie",
+      "group": "Undefined",
+      "logo": "https://i.imgur.com/40g5Urz.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Antena 3 Internacional (1080p)",
+      "url": "http://38.252.238.18:8000/play/a04a/index.m3u8",
+      "country": "Espagne",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "TVE Star HD (1080p)",
+      "url": "http://38.252.238.18:8000/play/a01h/index.m3u8",
+      "country": "Espagne",
+      "group": "Series",
+      "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "Mezzo (576p)",
       "url": "http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:",
       "country": "France",
@@ -8901,15 +9027,6 @@
       "country": "Italie",
       "group": "Sports",
       "logo": "https://www.legaseriea.it/assets/radiotv-logo.svg",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "TVE Star HD (1080p)",
-      "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
-      "country": "Espagne",
-      "group": "Series",
-      "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     }
