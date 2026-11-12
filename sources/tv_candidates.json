@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T14:26:12.132020+00:00",
-  "total_candidates": 1003,
+  "updated_at": "2026-11-12T15:17:55.943745+00:00",
+  "total_candidates": 1007,
   "channels": [
     {
       "name": "6ter (1080p)",
@@ -909,6 +909,15 @@
       "country": "France",
       "group": "Undefined",
       "logo": "https://i.imgur.com/REN30bx.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Mezzo",
+      "url": "http://92.180.26.103/stream/62/index.m3u8",
+      "country": "France",
+      "group": "Music",
+      "logo": "https://i.imgur.com/auNdGeW.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -3299,7 +3308,7 @@
     },
     {
       "name": "DellaTV (720p)",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8",
       "country": "Italie",
       "group": "General",
       "logo": "https://i.imgur.com/6lvQ3Xz.png",
@@ -5287,8 +5296,8 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "SuperTennis (1080p)",
-      "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8",
+      "name": "SuperTennis",
+      "url": "http://57.128.225.206/stream/7/index.m3u8",
       "country": "Italie",
       "group": "Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png",
@@ -5441,7 +5450,7 @@
     },
     {
       "name": "Telecyan (720p)",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8",
       "country": "Italie",
       "group": "Comedy;Series",
       "logo": "https://i.imgur.com/9BnHCj5.png",
@@ -8883,6 +8892,33 @@
       "country": "Espagne",
       "group": "Series",
       "logo": "https://i.imgur.com/1m7kDmc.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "DellaTV (720p)",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8",
+      "country": "Italie",
+      "group": "General",
+      "logo": "https://i.imgur.com/6lvQ3Xz.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "SuperTennis (1080p)",
+      "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8",
+      "country": "Italie",
+      "group": "Sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Telecyan (720p)",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8",
+      "country": "Italie",
+      "group": "Comedy;Series",
+      "logo": "https://i.imgur.com/9BnHCj5.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
