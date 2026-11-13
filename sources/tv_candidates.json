@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T15:17:55.943745+00:00",
+  "updated_at": "2026-11-13T14:37:51.343270+00:00",
   "total_candidates": 1007,
   "channels": [
     {
@@ -6286,15 +6286,6 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Antena 3",
-      "url": "https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd",
-      "country": "Espagne",
-      "group": "General",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
       "name": "Arabi TV (1080p)",
       "url": "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8",
       "country": "Espagne",
@@ -8892,6 +8883,15 @@
       "country": "Espagne",
       "group": "Series",
       "logo": "https://i.imgur.com/1m7kDmc.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Antena 3",
+      "url": "https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd",
+      "country": "Espagne",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
