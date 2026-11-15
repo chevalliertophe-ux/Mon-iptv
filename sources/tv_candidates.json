@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T13:33:56.517452+00:00",
-  "total_candidates": 1016,
+  "updated_at": "2026-11-15T13:57:41.293083+00:00",
+  "total_candidates": 1047,
   "channels": [
     {
-      "name": "6ter (1080p)",
-      "url": "http://149.62.177.107:9999/6ter/index.m3u8",
+      "name": "6ter (720p)",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8",
       "country": "France",
       "group": "Entertainment",
       "logo": "https://i.imgur.com/2nd5Cox.png",
@@ -229,6 +229,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Boomerang (France) HD (720p)",
+      "url": "http://41.205.93.154/BOOMERANG/index.m3u8",
+      "country": "France",
+      "group": "Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "Brionnais TV (720p)",
       "url": "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8",
       "country": "France",
@@ -445,6 +454,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Comedy Central (France) (720p)",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8",
+      "country": "Suisse",
+      "group": "Comedy",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "DBM TV (1080p)",
       "url": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
       "country": "France",
@@ -581,7 +599,7 @@
     },
     {
       "name": "France 2 (1080p)",
-      "url": "http://149.62.177.107:9999/France_2/index.m3u8",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8",
       "country": "France",
       "group": "General",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png",
@@ -589,8 +607,8 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "France 3",
-      "url": "http://85.14.32.26:8800/udp/239.100.10.144:5000",
+      "name": "France 3 (1080p)",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8",
       "country": "France",
       "group": "General",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png",
@@ -617,7 +635,7 @@
     },
     {
       "name": "France 4 (1080p)",
-      "url": "http://149.62.177.107:9999/France_4/index.m3u8",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8",
       "country": "France",
       "group": "Kids",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
@@ -626,7 +644,7 @@
     },
     {
       "name": "France 5 (1080p)",
-      "url": "http://149.62.177.107:9999/France_5/index.m3u8",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8",
       "country": "France",
       "group": "General",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png",
@@ -643,8 +661,8 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Franceinfo (1080p)",
-      "url": "http://149.62.177.107:9999/franceinfo:/index.m3u8",
+      "name": "Franceinfo (720p)",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8",
       "country": "France",
       "group": "News",
       "logo": "https://i.imgur.com/eITXz6A.png",
@@ -797,7 +815,7 @@
     },
     {
       "name": "LCI (1080p)",
-      "url": "http://149.62.177.107:9999/LCI/index.m3u8",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8",
       "country": "Suisse",
       "group": "News",
       "logo": "https://i.imgur.com/DED8EXs.png",
@@ -976,8 +994,8 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "MTV (France)",
-      "url": "http://99.27.51.147:8080/MTV/index.m3u8",
+      "name": "MTV (France) (720p)",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8",
       "country": "Suisse",
       "group": "Entertainment",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
@@ -1021,8 +1039,35 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "NOVO19 (1080p)",
-      "url": "http://149.62.177.107:9999/NOVO19/index.m3u8",
+      "name": "Nickelodeon (France) (720p)",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8",
+      "country": "France",
+      "group": "Kids",
+      "logo": "https://i.imgur.com/E84jnP8.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Nickelodeon Junior (720p)",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8",
+      "country": "Suisse",
+      "group": "Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Nicktoons (France) (720p)",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8",
+      "country": "France",
+      "group": "Kids",
+      "logo": "https://i.imgur.com/OWRUPA4.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "NOVO19 (720p)",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8",
       "country": "France",
       "group": "General",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png",
@@ -1409,7 +1454,7 @@
     },
     {
       "name": "TF1 Series Films (1080p)",
-      "url": "http://149.62.177.107:9999/TF1_Series_Films/index.m3u8",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8",
       "country": "France",
       "group": "Movies",
       "logo": "https://i.imgur.com/4CJIDKQ.png",
@@ -1418,7 +1463,7 @@
     },
     {
       "name": "TFX (1080p)",
-      "url": "http://149.62.177.107:9999/TFX/index.m3u8",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8",
       "country": "France",
       "group": "Undefined",
       "logo": "https://i.imgur.com/d91GcVf.png",
@@ -3109,6 +3154,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Boomerang (Italy)",
+      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2705627802",
+      "country": "Italie",
+      "group": "Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "Caccia e Pesca (720p)",
       "url": "http://102.129.186.182:81/cacciapesca/index.m3u8",
       "country": "Italie",
@@ -3447,6 +3501,24 @@
       "country": "Italie",
       "group": "Undefined",
       "logo": "https://i.imgur.com/HFWWzKT.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Eurosport 1 Italy",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8",
+      "country": "Italie",
+      "group": "Sports",
+      "logo": "https://i.imgur.com/olQJgm7.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Eurosport 2 Italy (540p)",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8",
+      "country": "Italie",
+      "group": "Sports",
+      "logo": "https://i.imgur.com/f56dHgR.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -4621,8 +4693,8 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Rai 1 (720p)",
-      "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
+      "name": "Rai 1 (1080p)",
+      "url": "http://team-tv.co:81/rai1/index.m3u8",
       "country": "Italie",
       "group": "Undefined",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
@@ -4770,6 +4842,15 @@
       "country": "Italie",
       "group": "Education",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Rai Sport",
+      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=843891896",
+      "country": "Italie",
+      "group": "Sports",
+      "logo": "https://i.imgur.com/6PEevOM.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -6304,8 +6385,8 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Antena 3 (480p)",
-      "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd",
+      "name": "Antena 3 (1080p)",
+      "url": "https://ignac16.github.io/voxel-tv-streams/a3.mpd",
       "country": "Espagne",
       "group": "General",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
@@ -6340,8 +6421,26 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Atreseries HD (1080p)",
+      "url": "https://ignac16.github.io/voxel-tv-streams/a3s.mpd",
+      "country": "Espagne",
+      "group": "Series",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "AXN (Spain)",
+      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4238619703",
+      "country": "Espagne",
+      "group": "Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "AXN Movies (Spain)",
-      "url": "https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd",
+      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2493319111",
       "country": "Espagne",
       "group": "Movies",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
@@ -7330,6 +7429,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Kidz (1080p) [Geo-blocked]",
+      "url": "https://c82fe9a663ed758d6c517fb44c28ba73.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/3.m3u8",
+      "country": "Espagne",
+      "group": "Entertainment",
+      "logo": "https://i.imgur.com/iBgsCOV.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "KinoKazka (1080p)",
       "url": "http://stream.mcquack.net/167/index.m3u8",
       "country": "Espagne",
@@ -7422,6 +7530,15 @@
     {
       "name": "La Sexta (1080p)",
       "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd",
+      "country": "Espagne",
+      "group": "Entertainment",
+      "logo": "https://i.imgur.com/aKV5voq.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "La Sexta HD (1080p)",
+      "url": "https://ignac16.github.io/voxel-tv-streams/la6.mpd",
       "country": "Espagne",
       "group": "Entertainment",
       "logo": "https://i.imgur.com/aKV5voq.png",
@@ -7573,6 +7690,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Mega (Spain) HD (1080p)",
+      "url": "https://ignac16.github.io/voxel-tv-streams/mega.mpd",
+      "country": "Espagne",
+      "group": "Entertainment",
+      "logo": "https://i.imgur.com/Udrt2eK.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "Mi Extrana Obsesion",
       "url": "https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8",
       "country": "Espagne",
@@ -7717,6 +7843,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Neox HD (1080p)",
+      "url": "https://ignac16.github.io/voxel-tv-streams/neox.mpd",
+      "country": "Espagne",
+      "group": "Entertainment",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "Nortevision (1080p)",
       "url": "http://amaru.dyndns.org:8870/0.m3u8",
       "country": "Espagne",
@@ -7728,6 +7863,15 @@
     {
       "name": "Nova (Spain) (1080p)",
       "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/nova.mpd",
+      "country": "Espagne",
+      "group": "Lifestyle",
+      "logo": "https://i.imgur.com/Vx1F4o5.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Nova (Spain) HD (1080p)",
+      "url": "https://ignac16.github.io/voxel-tv-streams/nova.mpd",
       "country": "Espagne",
       "group": "Lifestyle",
       "logo": "https://i.imgur.com/Vx1F4o5.png",
@@ -8752,8 +8896,8 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "TVE Internacional Europe",
-      "url": "http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0",
+      "name": "TVE Internacional Europe (576p)",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8",
       "country": "Espagne",
       "group": "Undefined",
       "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
@@ -8955,6 +9099,141 @@
       "country": "Espagne",
       "group": "Series",
       "logo": "https://i.imgur.com/1m7kDmc.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "6ter (1080p)",
+      "url": "http://149.62.177.107:9999/6ter/index.m3u8",
+      "country": "France",
+      "group": "Entertainment",
+      "logo": "https://i.imgur.com/2nd5Cox.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "France 2 (1080p)",
+      "url": "http://149.62.177.107:9999/France_2/index.m3u8",
+      "country": "France",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "France 3",
+      "url": "http://85.14.32.26:8800/udp/239.100.10.144:5000",
+      "country": "France",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "France 4 (1080p)",
+      "url": "http://149.62.177.107:9999/France_4/index.m3u8",
+      "country": "France",
+      "group": "Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "France 5 (1080p)",
+      "url": "http://149.62.177.107:9999/France_5/index.m3u8",
+      "country": "France",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Franceinfo (1080p)",
+      "url": "http://149.62.177.107:9999/franceinfo:/index.m3u8",
+      "country": "France",
+      "group": "News",
+      "logo": "https://i.imgur.com/eITXz6A.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "LCI (1080p)",
+      "url": "http://149.62.177.107:9999/LCI/index.m3u8",
+      "country": "Suisse",
+      "group": "News",
+      "logo": "https://i.imgur.com/DED8EXs.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "MTV (France)",
+      "url": "http://99.27.51.147:8080/MTV/index.m3u8",
+      "country": "Suisse",
+      "group": "Entertainment",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "NOVO19 (1080p)",
+      "url": "http://149.62.177.107:9999/NOVO19/index.m3u8",
+      "country": "France",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "TF1 Series Films (1080p)",
+      "url": "http://149.62.177.107:9999/TF1_Series_Films/index.m3u8",
+      "country": "France",
+      "group": "Movies",
+      "logo": "https://i.imgur.com/4CJIDKQ.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "TFX (1080p)",
+      "url": "http://149.62.177.107:9999/TFX/index.m3u8",
+      "country": "France",
+      "group": "Undefined",
+      "logo": "https://i.imgur.com/d91GcVf.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Rai 1 (720p)",
+      "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
+      "country": "Italie",
+      "group": "Undefined",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Antena 3 (480p)",
+      "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd",
+      "country": "Espagne",
+      "group": "General",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "AXN Movies (Spain)",
+      "url": "https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd",
+      "country": "Espagne",
+      "group": "Movies",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "TVE Internacional Europe",
+      "url": "http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0",
+      "country": "Espagne",
+      "group": "Undefined",
+      "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
