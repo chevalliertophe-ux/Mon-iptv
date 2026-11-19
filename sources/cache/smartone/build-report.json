@@ -1,9 +1,9 @@
 {
-  "tv": 113,
-  "movies": 787,
+  "tv": 112,
+  "movies": 786,
   "series_episodes": 0,
-  "vod": 787,
-  "total": 900,
+  "vod": 786,
+  "total": 898,
   "sources": [
     "MON-IPTV",
     "FreeCastHub",

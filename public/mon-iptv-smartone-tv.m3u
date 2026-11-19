@@ -9,8 +9,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-id="VoATVPersian.us@SD" tvg-name="VOA Persian TV" tvg-logo="https://ir.voanews.com/Content/responsive/VOA/img/webApp/ico-192x192.png" tvg-country="IR" tvg-language="Persian" group-title="TV | IR | News" tvg-type="live",VOA Persian TV
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us@SD" tvg-name="District of Columbia Network (DCN)" tvg-logo="https://entertainment.dc.gov/sites/default/files/dc/sites/entertainment/featured_content/images/logo.png" tvg-country="US" tvg-language="English" group-title="TV | US | Government" tvg-type="live",District of Columbia Network (DCN)
-https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="TV | News" tvg-type="live" tvg-name="DW English",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="TV | News" tvg-type="live" tvg-name="DW Arabic",DW Arabic
