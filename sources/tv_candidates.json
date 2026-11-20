@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T15:47:19.913360+00:00",
-  "total_candidates": 1098,
+  "updated_at": "2026-11-20T15:30:02.023927+00:00",
+  "total_candidates": 1099,
   "channels": [
     {
       "name": "6ter (720p)",
@@ -1169,7 +1169,7 @@
       "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8",
       "country": "France",
       "group": "Kids",
-      "logo": "https://i.imgur.com/OWRUPA4.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -5098,15 +5098,6 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Rai Sport",
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=843891896",
-      "country": "Italie",
-      "group": "Sports",
-      "logo": "https://i.imgur.com/6PEevOM.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
       "name": "Rai Storia (1080p)",
       "url": "http://team-tv.co:81/raistoria/index.m3u8",
       "country": "Italie",
@@ -8131,6 +8122,15 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Nickelodeon (Spain)",
+      "url": "http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8",
+      "country": "Espagne",
+      "group": "Kids",
+      "logo": "https://i.imgur.com/E84jnP8.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "Nickelodeon (Spain) HD (1080p)",
       "url": "http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8",
       "country": "Espagne",
@@ -9396,6 +9396,15 @@
       "country": "Espagne",
       "group": "Series",
       "logo": "https://i.imgur.com/1m7kDmc.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Rai Sport",
+      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=843891896",
+      "country": "Italie",
+      "group": "Sports",
+      "logo": "https://i.imgur.com/6PEevOM.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
