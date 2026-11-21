@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T15:30:02.023927+00:00",
-  "total_candidates": 1099,
+  "updated_at": "2026-11-21T14:40:54.097854+00:00",
+  "total_candidates": 1105,
   "channels": [
     {
       "name": "6ter (720p)",
@@ -310,7 +310,16 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Canal+ Sport (France) (1080p) [Geo-blocked]",
+      "name": "Canal J (1080p)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b",
+      "country": "France",
+      "group": "Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Canal+ Sport (1080p) [Geo-blocked]",
       "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
       "country": "France",
       "group": "Sports",
@@ -454,8 +463,8 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Cine+ Classic",
-      "url": "http://99.27.51.147/CineClassic/index.m3u8",
+      "name": "Cine+ Classic (1080p)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027",
       "country": "France",
       "group": "Movies",
       "logo": "https://i.imgur.com/y2zeLS3.jpeg",
@@ -549,6 +558,15 @@
       "country": "France",
       "group": "Entertainment",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Disney Channel (France)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5",
+      "country": "Suisse",
+      "group": "Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -1417,15 +1435,6 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Ridiculousness (Germany) (720p)",
-      "url": "https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8",
-      "country": "France",
-      "group": "Comedy",
-      "logo": "https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
       "name": "RMC Decouverte (1080p)",
       "url": "https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8",
       "country": "France",
@@ -1579,15 +1588,6 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Teen Mom (Germany) FR (720p)",
-      "url": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8",
-      "country": "France",
-      "group": "Entertainment",
-      "logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
       "name": "TeleGohelle",
       "url": "https://videas.agglo-lenslievin.fr/index.m3u8",
       "country": "France",
@@ -1660,15 +1660,6 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Tortues Ninja TV (Germany) (720p)",
-      "url": "https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8",
-      "country": "France",
-      "group": "Kids",
-      "logo": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
       "name": "Tout le monde deteste Chris",
       "url": "https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8",
       "country": "France",
@@ -1714,8 +1705,8 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Trace Brazuca (1080p)",
-      "url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
+      "name": "Trace Brazuca (1090p)",
+      "url": "https://channels.trace.plus/Traceprod/BRAZIL_sd/index.m3u8",
       "country": "France",
       "group": "Music",
       "logo": "https://i.imgur.com/DFBocPu.png",
@@ -2956,47 +2947,11 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "South Park: Cartman Collection (Germany)",
-      "url": "https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8",
-      "country": "Suisse",
-      "group": "Animation;Comedy",
-      "logo": "https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "South Park: Kenny Collection (Germany)",
-      "url": "https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8",
-      "country": "Suisse",
-      "group": "Animation;Comedy",
-      "logo": "https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "South Park: Kyle Collection (Germany)",
-      "url": "https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8",
-      "country": "Suisse",
-      "group": "Animation;Comedy",
-      "logo": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
       "name": "South Park: Original Version",
       "url": "https://jmp2.uk/plu-646b150a15939400089e2702.m3u8",
       "country": "Suisse",
       "group": "Animation;Comedy",
       "logo": "https://images.pluto.tv/channels/646b150a15939400089e2702/colorLogoPNG.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "South Park: Stan Collection (Germany)",
-      "url": "https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8",
-      "country": "Suisse",
-      "group": "Animation;Comedy",
-      "logo": "https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -3015,15 +2970,6 @@
       "country": "Suisse",
       "group": "Undefined",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/960px-Logo_SRF_info.svg.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "Star Trek: The Next Generation (Germany)",
-      "url": "https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8",
-      "country": "Suisse",
-      "group": "Movies;Series",
-      "logo": "https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -3096,15 +3042,6 @@
       "country": "Suisse",
       "group": "Series",
       "logo": "https://images.pluto.tv/channels/68d2759a59fd82da3226492d/colorLogoPNG_1769617985920.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "Totally Turtles (Germany) (720p)",
-      "url": "https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8",
-      "country": "Suisse",
-      "group": "Kids",
-      "logo": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -3393,15 +3330,6 @@
       "country": "Italie",
       "group": "General",
       "logo": "https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "Boomerang (Italy)",
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2705627802",
-      "country": "Italie",
-      "group": "Kids",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -5485,20 +5413,20 @@
       "rights_status": "not_verified"
     },
     {
+      "name": "Sky Sport F1 (Italy)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d",
+      "country": "Italie",
+      "group": "Sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
       "name": "Sophia TV (Italy) (720p)",
       "url": "https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8",
       "country": "Italie",
       "group": "Undefined",
       "logo": "https://i.imgur.com/RPXusvS.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "South Park (Germany) IT",
-      "url": "https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8",
-      "country": "Italie",
-      "group": "Animation;Comedy",
-      "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -5535,15 +5463,6 @@
       "country": "Italie",
       "group": "Sports",
       "logo": "https://i.imgur.com/hu56Ya5.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "Star Trek: Voyager (Germany) IT",
-      "url": "https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8",
-      "country": "Italie",
-      "group": "Movies;Series",
-      "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -5670,15 +5589,6 @@
       "country": "Italie",
       "group": "Culture",
       "logo": "https://i.imgur.com/GbyLSc2.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "Teen Mom (Germany)",
-      "url": "https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8",
-      "country": "Italie",
-      "group": "Entertainment",
-      "logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -6673,8 +6583,8 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "AXN (Spain)",
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4238619703",
+      "name": "AXN (Spain) (1080p)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703",
       "country": "Espagne",
       "group": "Movies",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
@@ -6687,15 +6597,6 @@
       "country": "Espagne",
       "group": "Movies",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "AXN Movies (Spain)",
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2493319111",
-      "country": "Espagne",
-      "group": "Movies",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -8779,15 +8680,6 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "Rugrats (Germany)",
-      "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8",
-      "country": "Espagne",
-      "group": "Kids",
-      "logo": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
       "name": "SensaCine TV x Pluto",
       "url": "https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8",
       "country": "Espagne",
@@ -8833,15 +8725,6 @@
       "rights_status": "not_verified"
     },
     {
-      "name": "South Park (Germany)",
-      "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8",
-      "country": "Espagne",
-      "group": "Animation;Comedy",
-      "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
       "name": "South Park Version Original",
       "url": "https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8",
       "country": "Espagne",
@@ -8865,15 +8748,6 @@
       "country": "Espagne",
       "group": "Movies;Series",
       "logo": "https://i.imgur.com/9y8VcBr.png",
-      "status": "candidate_to_verify",
-      "rights_status": "not_verified"
-    },
-    {
-      "name": "Star Trek: Voyager (Germany)",
-      "url": "https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8",
-      "country": "Espagne",
-      "group": "Movies;Series",
-      "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
@@ -9396,6 +9270,186 @@
       "country": "Espagne",
       "group": "Series",
       "logo": "https://i.imgur.com/1m7kDmc.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Cine+ Classic",
+      "url": "http://99.27.51.147/CineClassic/index.m3u8",
+      "country": "France",
+      "group": "Movies",
+      "logo": "https://i.imgur.com/y2zeLS3.jpeg",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Ridiculousness (Germany) (720p)",
+      "url": "https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8",
+      "country": "France",
+      "group": "Comedy",
+      "logo": "https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Teen Mom (Germany) FR (720p)",
+      "url": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8",
+      "country": "France",
+      "group": "Entertainment",
+      "logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Tortues Ninja TV (Germany) (720p)",
+      "url": "https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8",
+      "country": "France",
+      "group": "Kids",
+      "logo": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Trace Brazuca (1080p)",
+      "url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
+      "country": "France",
+      "group": "Music",
+      "logo": "https://i.imgur.com/DFBocPu.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "South Park: Cartman Collection (Germany)",
+      "url": "https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8",
+      "country": "Suisse",
+      "group": "Animation;Comedy",
+      "logo": "https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "South Park: Kenny Collection (Germany)",
+      "url": "https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8",
+      "country": "Suisse",
+      "group": "Animation;Comedy",
+      "logo": "https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "South Park: Kyle Collection (Germany)",
+      "url": "https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8",
+      "country": "Suisse",
+      "group": "Animation;Comedy",
+      "logo": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "South Park: Stan Collection (Germany)",
+      "url": "https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8",
+      "country": "Suisse",
+      "group": "Animation;Comedy",
+      "logo": "https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Star Trek: The Next Generation (Germany)",
+      "url": "https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8",
+      "country": "Suisse",
+      "group": "Movies;Series",
+      "logo": "https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Totally Turtles (Germany) (720p)",
+      "url": "https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8",
+      "country": "Suisse",
+      "group": "Kids",
+      "logo": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Boomerang (Italy)",
+      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2705627802",
+      "country": "Italie",
+      "group": "Kids",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "South Park (Germany) IT",
+      "url": "https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8",
+      "country": "Italie",
+      "group": "Animation;Comedy",
+      "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Star Trek: Voyager (Germany) IT",
+      "url": "https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8",
+      "country": "Italie",
+      "group": "Movies;Series",
+      "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Teen Mom (Germany)",
+      "url": "https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8",
+      "country": "Italie",
+      "group": "Entertainment",
+      "logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "AXN (Spain)",
+      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4238619703",
+      "country": "Espagne",
+      "group": "Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "AXN Movies (Spain)",
+      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2493319111",
+      "country": "Espagne",
+      "group": "Movies",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Rugrats (Germany)",
+      "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8",
+      "country": "Espagne",
+      "group": "Kids",
+      "logo": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "South Park (Germany)",
+      "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8",
+      "country": "Espagne",
+      "group": "Animation;Comedy",
+      "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
+      "status": "candidate_to_verify",
+      "rights_status": "not_verified"
+    },
+    {
+      "name": "Star Trek: Voyager (Germany)",
+      "url": "https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8",
+      "country": "Espagne",
+      "group": "Movies;Series",
+      "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
       "status": "candidate_to_verify",
       "rights_status": "not_verified"
     },
